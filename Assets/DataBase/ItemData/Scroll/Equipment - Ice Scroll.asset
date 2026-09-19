@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: Equipment - Ice Scroll
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0.1, y: 0.1, z: 1}
+  itemName: "H\xE0n H\u1ED3n B\u1EA1o Ph\xF9"
+  itemIcon: {fileID: 21300000, guid: 197364300569b0c4e860c6c97248597a, type: 3}
+  itemType: 6
+  description: " Ph\xF9 l\u1EE5c \u0111\u01B0\u1EE3c kh\u1EAFc b\u1EB1ng h\xE0n kh\xED,
+    ch\u1EC9 ph\xE1t \u0111\u1ED9ng khi ch\u1EE7 nh\xE2n l\xE2m v\xE0o tuy\u1EC7t
+    c\u1EA3nh. Khi sinh m\u1EC7nh gi\u1EA3m xu\u1ED1ng d\u01B0\u1EDBi ng\u01B0\u1EE1ng
+    nh\u1EA5t \u0111\u1ECBnh, ph\xF9 l\u1EE5c t\u1EF1 \u0111\u1ED9ng k\xEDch ho\u1EA1t,
+    gi\u1EA3i ph\xF3ng H\xE0n H\u1ED3n B\u0103ng B\u1EA1o quanh b\u1EA3n th\xE2n,
+    g\xE2y s\xE1t th\u01B0\u01A1ng d\u1EF1a tr\xEAn c\xF4ng k\xEDch c\u1EE7a ch\u1EE7
+    nh\xE2n l\xEAn to\xE0n b\u1ED9 k\u1EBB \u0111\u1ECBch trong ph\u1EA1m vi v\xE0
+    khi\u1EBFn ch\xFAng r\u01A1i v\xE0o tr\u1EA1ng th\xE1i L\xE0m Ch\u1EADm trong
+    m\u1ED9t kho\u1EA3ng th\u1EDDi gian."
+  maxStackSize: 1
+  itemEffect: {fileID: 11400000, guid: a9f266191b24ae741b6c935dde2a0a24, type: 2}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 10
+  - startType: 4
+    value: 2

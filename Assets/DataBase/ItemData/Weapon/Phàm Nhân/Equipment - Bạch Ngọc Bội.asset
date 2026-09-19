@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - B\u1EA1ch Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: adcc11ffab2123e448ca8b8735fc95e1
+  moneyType: 0
+  itemPrice: 100
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "B\u1EA1ch Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: 21300000, guid: 3104f010def83c6469c97212364183f0, type: 3}
+  itemType: 3
+  description: " M\u1ED9t mi\u1EBFng ng\u1ECDc tr\u1EAFng \u0111\u01B0\u1EE3c m\xE0i
+    th\u1EE7 c\xF4ng, th\u01B0\u1EDDng \u0111\u01B0\u1EE3c ng\u01B0\u1EDDi ph\xE0m
+    mang theo nh\u01B0 v\u1EADt h\u1ED9 th\xE2n v\xE0 trang s\u1EE9c."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 0
+    value: 23

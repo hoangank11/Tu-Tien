@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Th\u01B0\u01A1ng Nh\xE2n D\u01B0\u1EE3c"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "T\xF4n B\xE0 B\xE0"
+  speaker: {fileID: 11400000, guid: aed5300512d48d6488456321596dd78c, type: 2}
+  textLine:
+  - " C\u1EADu nh\xF3c h\u1ECD H\xE0n \u0111\u1EA5y \xE0?"
+  - " \u0110\u1EBFn xem xem h\xF4m nay ta chu\u1EA9n b\u1ECB nhi\u1EC1u lo\u1EA1i
+    nguy\xEAn li\u1EC7u qu\xFD hi\u1EBFm l\u1EAFm \u0111\xF3."
+  - " \u1EDE \u0111\xE2y ta b\xE1n r\u1EA5t r\u1EBB r\u1ED3i \u0111\xF3, ta ngh\u0129
+    c\xF3 khi ta l\xE0 ng\u01B0\u1EDDi b\xE1n r\u1EBB nh\u1EA5t Thanh Ch\xE2u n\xE0y
+    \u0111\xF3."
+  - " Ch\xEDnh s\u1EF1 khi\u1EBFn cho thu\u1EBF l\u1EA1i t\u0103ng l\xEAn, vi\u1EC7c
+    kinh doanh c\u0169ng d\u1EA7n tr\u1EDF n\xEAn kh\xF3 kh\u0103n h\u01A1n tr\u01B0\u1EDBc
+    r\u1EA5t nhi\u1EC1u!!"
+  actionLine: 
+  actionType: 7
+  choiceLine:
+  - {fileID: 11400000, guid: d0b7d02fd36caf540bdd46d793eb18f8, type: 2}
+  - {fileID: 11400000, guid: 2302bb3e8983c4f458703aaa307fdf62, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Huy\u1EC1n Nguy\u1EC7t Kim B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: 49672e616e27a484abc7f585d6c1461e
+  moneyType: 1
+  itemPrice: 42000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EC1n Nguy\u1EC7t Kim B\u1ED9i"
+  itemIcon: {fileID: -4429745964803315216, guid: a47cc5883d37d9549be0ffe314384ccc, type: 3}
+  itemType: 3
+  description: " Kim b\u1ED9i m\xE0u b\u1EA1c \u0111en, \u0111\u01B0\u1EE3c luy\u1EC7n
+    t\u1EEB huy\u1EC1n nguy\u1EC7t ng\u1ECDc tinh."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 100
+  - startType: 14
+    value: 8
+  - startType: 15
+    value: 8
+  - startType: 16
+    value: 8
+  - startType: 17
+    value: 8
+  - startType: 18
+    value: 8
+  - startType: 20
+    value: 8

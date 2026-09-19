@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 2a9bed5e52e313b4b9170e7b3d9b5a60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2450004530593677610
+    second: "Tr\xE2u c\xE1i-walk_0"
+  - first:
+      213: -1324953041808632582
+    second: "Tr\xE2u c\xE1i-walk_1"
+  - first:
+      213: -5102342262736425861
+    second: "Tr\xE2u c\xE1i-walk_2"
+  - first:
+      213: -3904605860374331163
+    second: "Tr\xE2u c\xE1i-walk_3"
+  - first:
+      213: -2892397483752997068
+    second: "Tr\xE2u c\xE1i-walk_4"
+  - first:
+      213: 8878265448960361187
+    second: "Tr\xE2u c\xE1i-walk_5"
+  - first:
+      213: -369941273187635072
+    second: "Tr\xE2u c\xE1i-walk_6"
+  - first:
+      213: 4514990013864910773
+    second: "Tr\xE2u c\xE1i-walk_7"
+  - first:
+      213: 3440771237328588463
+    second: "Tr\xE2u c\xE1i-walk_8"
+  - first:
+      213: 4303895084242829848
+    second: "Tr\xE2u c\xE1i-walk_9"
+  - first:
+      213: 5073636690607366483
+    second: "Tr\xE2u c\xE1i-walk_10"
+  - first:
+      213: -622802914062648399
+    second: "Tr\xE2u c\xE1i-walk_11"
+  - first:
+      213: 3569393331218393054
+    second: "Tr\xE2u c\xE1i-walk_12"
+  - first:
+      213: 8934731410909850971
+    second: "Tr\xE2u c\xE1i-walk_13"
+  - first:
+      213: 939160942462794696
+    second: "Tr\xE2u c\xE1i-walk_14"
+  - first:
+      213: 7207722450806493220
+    second: "Tr\xE2u c\xE1i-walk_15"
+  - first:
+      213: 7686691180182478242
+    second: "Tr\xE2u c\xE1i-walk_16"
+  - first:
+      213: -2688869010497094520
+    second: "Tr\xE2u c\xE1i-walk_17"
+  - first:
+      213: 9212820466451832172
+    second: "Tr\xE2u c\xE1i-walk_18"
+  - first:
+      213: 5576480715279968096
+    second: "Tr\xE2u c\xE1i-walk_19"
+  - first:
+      213: 8297492739197890955
+    second: "Tr\xE2u c\xE1i-walk_20"
+  - first:
+      213: 2823667711931185991
+    second: "Tr\xE2u c\xE1i-walk_21"
+  - first:
+      213: -2879484207813197296
+    second: "Tr\xE2u c\xE1i-walk_22"
+  - first:
+      213: -6184777008060866322
+    second: "Tr\xE2u c\xE1i-walk_23"
+  - first:
+      213: 6963190260590312889
+    second: "Tr\xE2u c\xE1i-walk_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6debddf2cd5dffdd0800000000000000
+      internalID: -2450004530593677610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af45ce67a32dc9de0800000000000000
+      internalID: -1324953041808632582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ce123deb6d039b0800000000000000
+      internalID: -5102342262736425861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0ca7058ad00d9c0800000000000000
+      internalID: -3904605860374331163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3ba720d32cd7d0800000000000000
+      internalID: -2892397483752997068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e208e2036fe53b70800000000000000
+      internalID: 8878265448960361187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_6"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08035ef3f54bddaf0800000000000000
+      internalID: -369941273187635072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_7"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf9ad40f7778ae30800000000000000
+      internalID: 4514990013864910773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_8"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae0a5ad53310cf20800000000000000
+      internalID: 3440771237328588463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_9"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81208dea6c18abb30800000000000000
+      internalID: 4303895084242829848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3516a0750bd296640800000000000000
+      internalID: 5073636690607366483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbb736ac0c5b57f0800000000000000
+      internalID: -622802914062648399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_12"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7abe2c258098130800000000000000
+      internalID: 3569393331218393054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_13"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d6ec641ea8efb70800000000000000
+      internalID: 8934731410909850971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_14"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb7a6ab6e1980d00800000000000000
+      internalID: 939160942462794696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ddef7169f60460800000000000000
+      internalID: 7207722450806493220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_16"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad97ec07ec9caa60800000000000000
+      internalID: 7686691180182478242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_17"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cb3c591e73faad0800000000000000
+      internalID: -2688869010497094520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_18"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5f4217638adf70800000000000000
+      internalID: 9212820466451832172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_19"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06724134aa3a36d40800000000000000
+      internalID: 5576480715279968096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81f54e2fad962370800000000000000
+      internalID: 8297492739197890955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bf565d2deaf2720800000000000000
+      internalID: 2823667711931185991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_22"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01282f08e540a08d0800000000000000
+      internalID: -2879484207813197296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0678b54124b2aa0800000000000000
+      internalID: -6184777008060866322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tr\xE2u c\xE1i-walk_24"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdf1f146a832a060800000000000000
+      internalID: 6963190260590312889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a30959f875cbcd4fa5419f04c8163c2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Tr\xE2u c\xE1i-walk_0": -2450004530593677610
+      "Tr\xE2u c\xE1i-walk_1": -1324953041808632582
+      "Tr\xE2u c\xE1i-walk_10": 5073636690607366483
+      "Tr\xE2u c\xE1i-walk_11": -622802914062648399
+      "Tr\xE2u c\xE1i-walk_12": 3569393331218393054
+      "Tr\xE2u c\xE1i-walk_13": 8934731410909850971
+      "Tr\xE2u c\xE1i-walk_14": 939160942462794696
+      "Tr\xE2u c\xE1i-walk_15": 7207722450806493220
+      "Tr\xE2u c\xE1i-walk_16": 7686691180182478242
+      "Tr\xE2u c\xE1i-walk_17": -2688869010497094520
+      "Tr\xE2u c\xE1i-walk_18": 9212820466451832172
+      "Tr\xE2u c\xE1i-walk_19": 5576480715279968096
+      "Tr\xE2u c\xE1i-walk_2": -5102342262736425861
+      "Tr\xE2u c\xE1i-walk_20": 8297492739197890955
+      "Tr\xE2u c\xE1i-walk_21": 2823667711931185991
+      "Tr\xE2u c\xE1i-walk_22": -2879484207813197296
+      "Tr\xE2u c\xE1i-walk_23": -6184777008060866322
+      "Tr\xE2u c\xE1i-walk_24": 6963190260590312889
+      "Tr\xE2u c\xE1i-walk_3": -3904605860374331163
+      "Tr\xE2u c\xE1i-walk_4": -2892397483752997068
+      "Tr\xE2u c\xE1i-walk_5": 8878265448960361187
+      "Tr\xE2u c\xE1i-walk_6": -369941273187635072
+      "Tr\xE2u c\xE1i-walk_7": 4514990013864910773
+      "Tr\xE2u c\xE1i-walk_8": 3440771237328588463
+      "Tr\xE2u c\xE1i-walk_9": 4303895084242829848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79b5ca4245a2314cb6acc141b2237ab, type: 3}
+  m_Name: "Quest - Ph\xE0m Nh\xE2n MainQuest01"
+  m_EditorClassIdentifier: 
+  questSaveID: c5f3bdbac49cb1c47af144cdd1e7ed6e
+  questType: 0
+  missionType: 1
+  questName: "Ch\u01B0\u01A1ng 01: Nguy\xEAn Do?"
+  description: "\u0110i g\u1EB7p tr\u01B0\u1EDFng th\xF4n \u0111\u1EC3 h\u1ECFi th\u0103m
+    t\xECnh h\xECnh hi\u1EC7n t\u1EA1i c\u1EE7a gia \u0111\xECnh"
+  questGoal: "- n\xF3i chuy\u1EC7n v\u1EDBi tr\u01B0\u1EDFng th\xF4n"
+  questTargetID: TruongThon
+  requiredAmount: 1
+  itemToDelivery: {fileID: 0}
+  itemNeedToCollect: {fileID: 0}
+  rewardType: 4
+  rewardItems: []
+  moneyType: 0
+  moneyAmount: 150

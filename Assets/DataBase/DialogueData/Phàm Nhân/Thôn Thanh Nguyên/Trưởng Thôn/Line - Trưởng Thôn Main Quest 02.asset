@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Tr\u01B0\u1EDFng Th\xF4n Main Quest 02"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "L\xFD Tr\u01B0\u1EDFng Th\xF4n"
+  speaker: {fileID: 11400000, guid: 106131b2328ad7249a9e8418863540c6, type: 2}
+  textLine:
+  - " <Ch\xEDnh> Sao l\u1EA1i v\u1EADy. Ch\u1EB3ng ph\u1EA3i n\u01A1i \u0111\xF3
+    r\u1EA5t nguy hi\u1EC3m sao? Hai ng\u01B0\u1EDDi h\u1ECD th\u01B0\u1EDDng ng\xE0y
+    v\u1EABn nh\u1EAFc nh\u1EDF con l\xE0 kh\xF4ng \u0111\u01B0\u1EE3c t\u1EDBi \u0111\xF3
+    sao? "
+  actionLine: " H\u1EEBm.... H\xF3a ra con c\u0169ng kh\xF4ng bi\u1EBFt chuy\u1EC7n
+    g\xEC sao? Ta c\xF2n \u0111\u1ECBnh \u0111\u1EE3i s\xE1ng nay qua h\u1ECFi con
+    \u0111i\u1EC1u \u0111\xF3 c\u01A1."
+  actionType: 7
+  choiceLine:
+  - {fileID: 11400000, guid: 988b3ab4e919da74dbb4bad0028fc019, type: 2}
+  canExceptQuest: {fileID: 0}
+  canDeleteThisDialogueLineChoice: 0

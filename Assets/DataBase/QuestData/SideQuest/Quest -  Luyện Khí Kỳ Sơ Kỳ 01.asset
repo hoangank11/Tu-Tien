@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79b5ca4245a2314cb6acc141b2237ab, type: 3}
+  m_Name: "Quest -  Luy\u1EC7n Kh\xED K\u1EF3 S\u01A1 K\u1EF3 01"
+  m_EditorClassIdentifier: 
+  questSaveID: 5eb05fdb702b1b44eb4c178a8b6bf7f4
+  questType: 1
+  missionType: 0
+  questName: 1
+  description: 1
+  questGoal: "- Gi\u1EBFt 20 con X\xEDch Linh Chi"
+  questTargetID: XichLinhChi
+  requiredAmount: 20
+  itemToDelivery: {fileID: 0}
+  itemNeedToCollect: {fileID: 0}
+  rewardType: 4
+  rewardItems:
+  - itemData: {fileID: 11400000, guid: eedff1dba09b8be469cb3bf32886ed97, type: 2}
+    stackSize: 10
+    itemEffect: {fileID: 0}
+  moneyType: 1
+  moneyAmount: 160

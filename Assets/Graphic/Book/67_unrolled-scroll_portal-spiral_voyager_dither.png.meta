@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d2b15513482ef2f42905fac39d4bc326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1025427734720090212
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_0
+  - first:
+      213: 5223753502526337345
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_1
+  - first:
+      213: 2990139054185542172
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_2
+  - first:
+      213: 5891915377933603685
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_3
+  - first:
+      213: -3255376908110465477
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_4
+  - first:
+      213: 5292339360773745248
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_5
+  - first:
+      213: -1722077701074235344
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_6
+  - first:
+      213: -5734317607363840786
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_7
+  - first:
+      213: 3228570549169717319
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_8
+  - first:
+      213: -3817977820505169216
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_9
+  - first:
+      213: -2139099530923263182
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_10
+  - first:
+      213: 6635343010342852821
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_11
+  - first:
+      213: 3066977856145515261
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_12
+  - first:
+      213: -753467156019780007
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_13
+  - first:
+      213: 5907538902009074437
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_14
+  - first:
+      213: 1706812271607413322
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_15
+  - first:
+      213: 3021248576714865883
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_16
+  - first:
+      213: -8035873569326597975
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_17
+  - first:
+      213: 9000673155911034913
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_18
+  - first:
+      213: 861165177584361193
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_19
+  - first:
+      213: 847200979872944923
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_20
+  - first:
+      213: 403579151645959722
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_21
+  - first:
+      213: -8689164687705084881
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_22
+  - first:
+      213: 2974469974029663693
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_23
+  - first:
+      213: 1926581367868901788
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_24
+  - first:
+      213: -4741336557413267085
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_25
+  - first:
+      213: -7523630286721738134
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_26
+  - first:
+      213: -7598780192479273076
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_27
+  - first:
+      213: -6169067155233412265
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_28
+  - first:
+      213: 5136646226674012217
+    second: 67_unrolled-scroll_portal-spiral_voyager_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46013de771d0b3e00800000000000000
+      internalID: 1025427734720090212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f84842208e7840800000000000000
+      internalID: 5223753502526337345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1270c990ab1f7920800000000000000
+      internalID: 2990139054185542172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d46cc1d944c150800000000000000
+      internalID: 5891915377933603685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36f01623f392d2d0800000000000000
+      internalID: -3255376908110465477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aacbdcb9a227940800000000000000
+      internalID: 5292339360773745248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03059df6473f918e0800000000000000
+      internalID: -1722077701074235344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47fcf848c9b60b0800000000000000
+      internalID: -5734317607363840786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408c8b0fcf2ecc20800000000000000
+      internalID: 3228570549169717319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c228789661d30bc0800000000000000
+      internalID: -3817977820505169216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3d106f446052e0800000000000000
+      internalID: -2139099530923263182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d85b56ff49751c50800000000000000
+      internalID: 6635343010342852821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2ea815c18109a20800000000000000
+      internalID: 3066977856145515261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95664871d952b85f0800000000000000
+      internalID: -753467156019780007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5035d07f45bcbf150800000000000000
+      internalID: 5907538902009074437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4aff6bc7b0dfa710800000000000000
+      internalID: 1706812271607413322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc7e31c291ade920800000000000000
+      internalID: 3021248576714865883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a876588097da7090800000000000000
+      internalID: -8035873569326597975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128a8753c80d8ec70800000000000000
+      internalID: 9000673155911034913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1ad69a2973fb00800000000000000
+      internalID: 861165177584361193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1390b27dccd1cb00800000000000000
+      internalID: 847200979872944923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a266c94a91dc99500800000000000000
+      internalID: 403579151645959722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c6872f0c2e96780800000000000000
+      internalID: -8689164687705084881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd7a159ea0774920800000000000000
+      internalID: 2974469974029663693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9946beeb879cba10800000000000000
+      internalID: 1926581367868901788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3790fce8583633eb0800000000000000
+      internalID: -4741336557413267085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a949abd12b69790800000000000000
+      internalID: -7523630286721738134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f9ffccca5bb8690800000000000000
+      internalID: -7598780192479273076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b68c08b12136aa0800000000000000
+      internalID: -6169067155233412265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 67_unrolled-scroll_portal-spiral_voyager_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93051cd2788094740800000000000000
+      internalID: 5136646226674012217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d1607fdcbf247c54d946f6c114409561
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      67_unrolled-scroll_portal-spiral_voyager_dither_0: 1025427734720090212
+      67_unrolled-scroll_portal-spiral_voyager_dither_1: 5223753502526337345
+      67_unrolled-scroll_portal-spiral_voyager_dither_10: -2139099530923263182
+      67_unrolled-scroll_portal-spiral_voyager_dither_11: 6635343010342852821
+      67_unrolled-scroll_portal-spiral_voyager_dither_12: 3066977856145515261
+      67_unrolled-scroll_portal-spiral_voyager_dither_13: -753467156019780007
+      67_unrolled-scroll_portal-spiral_voyager_dither_14: 5907538902009074437
+      67_unrolled-scroll_portal-spiral_voyager_dither_15: 1706812271607413322
+      67_unrolled-scroll_portal-spiral_voyager_dither_16: 3021248576714865883
+      67_unrolled-scroll_portal-spiral_voyager_dither_17: -8035873569326597975
+      67_unrolled-scroll_portal-spiral_voyager_dither_18: 9000673155911034913
+      67_unrolled-scroll_portal-spiral_voyager_dither_19: 861165177584361193
+      67_unrolled-scroll_portal-spiral_voyager_dither_2: 2990139054185542172
+      67_unrolled-scroll_portal-spiral_voyager_dither_20: 847200979872944923
+      67_unrolled-scroll_portal-spiral_voyager_dither_21: 403579151645959722
+      67_unrolled-scroll_portal-spiral_voyager_dither_22: -8689164687705084881
+      67_unrolled-scroll_portal-spiral_voyager_dither_23: 2974469974029663693
+      67_unrolled-scroll_portal-spiral_voyager_dither_24: 1926581367868901788
+      67_unrolled-scroll_portal-spiral_voyager_dither_25: -4741336557413267085
+      67_unrolled-scroll_portal-spiral_voyager_dither_26: -7523630286721738134
+      67_unrolled-scroll_portal-spiral_voyager_dither_27: -7598780192479273076
+      67_unrolled-scroll_portal-spiral_voyager_dither_28: -6169067155233412265
+      67_unrolled-scroll_portal-spiral_voyager_dither_29: 5136646226674012217
+      67_unrolled-scroll_portal-spiral_voyager_dither_3: 5891915377933603685
+      67_unrolled-scroll_portal-spiral_voyager_dither_4: -3255376908110465477
+      67_unrolled-scroll_portal-spiral_voyager_dither_5: 5292339360773745248
+      67_unrolled-scroll_portal-spiral_voyager_dither_6: -1722077701074235344
+      67_unrolled-scroll_portal-spiral_voyager_dither_7: -5734317607363840786
+      67_unrolled-scroll_portal-spiral_voyager_dither_8: 3228570549169717319
+      67_unrolled-scroll_portal-spiral_voyager_dither_9: -3817977820505169216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

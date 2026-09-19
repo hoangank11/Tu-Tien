@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Ph\u1EA7n Vi\xEAm Ch\u01B0\u1EDFng"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 3
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Ph\u1EA7n Vi\xEAm Ch\u01B0\u1EDFng"
+  level: 13
+  skillPoint: 200
+  description: " (\u711A\u708E\u638C) T\u1EE5 linh l\u1EF1c v\xE0o l\xF2ng b\xE0n
+    tay, h\xF3a th\xE0nh h\u1ECFa di\u1EC5m r\u1ED3i \u0111\xE1nh ra m\u1ED9t ch\u01B0\u1EDFng
+    h\u1ECFa l\u1EF1c m\u1EA1nh m\u1EBD, thi\xEAu \u0111\u1ED1t v\xE0 \u0111\u1EA9y
+    l\xF9i k\u1EBB \u0111\u1ECBch ph\xEDa tr\u01B0\u1EDBc."
+  icon: {fileID: 21300000, guid: 1262951d668374241a21f5f7dc43e5c7, type: 3}

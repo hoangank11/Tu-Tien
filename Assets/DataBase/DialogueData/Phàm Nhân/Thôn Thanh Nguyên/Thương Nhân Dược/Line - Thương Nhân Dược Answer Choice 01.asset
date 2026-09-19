@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Th\u01B0\u01A1ng Nh\xE2n D\u01B0\u1EE3c Answer Choice 01"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "T\xF4n B\xE0 B\xE0"
+  speaker: {fileID: 11400000, guid: aed5300512d48d6488456321596dd78c, type: 2}
+  textLine:
+  - " B\xE0 b\xE0 ch\xE1u mu\u1ED1n mua \xEDt \u0111\u1ED3."
+  actionLine: " \u0110\u01B0\u1EE3c \u0111\u01B0\u1EE3c v\xE0o c\u1EEDa ti\u1EC7m,
+    v\xE0o c\u1EEDa ti\u1EC7m."
+  actionType: 2
+  choiceLine: []

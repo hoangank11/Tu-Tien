@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 316375c910874e249b8ae6b3f17fbc98, type: 3}
+  m_Name: "List Item - Luy\u1EC7n C\u0103n 6 - Luy\u1EC7n C\u0103n 7"
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: 5c24df0f4f013bc41b6c78b264c22c8c, type: 2}
+  - {fileID: 11400000, guid: 88a905a81e9a56042a031e85482f63d7, type: 2}
+  - {fileID: 11400000, guid: 8513e3face3ff764d9654fd424c35cc5, type: 2}
+  itemAmount: 080000001000000008000000

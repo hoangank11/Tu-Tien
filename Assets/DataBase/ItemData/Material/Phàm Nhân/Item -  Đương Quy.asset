@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item -  \u0110\u01B0\u01A1ng Quy"
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 77
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.15, y: 0.15, z: 1}
+  itemName: "\u0110\u01B0\u01A1ng Quy"
+  itemIcon: {fileID: 21300000, guid: 721e4a5fe874ebd4e8649288e31dd12a, type: 3}
+  itemType: 0
+  description: " R\u1EC5 l\u1EDBn m\xE0u v\xE0ng n\xE2u, nhi\u1EC1u r\u1EC5 con t\u1ECFa
+    ra xung quanh, c\xF3 m\xF9i th\u01A1m nh\u1EB9 \u0111\u1EB7c tr\u01B0ng."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

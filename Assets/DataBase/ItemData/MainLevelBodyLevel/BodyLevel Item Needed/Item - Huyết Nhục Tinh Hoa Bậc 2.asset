@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Huy\u1EBFt Nh\u1EE5c Tinh Hoa B\u1EADc 2"
+  m_EditorClassIdentifier: 
+  saveID: 823cab64c65b55344b4215ab0efdff22
+  moneyType: 1
+  itemPrice: 20000
+  minStackSizeAtShop: 10
+  maxStackSizeAtShop: 20
+  itemRarity: 497
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EBFt Nh\u1EE5c Tinh Hoa B\u1EADc 2"
+  itemIcon: {fileID: 5410953109248665137, guid: f7c529abfa10a294b8a2e1587cb02863, type: 3}
+  itemType: 0
+  description: " Tinh hoa huy\u1EBFt nh\u1EE5c \u0111\xE3 \u0111\u01B0\u1EE3c c\xF4
+    \u0111\u1ECDng nhi\u1EC1u l\u1EA7n, ch\u1EE9a ngu\u1ED3n sinh l\u1EF1c m\u1EA1nh
+    h\u01A1n. L\xE0 nguy\xEAn li\u1EC7u quan tr\u1ECDng \u0111\u1EC3 luy\u1EC7n ch\u1EBF
+    Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 2, h\u1ED7 tr\u1EE3 t\xF4i luy\u1EC7n c\u01A1
+    nh\u1EE5c v\xE0 t\u0103ng kh\u1EA3 n\u0103ng h\u1EA5p thu huy\u1EBFt kh\xED."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

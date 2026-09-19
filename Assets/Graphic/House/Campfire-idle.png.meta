@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 982cf11f08f5ca34994969eb800c0b94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -300012662741917649
+    second: Campfire-idle_0
+  - first:
+      213: 6352459651690904775
+    second: Campfire-idle_1
+  - first:
+      213: -1048138298006027239
+    second: Campfire-idle_2
+  - first:
+      213: -3972134610525783521
+    second: Campfire-idle_3
+  - first:
+      213: -21012773847897203
+    second: Campfire-idle_4
+  - first:
+      213: -5519608087278309802
+    second: Campfire-idle_5
+  - first:
+      213: -2924168216997298123
+    second: Campfire-idle_6
+  - first:
+      213: -1817941135539626321
+    second: Campfire-idle_7
+  - first:
+      213: 6081882760243672094
+    second: Campfire-idle_8
+  - first:
+      213: -8599119531005140555
+    second: Campfire-idle_9
+  - first:
+      213: -8112173309327240192
+    second: Campfire-idle_10
+  - first:
+      213: -2646578019035865237
+    second: Campfire-idle_11
+  - first:
+      213: 4554274156213471520
+    second: Campfire-idle_12
+  - first:
+      213: -2766767791231245776
+    second: Campfire-idle_13
+  - first:
+      213: -3652012744287460359
+    second: Campfire-idle_14
+  - first:
+      213: 4937069351012615006
+    second: Campfire-idle_15
+  - first:
+      213: 1038414943821555678
+    second: Campfire-idle_16
+  - first:
+      213: -3582394549157125817
+    second: Campfire-idle_17
+  - first:
+      213: -4830624446871140125
+    second: Campfire-idle_18
+  - first:
+      213: 5053619359854900492
+    second: Campfire-idle_19
+  - first:
+      213: -3372459658889246380
+    second: Campfire-idle_20
+  - first:
+      213: -4204249748495514620
+    second: Campfire-idle_21
+  - first:
+      213: 3531840894347963784
+    second: Campfire-idle_22
+  - first:
+      213: 7416161071295069667
+    second: Campfire-idle_23
+  - first:
+      213: -2975171184626161508
+    second: Campfire-idle_24
+  - first:
+      213: 8053082628456877944
+    second: Campfire-idle_25
+  - first:
+      213: 7415729814507069002
+    second: Campfire-idle_26
+  - first:
+      213: 7337631776267980651
+    second: Campfire-idle_27
+  - first:
+      213: -5059862562791624217
+    second: Campfire-idle_28
+  - first:
+      213: -3432208369821274038
+    second: Campfire-idle_29
+  - first:
+      213: -5505259212389201168
+    second: Campfire-idle_30
+  - first:
+      213: -548545877883125177
+    second: Campfire-idle_31
+  - first:
+      213: 428105641419505660
+    second: Campfire-idle_32
+  - first:
+      213: -1157075668113039381
+    second: Campfire-idle_33
+  - first:
+      213: -8315638567934090850
+    second: Campfire-idle_34
+  - first:
+      213: -3316382281382865136
+    second: Campfire-idle_35
+  - first:
+      213: 3983318878210618237
+    second: Campfire-idle_36
+  - first:
+      213: -6190868801619004617
+    second: Campfire-idle_37
+  - first:
+      213: 6383128399233520959
+    second: Campfire-idle_38
+  - first:
+      213: 6851364914341792921
+    second: Campfire-idle_39
+  - first:
+      213: -3967536442174813165
+    second: Campfire-idle_40
+  - first:
+      213: 4699916268503335718
+    second: Campfire-idle_41
+  - first:
+      213: -5732505470853792921
+    second: Campfire-idle_42
+  - first:
+      213: -2933980150350333280
+    second: Campfire-idle_43
+  - first:
+      213: -8866190230293169204
+    second: Campfire-idle_44
+  - first:
+      213: -5649619444046111131
+    second: Campfire-idle_45
+  - first:
+      213: 8571449341305410217
+    second: Campfire-idle_46
+  - first:
+      213: 1865812374059143937
+    second: Campfire-idle_47
+  - first:
+      213: -4567629006954096359
+    second: Campfire-idle_48
+  - first:
+      213: -143946725779597565
+    second: Campfire-idle_49
+  - first:
+      213: -5735952797060672230
+    second: Campfire-idle_50
+  - first:
+      213: 2494912217824695313
+    second: Campfire-idle_51
+  - first:
+      213: -7202066539654437868
+    second: Campfire-idle_52
+  - first:
+      213: 7219650667930996941
+    second: Campfire-idle_53
+  - first:
+      213: 5585471067941520773
+    second: Campfire-idle_54
+  - first:
+      213: 6184953049218905170
+    second: Campfire-idle_55
+  - first:
+      213: 679972884964434734
+    second: Campfire-idle_56
+  - first:
+      213: -6275935667912675880
+    second: Campfire-idle_57
+  - first:
+      213: -5241633816141752113
+    second: Campfire-idle_58
+  - first:
+      213: -7041812529036226376
+    second: Campfire-idle_59
+  - first:
+      213: 3063974695468773074
+    second: Campfire-idle_60
+  - first:
+      213: 6048733188373934492
+    second: Campfire-idle_61
+  - first:
+      213: 5161866889540285143
+    second: Campfire-idle_62
+  - first:
+      213: -5853103545551010981
+    second: Campfire-idle_63
+  - first:
+      213: 2003854452727163936
+    second: Campfire-idle_64
+  - first:
+      213: 8549254030431301807
+    second: Campfire-idle_65
+  - first:
+      213: -2615026761616006999
+    second: Campfire-idle_66
+  - first:
+      213: 2235800238715292561
+    second: Campfire-idle_67
+  - first:
+      213: 6017462309717509652
+    second: Campfire-idle_68
+  - first:
+      213: -1839575872763287621
+    second: Campfire-idle_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Campfire-idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f202621a21426dbf0800000000000000
+      internalID: -300012662741917649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccb90d7568782850800000000000000
+      internalID: 6352459651690904775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144edf65c34471f0800000000000000
+      internalID: -1048138298006027239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a7393fd9420e8c0800000000000000
+      internalID: -3972134610525783521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bec075ef855bff0800000000000000
+      internalID: -21012773847897203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e276250b96663b0800000000000000
+      internalID: -5519608087278309802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308362ef744b67d0800000000000000
+      internalID: -2924168216997298123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae17994b2065c6e0800000000000000
+      internalID: -1817941135539626321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1475e1b520376450800000000000000
+      internalID: 6081882760243672094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a05db85ac9a880800000000000000
+      internalID: -8599119531005140555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0041525fa55cb6f80800000000000000
+      internalID: -8112173309327240192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f92095057754bd0800000000000000
+      internalID: -2646578019035865237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02988da2738043f30800000000000000
+      internalID: 4554274156213471520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0326ba35a577a99d0800000000000000
+      internalID: -2766767791231245776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3eb8d12c1715dc0800000000000000
+      internalID: -3652012744287460359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534392ca6ef38440800000000000000
+      internalID: 4937069351012615006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7e0ffb3e0396e00800000000000000
+      internalID: 1038414943821555678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741a13c4327c84ec0800000000000000
+      internalID: -3582394549157125817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88de8c8ac26fcb0800000000000000
+      internalID: -4830624446871140125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0530365800122640800000000000000
+      internalID: 5053619359854900492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459429ceecd9231d0800000000000000
+      internalID: -3372459658889246380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40446e9f02187a5c0800000000000000
+      internalID: -4204249748495514620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88deec6b49e930130800000000000000
+      internalID: 3531840894347963784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed7f9ba33f7be660800000000000000
+      internalID: 7416161071295069667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Campfire-idle_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98216a129116b6d0800000000000000
+      internalID: -2975171184626161508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a7d73c8d2570dbe44bc218a2d8ef8853
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Campfire-idle_0: -300012662741917649
+      Campfire-idle_1: 6352459651690904775
+      Campfire-idle_10: -8112173309327240192
+      Campfire-idle_11: -2646578019035865237
+      Campfire-idle_12: 4554274156213471520
+      Campfire-idle_13: -2766767791231245776
+      Campfire-idle_14: -3652012744287460359
+      Campfire-idle_15: 4937069351012615006
+      Campfire-idle_16: 1038414943821555678
+      Campfire-idle_17: -3582394549157125817
+      Campfire-idle_18: -4830624446871140125
+      Campfire-idle_19: 5053619359854900492
+      Campfire-idle_2: -1048138298006027239
+      Campfire-idle_20: -3372459658889246380
+      Campfire-idle_21: -4204249748495514620
+      Campfire-idle_22: 3531840894347963784
+      Campfire-idle_23: 7416161071295069667
+      Campfire-idle_24: -2975171184626161508
+      Campfire-idle_3: -3972134610525783521
+      Campfire-idle_4: -21012773847897203
+      Campfire-idle_5: -5519608087278309802
+      Campfire-idle_6: -2924168216997298123
+      Campfire-idle_7: -1817941135539626321
+      Campfire-idle_8: 6081882760243672094
+      Campfire-idle_9: -8599119531005140555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

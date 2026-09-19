@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: a083ff8dc5e6d6542ac6f06ea3b13dec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8011360105757245229
+    second: potion_40_ranger_field_nopalette_0
+  - first:
+      213: -4663651788278725977
+    second: potion_40_ranger_field_nopalette_1
+  - first:
+      213: -7950188554972974338
+    second: potion_40_ranger_field_nopalette_2
+  - first:
+      213: 4189787109277142264
+    second: potion_40_ranger_field_nopalette_3
+  - first:
+      213: -3399046567808116390
+    second: potion_40_ranger_field_nopalette_4
+  - first:
+      213: 962241308081636518
+    second: potion_40_ranger_field_nopalette_5
+  - first:
+      213: 6688723549912270957
+    second: potion_40_ranger_field_nopalette_6
+  - first:
+      213: 4497268181994903425
+    second: potion_40_ranger_field_nopalette_7
+  - first:
+      213: -3464903527186754995
+    second: potion_40_ranger_field_nopalette_8
+  - first:
+      213: -3077564618539027732
+    second: potion_40_ranger_field_nopalette_9
+  - first:
+      213: 7412713013977426414
+    second: potion_40_ranger_field_nopalette_10
+  - first:
+      213: -5247645144956172689
+    second: potion_40_ranger_field_nopalette_11
+  - first:
+      213: 8437182145779309677
+    second: potion_40_ranger_field_nopalette_12
+  - first:
+      213: 8380952787176966530
+    second: potion_40_ranger_field_nopalette_13
+  - first:
+      213: 7376175924492812559
+    second: potion_40_ranger_field_nopalette_14
+  - first:
+      213: 5219947054365162552
+    second: potion_40_ranger_field_nopalette_15
+  - first:
+      213: -3068385364039477745
+    second: potion_40_ranger_field_nopalette_16
+  - first:
+      213: 6566031847860246638
+    second: potion_40_ranger_field_nopalette_17
+  - first:
+      213: 4026749477906726770
+    second: potion_40_ranger_field_nopalette_18
+  - first:
+      213: -613244103262530437
+    second: potion_40_ranger_field_nopalette_19
+  - first:
+      213: 465546988205335533
+    second: potion_40_ranger_field_nopalette_20
+  - first:
+      213: -5657860593336140196
+    second: potion_40_ranger_field_nopalette_21
+  - first:
+      213: -2957398793298337428
+    second: potion_40_ranger_field_nopalette_22
+  - first:
+      213: -5875630576759266008
+    second: potion_40_ranger_field_nopalette_23
+  - first:
+      213: -8494773760939672599
+    second: potion_40_ranger_field_nopalette_24
+  - first:
+      213: -7557935921617220374
+    second: potion_40_ranger_field_nopalette_25
+  - first:
+      213: 6332109496291217634
+    second: potion_40_ranger_field_nopalette_26
+  - first:
+      213: 5692365667251852487
+    second: potion_40_ranger_field_nopalette_27
+  - first:
+      213: -623980565171107010
+    second: potion_40_ranger_field_nopalette_28
+  - first:
+      213: 1463507226692133199
+    second: potion_40_ranger_field_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d08a980e6ee1d090800000000000000
+      internalID: -8011360105757245229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2088b5861674fb0800000000000000
+      internalID: -4663651788278725977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2b57391a14ba190800000000000000
+      internalID: -7950188554972974338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc89fc6d2d152a30800000000000000
+      internalID: 4189787109277142264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5959cec72924d0d0800000000000000
+      internalID: -3399046567808116390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4c96c1f519a5d00800000000000000
+      internalID: 962241308081636518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688f4951ae13dc50800000000000000
+      internalID: 6688723549912270957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187197f7591896e30800000000000000
+      internalID: 4497268181994903425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42190199903aefc0800000000000000
+      internalID: -3464903527186754995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2bbaaf84b4a45d0800000000000000
+      internalID: -3077564618539027732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee92a04463f3fd660800000000000000
+      internalID: 7412713013977426414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66859b3b8e9c27b0800000000000000
+      internalID: -5247645144956172689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9170a574e61570800000000000000
+      internalID: 8437182145779309677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c00fd7202f4470800000000000000
+      internalID: 8380952787176966530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ce243ce07d5660800000000000000
+      internalID: 7376175924492812559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c38c1803af07840800000000000000
+      internalID: 5219947054365162552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f065b66b4c7ea65d0800000000000000
+      internalID: -3068385364039477745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689c936d2b3f1b50800000000000000
+      internalID: 6566031847860246638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fbe16c053e1e730800000000000000
+      internalID: 4026749477906726770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b741f68bcb15d77f0800000000000000
+      internalID: -613244103262530437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de36b3ae484f57600800000000000000
+      internalID: 465546988205335533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb48954cd3b71b0800000000000000
+      internalID: -5657860593336140196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a84a677535f6d0800000000000000
+      internalID: -2957398793298337428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82527d0fe11957ea0800000000000000
+      internalID: -5875630576759266008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebb1eb85408c1a80800000000000000
+      internalID: -8494773760939672599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec47dca251dc1790800000000000000
+      internalID: -7557935921617220374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0d055b90c20e750800000000000000
+      internalID: 6332109496291217634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c41d283a685ffe40800000000000000
+      internalID: 5692365667251852487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8a326bfc2757f0800000000000000
+      internalID: -623980565171107010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_40_ranger_field_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a335911c6f4410800000000000000
+      internalID: 1463507226692133199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b38b93dde4e3a1a47ae9a75014c33581
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_40_ranger_field_nopalette_0: -8011360105757245229
+      potion_40_ranger_field_nopalette_1: -4663651788278725977
+      potion_40_ranger_field_nopalette_10: 7412713013977426414
+      potion_40_ranger_field_nopalette_11: -5247645144956172689
+      potion_40_ranger_field_nopalette_12: 8437182145779309677
+      potion_40_ranger_field_nopalette_13: 8380952787176966530
+      potion_40_ranger_field_nopalette_14: 7376175924492812559
+      potion_40_ranger_field_nopalette_15: 5219947054365162552
+      potion_40_ranger_field_nopalette_16: -3068385364039477745
+      potion_40_ranger_field_nopalette_17: 6566031847860246638
+      potion_40_ranger_field_nopalette_18: 4026749477906726770
+      potion_40_ranger_field_nopalette_19: -613244103262530437
+      potion_40_ranger_field_nopalette_2: -7950188554972974338
+      potion_40_ranger_field_nopalette_20: 465546988205335533
+      potion_40_ranger_field_nopalette_21: -5657860593336140196
+      potion_40_ranger_field_nopalette_22: -2957398793298337428
+      potion_40_ranger_field_nopalette_23: -5875630576759266008
+      potion_40_ranger_field_nopalette_24: -8494773760939672599
+      potion_40_ranger_field_nopalette_25: -7557935921617220374
+      potion_40_ranger_field_nopalette_26: 6332109496291217634
+      potion_40_ranger_field_nopalette_27: 5692365667251852487
+      potion_40_ranger_field_nopalette_28: -623980565171107010
+      potion_40_ranger_field_nopalette_29: 1463507226692133199
+      potion_40_ranger_field_nopalette_3: 4189787109277142264
+      potion_40_ranger_field_nopalette_4: -3399046567808116390
+      potion_40_ranger_field_nopalette_5: 962241308081636518
+      potion_40_ranger_field_nopalette_6: 6688723549912270957
+      potion_40_ranger_field_nopalette_7: 4497268181994903425
+      potion_40_ranger_field_nopalette_8: -3464903527186754995
+      potion_40_ranger_field_nopalette_9: -3077564618539027732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

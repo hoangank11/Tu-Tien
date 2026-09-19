@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - \u0110\u1ECBnh Th\xE2n Thu\u1EADt"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 20
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 0
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "\u0110\u1ECBnh Th\xE2n Thu\u1EADt"
+  level: 29
+  skillPoint: 55555
+  description: " (\u5B9A\u8EAB\u672F) M\u1ED9t ti\xEAn thu\u1EADt kh\u1ED1ng ch\u1EBF.
+    Hi\u1EC3u \u0111\u01A1n gi\u1EA3n, khi thi tri\u1EC3n, n\xF3 s\u1EBD khi\u1EBFn
+    \u0111\u1ED1i ph\u01B0\u01A1ng b\u1ECB \u201C\u0111\u1ECBnh\u201D t\u1EA1i ch\u1ED7,
+    kh\xF4ng th\u1EC3 c\u1EED \u0111\u1ED9ng, nh\u1EDD \u0111\xF3 c\xF3 th\u1EC3
+    tranh th\u1EE7 th\u1EDDi c\u01A1 \u0111\u1EC3 ra \u0111\xF2n, ph\u1EA3n s\xE1t
+    ho\u1EB7c tho\xE1t th\xE2n. \u0110\xE2y l\xE0 m\u1ED9t chi\xEAu r\u1EA5t nguy
+    hi\u1EC3m v\xEC kh\xF4ng ch\u1EC9 m\u1EA1nh \u1EDF s\xE1t th\u01B0\u01A1ng, m\xE0
+    m\u1EA1nh \u1EDF kh\u1EA3 n\u0103ng kh\xF3a h\xE0nh \u0111\u1ED9ng c\u1EE7a \u0111\u1ED1i
+    th\u1EE7."
+  icon: {fileID: 21300000, guid: 239ddddf081301b4885fefb0acd74f1a, type: 3}

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 456e83c57dbe3234daaeb7b3fc0dc666
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5842466650159849610
+    second: BreakPortal02_0
+  - first:
+      213: -6512537851890130902
+    second: BreakPortal02_1
+  - first:
+      213: 3317225951159632891
+    second: BreakPortal02_2
+  - first:
+      213: -1336798155596332131
+    second: BreakPortal02_3
+  - first:
+      213: -3400050432534122852
+    second: BreakPortal02_4
+  - first:
+      213: -156672935632812914
+    second: BreakPortal02_5
+  - first:
+      213: 1090931171224321930
+    second: BreakPortal02_6
+  - first:
+      213: -2997706426730696474
+    second: BreakPortal02_7
+  - first:
+      213: -5387107019653551198
+    second: BreakPortal02_8
+  - first:
+      213: -2014289002603435608
+    second: BreakPortal02_9
+  - first:
+      213: -2509030098534700834
+    second: BreakPortal02_10
+  - first:
+      213: 5557239112100247214
+    second: BreakPortal02_11
+  - first:
+      213: 8307183372250733629
+    second: BreakPortal02_12
+  - first:
+      213: 328700215296010695
+    second: BreakPortal02_13
+  - first:
+      213: -6243257185134510372
+    second: BreakPortal02_14
+  - first:
+      213: 5431152807194213553
+    second: BreakPortal02_15
+  - first:
+      213: 7944929279549128562
+    second: BreakPortal02_16
+  - first:
+      213: -7132114833200236274
+    second: BreakPortal02_17
+  - first:
+      213: -8282086248762773353
+    second: BreakPortal02_18
+  - first:
+      213: -3880902388910913762
+    second: BreakPortal02_19
+  - first:
+      213: 8961599858559572216
+    second: BreakPortal02_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BreakPortal02_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 587
+        width: 186
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8028dea67c941150800000000000000
+      internalID: 5842466650159849610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 558
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20adcf1451de95a0800000000000000
+      internalID: -6512537851890130902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 570
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3c39a5d67290e20800000000000000
+      internalID: 3317225951159632891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 155
+        width: 1107
+        height: 666
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93884ff82db27de0800000000000000
+      internalID: -1336798155596332131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_4
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 562
+        width: 179
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee366552890d0d0800000000000000
+      internalID: -3400050432534122852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_5
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 572
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8440bd8bc263ddf0800000000000000
+      internalID: -156672935632812914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 463
+        width: 141
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ff937ce14c32f00800000000000000
+      internalID: 1090931171224321930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_7
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 451
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0bfcd23e10666d0800000000000000
+      internalID: -2997706426730696474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_8
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 470
+        width: 172
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab698e25b62d35b0800000000000000
+      internalID: -5387107019653551198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 423
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9a8d403decb04e0800000000000000
+      internalID: -2014289002603435608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 431
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed863163b622e2dd0800000000000000
+      internalID: -2509030098534700834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_11
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 225
+        width: 243
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea674a867874f1d40800000000000000
+      internalID: 5557239112100247214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 164
+        width: 253
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c5903834b094370800000000000000
+      internalID: 8307183372250733629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 149
+        width: 103
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c92052ba17cf8400800000000000000
+      internalID: 328700215296010695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_14
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 160
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef6a61bae7b59a0800000000000000
+      internalID: -6243257185134510372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_15
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 224
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc3da1e3b45f5b40800000000000000
+      internalID: 5431152807194213553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_16
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 148
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f3021f51f024e60800000000000000
+      internalID: 7944929279549128562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_17
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 151
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e093ec5c853a50d90800000000000000
+      internalID: -7132114833200236274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_18
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 184
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790f857ef6e101d80800000000000000
+      internalID: -8282086248762773353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_19
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 151
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e170005d6d3442ac0800000000000000
+      internalID: -3880902388910913762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakPortal02_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 151
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f852ac379ffd5c70800000000000000
+      internalID: 8961599858559572216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BreakPortal02_0: 5842466650159849610
+      BreakPortal02_1: -6512537851890130902
+      BreakPortal02_10: -2509030098534700834
+      BreakPortal02_11: 5557239112100247214
+      BreakPortal02_12: 8307183372250733629
+      BreakPortal02_13: 328700215296010695
+      BreakPortal02_14: -6243257185134510372
+      BreakPortal02_15: 5431152807194213553
+      BreakPortal02_16: 7944929279549128562
+      BreakPortal02_17: -7132114833200236274
+      BreakPortal02_18: -8282086248762773353
+      BreakPortal02_19: -3880902388910913762
+      BreakPortal02_2: 3317225951159632891
+      BreakPortal02_20: 8961599858559572216
+      BreakPortal02_3: -1336798155596332131
+      BreakPortal02_4: -3400050432534122852
+      BreakPortal02_5: -156672935632812914
+      BreakPortal02_6: 1090931171224321930
+      BreakPortal02_7: -2997706426730696474
+      BreakPortal02_8: -5387107019653551198
+      BreakPortal02_9: -2014289002603435608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

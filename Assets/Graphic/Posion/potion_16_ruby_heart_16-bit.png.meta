@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 61085517527a682499db115064b858df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5672085152205036385
+    second: potion_16_ruby_heart_16-bit_0
+  - first:
+      213: -6231488033170521073
+    second: potion_16_ruby_heart_16-bit_1
+  - first:
+      213: 8064351057482843417
+    second: potion_16_ruby_heart_16-bit_2
+  - first:
+      213: 3411461729015689041
+    second: potion_16_ruby_heart_16-bit_3
+  - first:
+      213: 1331217500075457511
+    second: potion_16_ruby_heart_16-bit_4
+  - first:
+      213: 4639872032656772316
+    second: potion_16_ruby_heart_16-bit_5
+  - first:
+      213: 6737246132871106329
+    second: potion_16_ruby_heart_16-bit_6
+  - first:
+      213: -6978279396280066841
+    second: potion_16_ruby_heart_16-bit_7
+  - first:
+      213: 8405794372310085611
+    second: potion_16_ruby_heart_16-bit_8
+  - first:
+      213: -2096865982165548460
+    second: potion_16_ruby_heart_16-bit_9
+  - first:
+      213: 7815980707588041726
+    second: potion_16_ruby_heart_16-bit_10
+  - first:
+      213: 7187059739224651046
+    second: potion_16_ruby_heart_16-bit_11
+  - first:
+      213: 1709058270029422456
+    second: potion_16_ruby_heart_16-bit_12
+  - first:
+      213: -7414382137242475550
+    second: potion_16_ruby_heart_16-bit_13
+  - first:
+      213: 7083490737878663445
+    second: potion_16_ruby_heart_16-bit_14
+  - first:
+      213: 1611588495023297840
+    second: potion_16_ruby_heart_16-bit_15
+  - first:
+      213: -6146683405636301721
+    second: potion_16_ruby_heart_16-bit_16
+  - first:
+      213: -5551431535978831064
+    second: potion_16_ruby_heart_16-bit_17
+  - first:
+      213: 7041021213240061956
+    second: potion_16_ruby_heart_16-bit_18
+  - first:
+      213: -3358677477048616314
+    second: potion_16_ruby_heart_16-bit_19
+  - first:
+      213: 7313671678328323422
+    second: potion_16_ruby_heart_16-bit_20
+  - first:
+      213: -327421665826617672
+    second: potion_16_ruby_heart_16-bit_21
+  - first:
+      213: -1422532425470987643
+    second: potion_16_ruby_heart_16-bit_22
+  - first:
+      213: 5077888941881517148
+    second: potion_16_ruby_heart_16-bit_23
+  - first:
+      213: -5991800665998306227
+    second: potion_16_ruby_heart_16-bit_24
+  - first:
+      213: 1321535902925370301
+    second: potion_16_ruby_heart_16-bit_25
+  - first:
+      213: -3647051804869732473
+    second: potion_16_ruby_heart_16-bit_26
+  - first:
+      213: -6073556308080437775
+    second: potion_16_ruby_heart_16-bit_27
+  - first:
+      213: -4050909519243881857
+    second: potion_16_ruby_heart_16-bit_28
+  - first:
+      213: -3571524733908889765
+    second: potion_16_ruby_heart_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd2f8d46b47be40800000000000000
+      internalID: 5672085152205036385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0406c056ae4589a0800000000000000
+      internalID: -6231488033170521073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158f4d5f845aef60800000000000000
+      internalID: 8064351057482843417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fe1da2e52f75f20800000000000000
+      internalID: 3411461729015689041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf7c2634f697210800000000000000
+      internalID: 1331217500075457511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcc6c5d703246040800000000000000
+      internalID: 4639872032656772316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f082299a18f7d50800000000000000
+      internalID: 6737246132871106329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec9c419cdb282f90800000000000000
+      internalID: -6978279396280066841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef2580227167a470800000000000000
+      internalID: 8405794372310085611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4520c67bf7f66e2e0800000000000000
+      internalID: -2096865982165548460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb671fea01f77c60800000000000000
+      internalID: 7815980707588041726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6253fff01c09db360800000000000000
+      internalID: 7187059739224651046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1c8d017bc7b710800000000000000
+      internalID: 1709058270029422456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e329a0bab2da1990800000000000000
+      internalID: -7414382137242475550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5110701db4d9d4260800000000000000
+      internalID: 7083490737878663445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03558f992338d5610800000000000000
+      internalID: 1611588495023297840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c8244520892baa0800000000000000
+      internalID: -6146683405636301721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823a4174e6a55f2b0800000000000000
+      internalID: -5551431535978831064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f92f0d7bb6b160800000000000000
+      internalID: 7041021213240061956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a796131a49361d0800000000000000
+      internalID: -3358677477048616314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d389654a16f7560800000000000000
+      internalID: 7313671678328323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b643accab3c47bf0800000000000000
+      internalID: -327421665826617672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b352cb46224ce0800000000000000
+      internalID: -1422532425470987643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c546bbdb619487640800000000000000
+      internalID: 5077888941881517148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44d83a4a09d8dca0800000000000000
+      internalID: -5991800665998306227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3bac3e6e9075210800000000000000
+      internalID: 1321535902925370301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787da45d4b1136dc0800000000000000
+      internalID: -3647051804869732473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5588587b466bba0800000000000000
+      internalID: -6073556308080437775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725830414748c7c0800000000000000
+      internalID: -4050909519243881857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_16_ruby_heart_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc6d06d256f6ec0800000000000000
+      internalID: -3571524733908889765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c642338f88aa58498767f813304b6fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_16_ruby_heart_16-bit_0: 5672085152205036385
+      potion_16_ruby_heart_16-bit_1: -6231488033170521073
+      potion_16_ruby_heart_16-bit_10: 7815980707588041726
+      potion_16_ruby_heart_16-bit_11: 7187059739224651046
+      potion_16_ruby_heart_16-bit_12: 1709058270029422456
+      potion_16_ruby_heart_16-bit_13: -7414382137242475550
+      potion_16_ruby_heart_16-bit_14: 7083490737878663445
+      potion_16_ruby_heart_16-bit_15: 1611588495023297840
+      potion_16_ruby_heart_16-bit_16: -6146683405636301721
+      potion_16_ruby_heart_16-bit_17: -5551431535978831064
+      potion_16_ruby_heart_16-bit_18: 7041021213240061956
+      potion_16_ruby_heart_16-bit_19: -3358677477048616314
+      potion_16_ruby_heart_16-bit_2: 8064351057482843417
+      potion_16_ruby_heart_16-bit_20: 7313671678328323422
+      potion_16_ruby_heart_16-bit_21: -327421665826617672
+      potion_16_ruby_heart_16-bit_22: -1422532425470987643
+      potion_16_ruby_heart_16-bit_23: 5077888941881517148
+      potion_16_ruby_heart_16-bit_24: -5991800665998306227
+      potion_16_ruby_heart_16-bit_25: 1321535902925370301
+      potion_16_ruby_heart_16-bit_26: -3647051804869732473
+      potion_16_ruby_heart_16-bit_27: -6073556308080437775
+      potion_16_ruby_heart_16-bit_28: -4050909519243881857
+      potion_16_ruby_heart_16-bit_29: -3571524733908889765
+      potion_16_ruby_heart_16-bit_3: 3411461729015689041
+      potion_16_ruby_heart_16-bit_4: 1331217500075457511
+      potion_16_ruby_heart_16-bit_5: 4639872032656772316
+      potion_16_ruby_heart_16-bit_6: 6737246132871106329
+      potion_16_ruby_heart_16-bit_7: -6978279396280066841
+      potion_16_ruby_heart_16-bit_8: 8405794372310085611
+      potion_16_ruby_heart_16-bit_9: -2096865982165548460
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

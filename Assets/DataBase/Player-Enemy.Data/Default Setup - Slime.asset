@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd83dc23e4317f1488a2e0e2ccc694ac, type: 3}
+  m_Name: Default Setup - Slime
+  m_EditorClassIdentifier: 
+  maxHP: 100
+  hpRegen: 0
+  maxMP: 10
+  mpRegen: 0
+  maxDmg: 3
+  maxCritChance: 0
+  maxCritDmg: 0.2
+  maxArmorPenetration: 0
+  maxAttackSpeed: 1.1
+  maxElementalDmg: 5
+  maxElectricChargeDmg: 1.5
+  maxArmor: 0
+  capMitigation: 0.85
+  maxFireRes: 0
+  maxIceRes: 0
+  maxToxicRes: 0
+  maxElectricRes: 0
+  maxWindRes: 0
+  maxEarthRes: 0
+  maxWoodRes: 0
+  maxWaterRes: 0
+  capElementalRes: 30
+  maxEvasion: 0
+  incHPvsMP: 0
+  incArmor: 0
+  incEvasion: 0
+  incFireRes: 0
+  incIceRes: 0
+  incToxicRes: 0
+  incElectricRes: 0
+  incWindRes: 0
+  incEarthRes: 0
+  incWoodRes: 0
+  incWaterRes: 0
+  incDmg: 0
+  incElementalDmg: 0
+  incCritChance: 0
+  incCritDmg: 0

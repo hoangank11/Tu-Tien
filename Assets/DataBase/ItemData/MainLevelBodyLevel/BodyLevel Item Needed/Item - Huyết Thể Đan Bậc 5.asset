@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 5"
+  m_EditorClassIdentifier: 
+  saveID: 86e5ffdad61920a449c874290c504e54
+  moneyType: 2
+  itemPrice: 100000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 5"
+  itemIcon: {fileID: 21300000, guid: e3a0ffdbf42090e48ad71378e7126857, type: 3}
+  itemType: 0
+  description: " C\u1EF1c ph\u1EA9m \u0111an d\u01B0\u1EE3c d\xE0nh cho ng\u01B0\u1EDDi
+    luy\u1EC7n th\u1EC3, ch\u1EE9a huy\u1EBFt kh\xED v\xE0 sinh l\u1EF1c v\xF4 c\xF9ng
+    kh\u1EE7ng b\u1ED1. D\u01B0\u1EE3c l\u1EF1c c\xF3 th\u1EC3 xuy\xEAn qua huy\u1EBFt
+    nh\u1EE5c, g\xE2n c\u1ED1t, ti\u1EBFn s\xE2u v\xE0o t\u1EE7y h\u1EA3i, c\u1EA3i
+    t\u1EA1o n\u1EC1n t\u1EA3ng th\xE2n th\u1EC3 t\u1EEB b\xEAn trong. D\u01B0\u1EE3c
+    l\u1EF1c c\u1EF1c k\u1EF3 b\xE1 \u0111\u1EA1o, ng\u01B0\u1EDDi c\xF3 th\xE2n
+    th\u1EC3 ch\u01B0a \u0111\u1EA1t c\u1EA3nh gi\u1EDBi Luy\u1EC7n C\u1ED1t \u0110\u1EA1i
+    Vi\xEAn M\xE3n g\u1EA7n nh\u01B0 kh\xF4ng th\u1EC3 h\u1EA5p thu. L\xE0 \u0111an
+    d\u01B0\u1EE3c c\u1EA7n thi\u1EBFt \u0111\u1EC3 b\u01B0\u1EDBc v\xE0o c\u1EA3nh
+    gi\u1EDBi Luy\u1EC7n T\u1EE7y."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe:
+  - itemData: {fileID: 11400000, guid: a0a977718411f744eaf8ec98a9a3128b, type: 2}
+    stackSize: 3
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: 591c2ca0d87d73643b54587a7641f4fa, type: 2}
+    stackSize: 5
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: 815060fd327a4af44a2debf8b73fc23d, type: 2}
+    stackSize: 10
+    itemEffect: {fileID: 0}

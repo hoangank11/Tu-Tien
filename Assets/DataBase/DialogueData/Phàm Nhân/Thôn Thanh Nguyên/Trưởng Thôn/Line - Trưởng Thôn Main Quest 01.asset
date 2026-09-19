@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Tr\u01B0\u1EDFng Th\xF4n Main Quest 01"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "L\xFD Tr\u01B0\u1EDFng Th\xF4n"
+  speaker: {fileID: 11400000, guid: 106131b2328ad7249a9e8418863540c6, type: 2}
+  textLine:
+  - "<Ch\xEDnh> Ch\xE0o gi\xE0, con v\u1EEBa m\u1EDBi v\u1EC1 l\xE0ng th\xEC kh\xF4ng
+    th\u1EA5y ng\u01B0\u1EDDi nh\xE0 con \u0111\xE2u. H\u1ECD c\u0169ng kh\xF4ng
+    \u0111\u1EC3 l\u1EA1i th\u01B0 t\u1EEB g\xEC? Gi\xE0 c\xF3 bi\u1EBFt \u0111i\u1EC1u
+    g\xEC kh\xF4ng?"
+  actionLine: " V\xE0o t\xF4i h\xF4m qua, ta v\u1EEBa th\u1EA5y c\u1EA3 hai ng\u01B0\u1EDDi
+    h\u1ECD \u0111i v\xE0o r\u1EEBng ph\xEDa sau l\xE0ng, th\u1EA5y h\u1ECD r\u1EA5t
+    v\u1ED9i v\xE3 kh\xF4ng r\xF5 l\xE0 c\xF3 chuy\u1EC7n g\xEC n\u1EEFa."
+  actionType: 7
+  choiceLine:
+  - {fileID: 11400000, guid: 428024e4e8011b547b84a0c1cead031a, type: 2}
+  doneQuest: {fileID: 0}
+  canExceptQuest: {fileID: 0}
+  canDeleteThisDialogueLineChoice: 0
+  choiceRequireActiveQuest: []

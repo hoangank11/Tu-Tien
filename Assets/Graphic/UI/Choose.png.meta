@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 42de1071f1c63bc4c99548bce025dfa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1055961724061449430
+    second: Choose_0
+  - first:
+      213: 6006839031456840745
+    second: Choose_1
+  - first:
+      213: -4502014606674615733
+    second: Choose_2
+  - first:
+      213: -1533503129102207349
+    second: Choose_3
+  - first:
+      213: -7267985387773862114
+    second: Choose_4
+  - first:
+      213: 8415068107179670763
+    second: Choose_5
+  - first:
+      213: -2301152790308495588
+    second: Choose_6
+  - first:
+      213: 7983476972668066810
+    second: Choose_7
+  - first:
+      213: 2497008642069060640
+    second: Choose_8
+  - first:
+      213: 4546759820382355848
+    second: Choose_9
+  - first:
+      213: -5570655571596072533
+    second: Choose_10
+  - first:
+      213: -2224210189940450342
+    second: Choose_11
+  - first:
+      213: 7776105423523290493
+    second: Choose_12
+  - first:
+      213: 5362685496719078882
+    second: Choose_13
+  - first:
+      213: 4067965775298343746
+    second: Choose_14
+  - first:
+      213: 2369826487186331079
+    second: Choose_15
+  - first:
+      213: -5559031152766392256
+    second: Choose_16
+  - first:
+      213: 143765154916625268
+    second: Choose_17
+  - first:
+      213: 3275814106551899525
+    second: Choose_18
+  - first:
+      213: -1704511015448654852
+    second: Choose_19
+  - first:
+      213: 2748052641054735921
+    second: Choose_20
+  - first:
+      213: -9186950397989415795
+    second: Choose_21
+  - first:
+      213: -2029596767320298895
+    second: Choose_22
+  - first:
+      213: -4195948377178402709
+    second: Choose_23
+  - first:
+      213: 805339150190893490
+    second: Choose_24
+  - first:
+      213: -8760442157355462760
+    second: Choose_25
+  - first:
+      213: 3268136765418123284
+    second: Choose_26
+  - first:
+      213: -1714975942002949243
+    second: Choose_27
+  - first:
+      213: -3445894251676746939
+    second: Choose_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Choose_0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1062
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc7713e79787ae00800000000000000
+      internalID: 1055961724061449430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1072
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cbfe406449c5350800000000000000
+      internalID: 6006839031456840745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_2
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1056
+        width: 133
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b422a836191a581c0800000000000000
+      internalID: -4502014606674615733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 79
+        width: 1007
+        height: 976
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86b9e76707e7bae0800000000000000
+      internalID: -1533503129102207349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1048
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f52091ccde22b90800000000000000
+      internalID: -7267985387773862114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1037
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb929cbd358c470800000000000000
+      internalID: 8415068107179670763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_6
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1049
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f53cfaab9a010e0800000000000000
+      internalID: -2301152790308495588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_7
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 616
+        width: 19
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb146422020bce60800000000000000
+      internalID: 7983476972668066810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 605
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c5b97512827a220800000000000000
+      internalID: 2497008642069060640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 575
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c8e487f5591f30800000000000000
+      internalID: 4546759820382355848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_10
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 567
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba927f0b54e01b2b0800000000000000
+      internalID: -5570655571596072533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 378
+        width: 41
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb9bcadd940221e0800000000000000
+      internalID: -2224210189940450342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_12
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 520
+        width: 9
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1811eea64aeb60800000000000000
+      internalID: 7776105423523290493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_13
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 465
+        width: 13
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5741aeb061c6a40800000000000000
+      internalID: 5362685496719078882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_14
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 410
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243ba13d151547830800000000000000
+      internalID: 4067965775298343746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 72
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c59d0c52a053e020800000000000000
+      internalID: 2369826487186331079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 67
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048670c9e9a5ad2b0800000000000000
+      internalID: -5559031152766392256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_17
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 75
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b62ed85a1cef100800000000000000
+      internalID: 143765154916625268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_18
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 67
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5855d3be297067d20800000000000000
+      internalID: 3275814106551899525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 74
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb4178234c5858e0800000000000000
+      internalID: -1704511015448654852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_20
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 66
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e3426315b032620800000000000000
+      internalID: 2748052641054735921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_21
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 62
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8415be9945618080800000000000000
+      internalID: -9186950397989415795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_22
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aa79e4e7c65d3e0800000000000000
+      internalID: -2029596767320298895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_23
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 62
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60976a9e2ff4c5c0800000000000000
+      internalID: -4195948377178402709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d7d2b0b32d2b00800000000000000
+      internalID: 805339150190893490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_25
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 49
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f887fc548ac6680800000000000000
+      internalID: -8760442157355462760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 34
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4103424a211ca5d20800000000000000
+      internalID: 3268136765418123284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_27
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 36
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583c292977e2338e0800000000000000
+      internalID: -1714975942002949243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Choose_28
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 37
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b3f3b6f69bd20d0800000000000000
+      internalID: -3445894251676746939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Choose_0: 1055961724061449430
+      Choose_1: 6006839031456840745
+      Choose_10: -5570655571596072533
+      Choose_11: -2224210189940450342
+      Choose_12: 7776105423523290493
+      Choose_13: 5362685496719078882
+      Choose_14: 4067965775298343746
+      Choose_15: 2369826487186331079
+      Choose_16: -5559031152766392256
+      Choose_17: 143765154916625268
+      Choose_18: 3275814106551899525
+      Choose_19: -1704511015448654852
+      Choose_2: -4502014606674615733
+      Choose_20: 2748052641054735921
+      Choose_21: -9186950397989415795
+      Choose_22: -2029596767320298895
+      Choose_23: -4195948377178402709
+      Choose_24: 805339150190893490
+      Choose_25: -8760442157355462760
+      Choose_26: 3268136765418123284
+      Choose_27: -1714975942002949243
+      Choose_28: -3445894251676746939
+      Choose_3: -1533503129102207349
+      Choose_4: -7267985387773862114
+      Choose_5: 8415068107179670763
+      Choose_6: -2301152790308495588
+      Choose_7: 7983476972668066810
+      Choose_8: 2497008642069060640
+      Choose_9: 4546759820382355848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

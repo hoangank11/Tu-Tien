@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Thanh Long Thi\xEAn Tru"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 21
+  upgradeData:
+    cooldown: 0
+    scaleFactor:
+      physicalDamage: 1
+      elementalDamage: 1
+      effectToxicDuration: 6
+      toxicScallDmg: 1
+      toxicSlowAnimation: 0.15
+      effectIceDuration: 3
+      iceSlowAnimation: 0.3
+      effectFireDuration: 6
+      fireScaleDmg: 1
+      effectElectricDuration: 4
+      electricScaleDmg: 1
+      electricCharge: 1.5
+    skillByName: 0
+  skillName: "Thanh Long Thi\xEAn Tru"
+  level: 29
+  skillPoint: 100000
+  description: " (\u9752\u9F99\u5929\u8BDB)Tu s\u0129 d\u1EABn \u0111\u1ED9ng c\u1EEDu
+    thi\xEAn th\u1EA7n l\xF4i, l\u1EA5y linh l\u1EF1c l\xE0m c\u1ED1t, thi\xEAn uy
+    l\xE0m h\u1ED3n, ng\u01B0ng t\u1EE5 ra m\u1ED9t \u0111\u1EA7u Thanh Long L\xF4i
+    Linh d\xE0i ng\xE0n tr\u01B0\u1EE3ng. Long th\xE2n do v\xF4 t\u1EADn l\xF4i \u0111\xECnh
+    \u0111an xen t\u1EA1o th\xE0nh, v\u1EA3y r\u1ED3ng l\xF3e l\xEAn \xE1nh lam t\u1EED
+    s\u1EAFc, m\u1ED7i l\u1EA7n chuy\u1EC3n \u0111\u1ED9ng \u0111\u1EC1u khi\u1EBFn
+    h\u01B0 kh\xF4ng rung chuy\u1EC3n.\n Thanh Long ng\u1EA9ng \u0111\u1EA7u g\u1EA7m
+    th\xE9t, m\u1EDF mi\u1EC7ng phun ra Thi\xEAn Ph\u1EA1t L\xF4i T\u1EE9c, v\u1EA1n
+    \u0111\u1EA1o s\u1EA5m s\xE9t gi\xE1ng xu\u1ED1ng nh\u01B0 di\u1EC7t th\u1EBF
+    th\u1EA7n ki\u1EBFp, \u0111\u1EE7 s\u1EE9c ph\xE1 tan h\u1ED9 s\u01A1n \u0111\u1EA1i
+    tr\u1EADn, nghi\u1EC1n n\xE1t nguy\xEAn th\u1EA7n, tru s\xE1t t\xE0 ma v\u1EA1n
+    c\u1ED5.\n Kh\u1EA9u quy\u1EBFt: \n \"C\u1EEDu thi\xEAn d\u1EABn l\xF4i, thanh
+    long hi\u1EC7n th\u1EBF. \n   Thi\xEAn uy h\xF3a th\u1EA7n, v\u1EA1n ph\xE1p
+    quy l\xF4i!\""
+  icon: {fileID: 21300000, guid: 2ba037a8c1fe11b4e832b6374f279ecc, type: 3}

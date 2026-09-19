@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: c2ce73995e0796e47bbcc3d4a643d90c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4114338635663674275
+    second: potion_47_marble_slab_nopalette_0
+  - first:
+      213: 8580071234939810826
+    second: potion_47_marble_slab_nopalette_1
+  - first:
+      213: -6276437465965435470
+    second: potion_47_marble_slab_nopalette_2
+  - first:
+      213: -3601849683045091864
+    second: potion_47_marble_slab_nopalette_3
+  - first:
+      213: -1662893908577211741
+    second: potion_47_marble_slab_nopalette_4
+  - first:
+      213: 2818132586021248300
+    second: potion_47_marble_slab_nopalette_5
+  - first:
+      213: 3957462772320079060
+    second: potion_47_marble_slab_nopalette_6
+  - first:
+      213: -1827612122229567491
+    second: potion_47_marble_slab_nopalette_7
+  - first:
+      213: 8896537971098775598
+    second: potion_47_marble_slab_nopalette_8
+  - first:
+      213: -2668332806893047653
+    second: potion_47_marble_slab_nopalette_9
+  - first:
+      213: -4686693140895183329
+    second: potion_47_marble_slab_nopalette_10
+  - first:
+      213: 4786082617621967340
+    second: potion_47_marble_slab_nopalette_11
+  - first:
+      213: 4467850704370934681
+    second: potion_47_marble_slab_nopalette_12
+  - first:
+      213: 8312825489986534614
+    second: potion_47_marble_slab_nopalette_13
+  - first:
+      213: -1812629361063613074
+    second: potion_47_marble_slab_nopalette_14
+  - first:
+      213: 8280899731841174881
+    second: potion_47_marble_slab_nopalette_15
+  - first:
+      213: -6916028094423694534
+    second: potion_47_marble_slab_nopalette_16
+  - first:
+      213: 5806167180449799946
+    second: potion_47_marble_slab_nopalette_17
+  - first:
+      213: -3942791955552883653
+    second: potion_47_marble_slab_nopalette_18
+  - first:
+      213: -6024142218251504009
+    second: potion_47_marble_slab_nopalette_19
+  - first:
+      213: 2740278782443554276
+    second: potion_47_marble_slab_nopalette_20
+  - first:
+      213: -6088296621349659543
+    second: potion_47_marble_slab_nopalette_21
+  - first:
+      213: 1377459195830478703
+    second: potion_47_marble_slab_nopalette_22
+  - first:
+      213: -387622170344995734
+    second: potion_47_marble_slab_nopalette_23
+  - first:
+      213: -7783654512331927130
+    second: potion_47_marble_slab_nopalette_24
+  - first:
+      213: 2606690579204813718
+    second: potion_47_marble_slab_nopalette_25
+  - first:
+      213: -3913341167522258706
+    second: potion_47_marble_slab_nopalette_26
+  - first:
+      213: 7401337498209861574
+    second: potion_47_marble_slab_nopalette_27
+  - first:
+      213: -3743096978965935795
+    second: potion_47_marble_slab_nopalette_28
+  - first:
+      213: 6606558401204874261
+    second: potion_47_marble_slab_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54f99f3fcee6e6c0800000000000000
+      internalID: -4114338635663674275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04722a3459821770800000000000000
+      internalID: 8580071234939810826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56d22f06d95e8a0800000000000000
+      internalID: -6276437465965435470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57eb3fbc8a30ec0800000000000000
+      internalID: -3601849683045091864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa2810fcc63ce8e0800000000000000
+      internalID: -1662893908577211741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ddfb7e7a40c1720800000000000000
+      internalID: 2818132586021248300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc88f38c6bbbe630800000000000000
+      internalID: 3957462772320079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff0f4b357403a6e0800000000000000
+      internalID: -1827612122229567491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20fd1a162ad67b70800000000000000
+      internalID: 8896537971098775598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907e96137d28fad0800000000000000
+      internalID: -2668332806893047653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ecea56b6585feb0800000000000000
+      internalID: -4686693140895183329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1770178c49b6240800000000000000
+      internalID: 4786082617621967340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993228f3b8ef00e30800000000000000
+      internalID: 4467850704370934681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb57a6db61d5370800000000000000
+      internalID: 8312825489986534614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d2c58233f38d6e0800000000000000
+      internalID: -1812629361063613074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d45099e6aabe270800000000000000
+      internalID: 8280899731841174881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33014f37155500a0800000000000000
+      internalID: -6916028094423694534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fdd39c946a39050800000000000000
+      internalID: 5806167180449799946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ca0023b936849c0800000000000000
+      internalID: -3942791955552883653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7767facd192f56ca0800000000000000
+      internalID: -6024142218251504009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e58615b80d670620800000000000000
+      internalID: 2740278782443554276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c1e35ea76028ba0800000000000000
+      internalID: -6088296621349659543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67221c27d7bd1310800000000000000
+      internalID: 1377459195830478703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64458590b3ee9af0800000000000000
+      internalID: -387622170344995734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1d61ae577eaf390800000000000000
+      internalID: -7783654512331927130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933cdc5543dc2420800000000000000
+      internalID: 2606690579204813718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06ce021f401b9c0800000000000000
+      internalID: -3913341167522258706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb39b9d35d6b660800000000000000
+      internalID: 7401337498209861574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49c5e02129dd0cc0800000000000000
+      internalID: -3743096978965935795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_47_marble_slab_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c60b3ecd53fab50800000000000000
+      internalID: 6606558401204874261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd6f6d2a1b68367428bb12945f8d5546
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_47_marble_slab_nopalette_0: -4114338635663674275
+      potion_47_marble_slab_nopalette_1: 8580071234939810826
+      potion_47_marble_slab_nopalette_10: -4686693140895183329
+      potion_47_marble_slab_nopalette_11: 4786082617621967340
+      potion_47_marble_slab_nopalette_12: 4467850704370934681
+      potion_47_marble_slab_nopalette_13: 8312825489986534614
+      potion_47_marble_slab_nopalette_14: -1812629361063613074
+      potion_47_marble_slab_nopalette_15: 8280899731841174881
+      potion_47_marble_slab_nopalette_16: -6916028094423694534
+      potion_47_marble_slab_nopalette_17: 5806167180449799946
+      potion_47_marble_slab_nopalette_18: -3942791955552883653
+      potion_47_marble_slab_nopalette_19: -6024142218251504009
+      potion_47_marble_slab_nopalette_2: -6276437465965435470
+      potion_47_marble_slab_nopalette_20: 2740278782443554276
+      potion_47_marble_slab_nopalette_21: -6088296621349659543
+      potion_47_marble_slab_nopalette_22: 1377459195830478703
+      potion_47_marble_slab_nopalette_23: -387622170344995734
+      potion_47_marble_slab_nopalette_24: -7783654512331927130
+      potion_47_marble_slab_nopalette_25: 2606690579204813718
+      potion_47_marble_slab_nopalette_26: -3913341167522258706
+      potion_47_marble_slab_nopalette_27: 7401337498209861574
+      potion_47_marble_slab_nopalette_28: -3743096978965935795
+      potion_47_marble_slab_nopalette_29: 6606558401204874261
+      potion_47_marble_slab_nopalette_3: -3601849683045091864
+      potion_47_marble_slab_nopalette_4: -1662893908577211741
+      potion_47_marble_slab_nopalette_5: 2818132586021248300
+      potion_47_marble_slab_nopalette_6: 3957462772320079060
+      potion_47_marble_slab_nopalette_7: -1827612122229567491
+      potion_47_marble_slab_nopalette_8: 8896537971098775598
+      potion_47_marble_slab_nopalette_9: -2668332806893047653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

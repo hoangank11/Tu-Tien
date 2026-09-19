@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Kim \u0110an Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: 87e6a78d983e3a543a1467f4221345e7
+  moneyType: 1
+  itemPrice: 32000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Kim \u0110an Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: 6626446218538887026, guid: 745d88ee4e1fe934680610910e45b200, type: 3}
+  itemType: 3
+  description: " Ng\u1ECDc b\u1ED9i \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB kim linh
+    ng\u1ECDc, th\u01B0\u1EDDng \u0111\u01B0\u1EE3c c\xE1c tu s\u0129 Kim \u0110an
+    s\u1EED d\u1EE5ng."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 200

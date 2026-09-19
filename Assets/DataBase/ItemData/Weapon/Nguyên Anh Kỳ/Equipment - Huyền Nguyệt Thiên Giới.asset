@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Huy\u1EC1n Nguy\u1EC7t Thi\xEAn Gi\u1EDBi"
+  m_EditorClassIdentifier: 
+  saveID: f8690130f4d759a44b3be0ec1127a6b3
+  moneyType: 1
+  itemPrice: 230000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EC1n Nguy\u1EC7t Thi\xEAn Gi\u1EDBi"
+  itemIcon: {fileID: 427648554244718253, guid: 48c7c2c7fd06ffd4d9f7d12d1a029b79, type: 3}
+  itemType: 3
+  description: " Nh\u1EABn \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB huy\u1EC1n nguy\u1EC7t
+    th\u1EA7n ng\u1ECDc, t\u1ECFa ra \xE1nh s\xE1ng l\u1EA1nh huy\u1EC1n b\xED."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 400
+  - startType: 7
+    value: 20

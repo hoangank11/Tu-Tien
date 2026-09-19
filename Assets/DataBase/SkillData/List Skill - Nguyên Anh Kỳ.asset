@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced9733b73fb59641ab9f8f389cbff34, type: 3}
+  m_Name: "List Skill - Nguy\xEAn Anh K\u1EF3"
+  m_EditorClassIdentifier: 
+  skillList:
+  - {fileID: 11400000, guid: 680fb293bfd03d34aa00a15f67d9e8e1, type: 2}
+  - {fileID: 11400000, guid: 3d623e76486c4a0449435beac96f6e21, type: 2}
+  - {fileID: 11400000, guid: f031434b7e907ce48a9dd499fe13e235, type: 2}
+  - {fileID: 11400000, guid: ee001a16df8e4ea46b5def450c7a36ac, type: 2}

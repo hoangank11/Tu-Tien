@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 312086bc0d297624f8a4ca64b73c5b14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1124718830791022093
+    second: 62_rolled-scroll_eclipse-omen_nopalette_0
+  - first:
+      213: -7211261399878704238
+    second: 62_rolled-scroll_eclipse-omen_nopalette_1
+  - first:
+      213: 406953329115020293
+    second: 62_rolled-scroll_eclipse-omen_nopalette_2
+  - first:
+      213: 5996971182736522621
+    second: 62_rolled-scroll_eclipse-omen_nopalette_3
+  - first:
+      213: -465973357669750599
+    second: 62_rolled-scroll_eclipse-omen_nopalette_4
+  - first:
+      213: 3225729510013822837
+    second: 62_rolled-scroll_eclipse-omen_nopalette_5
+  - first:
+      213: 6052118118433165404
+    second: 62_rolled-scroll_eclipse-omen_nopalette_6
+  - first:
+      213: 1529384400294586615
+    second: 62_rolled-scroll_eclipse-omen_nopalette_7
+  - first:
+      213: -7833063505157439189
+    second: 62_rolled-scroll_eclipse-omen_nopalette_8
+  - first:
+      213: 1938474567946777888
+    second: 62_rolled-scroll_eclipse-omen_nopalette_9
+  - first:
+      213: -6436336656109098241
+    second: 62_rolled-scroll_eclipse-omen_nopalette_10
+  - first:
+      213: 5348131003209153098
+    second: 62_rolled-scroll_eclipse-omen_nopalette_11
+  - first:
+      213: 7708560480853707622
+    second: 62_rolled-scroll_eclipse-omen_nopalette_12
+  - first:
+      213: 9011341487305681226
+    second: 62_rolled-scroll_eclipse-omen_nopalette_13
+  - first:
+      213: 755248476310007505
+    second: 62_rolled-scroll_eclipse-omen_nopalette_14
+  - first:
+      213: 8680163887255566400
+    second: 62_rolled-scroll_eclipse-omen_nopalette_15
+  - first:
+      213: -4866351746419838759
+    second: 62_rolled-scroll_eclipse-omen_nopalette_16
+  - first:
+      213: -488598487137566266
+    second: 62_rolled-scroll_eclipse-omen_nopalette_17
+  - first:
+      213: 8190885003902304223
+    second: 62_rolled-scroll_eclipse-omen_nopalette_18
+  - first:
+      213: 2465760451472231547
+    second: 62_rolled-scroll_eclipse-omen_nopalette_19
+  - first:
+      213: 8419840558015464828
+    second: 62_rolled-scroll_eclipse-omen_nopalette_20
+  - first:
+      213: 4729992915967866604
+    second: 62_rolled-scroll_eclipse-omen_nopalette_21
+  - first:
+      213: 8453620347618088203
+    second: 62_rolled-scroll_eclipse-omen_nopalette_22
+  - first:
+      213: 4737641247865608926
+    second: 62_rolled-scroll_eclipse-omen_nopalette_23
+  - first:
+      213: -7439645564110495290
+    second: 62_rolled-scroll_eclipse-omen_nopalette_24
+  - first:
+      213: 7185915245864826985
+    second: 62_rolled-scroll_eclipse-omen_nopalette_25
+  - first:
+      213: 149742025416411380
+    second: 62_rolled-scroll_eclipse-omen_nopalette_26
+  - first:
+      213: 4965497722173815813
+    second: 62_rolled-scroll_eclipse-omen_nopalette_27
+  - first:
+      213: 5097794417765408988
+    second: 62_rolled-scroll_eclipse-omen_nopalette_28
+  - first:
+      213: 2180794350549471130
+    second: 62_rolled-scroll_eclipse-omen_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06dd7d41ddcb9f00800000000000000
+      internalID: 1124718830791022093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2936eb5b6f37ceb90800000000000000
+      internalID: -7211261399878704238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c301e85e9c5a500800000000000000
+      internalID: 406953329115020293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db3437485893350800000000000000
+      internalID: 5996971182736522621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86c4533b78889f0800000000000000
+      internalID: -465973357669750599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5776ed116e714cc20800000000000000
+      internalID: 3225729510013822837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c501aebfc517df350800000000000000
+      internalID: 6052118118433165404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f825905207793510800000000000000
+      internalID: 1529384400294586615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21c3005e3e5b4390800000000000000
+      internalID: -7833063505157439189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025b89c5958d6ea10800000000000000
+      internalID: 1938474567946777888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaaac599e98da6a0800000000000000
+      internalID: -6436336656109098241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4af882dfc0683a40800000000000000
+      internalID: 5348131003209153098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b46e66aee4afa60800000000000000
+      internalID: 7708560480853707622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49689ca657be0d70800000000000000
+      internalID: 9011341487305681226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deec9bdc7e2b7a00800000000000000
+      internalID: 755248476310007505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048ba04e013267870800000000000000
+      internalID: 8680163887255566400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03b82aede377cb0800000000000000
+      internalID: -4866351746419838759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c14f50c3462839f0800000000000000
+      internalID: -488598487137566266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfbbad838edba170800000000000000
+      internalID: 8190885003902304223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c85330114283220800000000000000
+      internalID: 2465760451472231547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7540f5906849d470800000000000000
+      internalID: 8419840558015464828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f06a1f7f44a140800000000000000
+      internalID: 4729992915967866604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b055acdbaea415570800000000000000
+      internalID: 8453620347618088203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda94442d9b7fb140800000000000000
+      internalID: 4737641247865608926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12260c6c111c890800000000000000
+      internalID: -7439645564110495290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96836dfe7df79b360800000000000000
+      internalID: 7185915245864826985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f884e8249df31200800000000000000
+      internalID: 149742025416411380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7e27beddf8e440800000000000000
+      internalID: 4965497722173815813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd060e083010fb640800000000000000
+      internalID: 5097794417765408988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 62_rolled-scroll_eclipse-omen_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0ea058ecb34e10800000000000000
+      internalID: 2180794350549471130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b767c0a34b7fa24caa2f339a26486da
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      62_rolled-scroll_eclipse-omen_nopalette_0: 1124718830791022093
+      62_rolled-scroll_eclipse-omen_nopalette_1: -7211261399878704238
+      62_rolled-scroll_eclipse-omen_nopalette_10: -6436336656109098241
+      62_rolled-scroll_eclipse-omen_nopalette_11: 5348131003209153098
+      62_rolled-scroll_eclipse-omen_nopalette_12: 7708560480853707622
+      62_rolled-scroll_eclipse-omen_nopalette_13: 9011341487305681226
+      62_rolled-scroll_eclipse-omen_nopalette_14: 755248476310007505
+      62_rolled-scroll_eclipse-omen_nopalette_15: 8680163887255566400
+      62_rolled-scroll_eclipse-omen_nopalette_16: -4866351746419838759
+      62_rolled-scroll_eclipse-omen_nopalette_17: -488598487137566266
+      62_rolled-scroll_eclipse-omen_nopalette_18: 8190885003902304223
+      62_rolled-scroll_eclipse-omen_nopalette_19: 2465760451472231547
+      62_rolled-scroll_eclipse-omen_nopalette_2: 406953329115020293
+      62_rolled-scroll_eclipse-omen_nopalette_20: 8419840558015464828
+      62_rolled-scroll_eclipse-omen_nopalette_21: 4729992915967866604
+      62_rolled-scroll_eclipse-omen_nopalette_22: 8453620347618088203
+      62_rolled-scroll_eclipse-omen_nopalette_23: 4737641247865608926
+      62_rolled-scroll_eclipse-omen_nopalette_24: -7439645564110495290
+      62_rolled-scroll_eclipse-omen_nopalette_25: 7185915245864826985
+      62_rolled-scroll_eclipse-omen_nopalette_26: 149742025416411380
+      62_rolled-scroll_eclipse-omen_nopalette_27: 4965497722173815813
+      62_rolled-scroll_eclipse-omen_nopalette_28: 5097794417765408988
+      62_rolled-scroll_eclipse-omen_nopalette_29: 2180794350549471130
+      62_rolled-scroll_eclipse-omen_nopalette_3: 5996971182736522621
+      62_rolled-scroll_eclipse-omen_nopalette_4: -465973357669750599
+      62_rolled-scroll_eclipse-omen_nopalette_5: 3225729510013822837
+      62_rolled-scroll_eclipse-omen_nopalette_6: 6052118118433165404
+      62_rolled-scroll_eclipse-omen_nopalette_7: 1529384400294586615
+      62_rolled-scroll_eclipse-omen_nopalette_8: -7833063505157439189
+      62_rolled-scroll_eclipse-omen_nopalette_9: 1938474567946777888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

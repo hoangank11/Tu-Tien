@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e633a33c9394418e61be669f8e35f, type: 3}
+  m_Name: Consumable Item - SkillPill ID_01
+  m_EditorClassIdentifier: 
+  saveID: 37f8867aaafc47a42a5b69621fbcae0e
+  moneyType: 1
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.04, y: 0.04, z: 1}
+  itemName: "Ng\u1ED9 \u0110\u1EA1o Linh Th\u1EA1ch"
+  itemIcon: {fileID: 21300000, guid: 1638652c0b5a6b1429df1d87d0731828, type: 3}
+  itemType: 5
+  description: " Ng\u1ED9 \u0110\u1EA1o Linh Th\u1EA1ch. M\u1ED9t lo\u1EA1i linh
+    th\u1EA1ch \u0111\u01B0\u1EE3c thi\xEAn \u0111\u1ECBa \u0111\u1EA1o v\u1EADn
+    hun \u0111\xFAc qua h\xE0ng v\u1EA1n n\u0103m, b\xEAn trong l\u01B0u gi\u1EEF
+    v\xF4 s\u1ED1 \u0111\u1EA1o v\u0103n v\xE0 m\u1EA3nh v\u1EE1 ph\xE1p t\u1EAFc.
+    Khi h\u1EA5p thu, tu s\u0129 c\xF3 th\u1EC3 l\u0129nh ng\u1ED9 c\xF4ng ph\xE1p,
+    khai m\u1EDF th\u1EA7n th\u1EE9c, di\u1EC5n h\xF3a th\u1EA7n th\xF4ng v\xE0 c\u1EE7ng
+    c\u1ED1 \u0111\u1EA1o \xFD. L\xE0 t\xE0i nguy\xEAn kh\xF4ng th\u1EC3 thi\u1EBFu
+    \u0111\u1EC3 h\u1ECDc t\u1EADp v\xE0 n\xE2ng c\u1EA5p c\xE1c k\u1EF9 n\u0103ng,
+    b\xED thu\u1EADt v\xE0 th\u1EA7n th\xF4ng.\n S\u1EED d\u1EE5ng s\u1EBD t\u0103ng
+    m\u1ED9t \xEDt linh th\u1EA1ch."
+  maxStackSize: 1
+  itemEffect: {fileID: 11400000, guid: afd4c7e5963d6e74e832247f414c3f0c, type: 2}
+  craftRecipe: []

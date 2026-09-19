@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c5cb754f6cb3f84e861f37fafd18a66, type: 3}
+  m_Name: Audio_DataBase
+  m_EditorClassIdentifier: 
+  player:
+  - audioName: Dash
+    clips:
+    - {fileID: 8300000, guid: f9ac2acd91e1ff4448db2a36aeb26ed3, type: 3}
+    maxVolume: 1
+  - audioName: Hit
+    clips:
+    - {fileID: 8300000, guid: 31378fa685835c54f95901b617ad5edf, type: 3}
+    maxVolume: 1
+  - audioName: Throw Sword
+    clips:
+    - {fileID: 8300000, guid: c76043d30fe57f44e8818ce7844955ba, type: 3}
+    maxVolume: 1
+  - audioName: Charge Skill
+    clips:
+    - {fileID: 8300000, guid: d60033a90d46d0247bca42299dce1f8f, type: 3}
+    maxVolume: 1
+  - audioName: Step_Grass
+    clips:
+    - {fileID: 8300000, guid: db407973f2f3c2b4ba8906d38c651a03, type: 3}
+    maxVolume: 1
+  - audioName: Jump
+    clips:
+    - {fileID: 8300000, guid: 849eb83fe796d504c80749bf9bcf7049, type: 3}
+    maxVolume: 1
+  - audioName: Landing
+    clips:
+    - {fileID: 8300000, guid: 054d21766b09d76459ce484cf93e92e8, type: 3}
+    maxVolume: 1
+  - audioName: Teleport
+    clips:
+    - {fileID: 8300000, guid: 8a0ac434171ae9a449101f5a83fd8204, type: 3}
+    maxVolume: 1
+  - audioName: Punch01
+    clips:
+    - {fileID: 8300000, guid: b0f2b543b48010e4787a64a2bbd262f7, type: 3}
+    maxVolume: 1
+  - audioName: Punch02
+    clips:
+    - {fileID: 8300000, guid: 7e42a2653a1c9724f9a9331812003717, type: 3}
+    maxVolume: 1
+  - audioName: Punch03
+    clips:
+    - {fileID: 8300000, guid: 33f98ec4b0888ea4189fe51b025dc677, type: 3}
+    maxVolume: 1
+  - audioName: "Di\u1EC7t Th\u1EBF L\xF4i"
+    clips:
+    - {fileID: 8300000, guid: 9247bca33a6e197468f122c724982e76, type: 3}
+    maxVolume: 1
+  - audioName: "Ho\xE0ng Sa Mai C\u1ED1t Quy\u1EBFt"
+    clips:
+    - {fileID: 8300000, guid: 74d4780b5e4d01d449eb0d5a85fffac7, type: 3}
+    maxVolume: 1
+  - audioName: "H\xE0n B\u0103ng Tr\xF3i \u1EA2nh"
+    clips:
+    - {fileID: 8300000, guid: 79d245dbd914e0e49ae2a2a439b7fc26, type: 3}
+    maxVolume: 1
+  - audioName: "H\u1ED9 Linh Ng\u01B0ng Thu\u1EABn"
+    clips:
+    - {fileID: 8300000, guid: f37ebcb529c056441a09f12a435cb8f1, type: 3}
+    maxVolume: 1
+  - audioName: "Kim Chung H\u1ED9 Th\u1EC3"
+    clips:
+    - {fileID: 8300000, guid: 1558c7546314fb5438bd7457e2132afa, type: 3}
+    maxVolume: 1
+  - audioName: "Kim Ch\u01B0\u1EDFng T\xE2m L\xF4i"
+    clips:
+    - {fileID: 8300000, guid: 22d1cedf3bd8d804fa13f4a060b5ccc3, type: 3}
+    maxVolume: 1
+  - audioName: "L\u01B0u \u1EA2nh B\u1ED9"
+    clips:
+    - {fileID: 8300000, guid: f02be7b4fda03dc40a10276029c14f01, type: 3}
+    maxVolume: 1
+  - audioName: "Ng\u1EF1 Ki\u1EBFm Thi\xEAn Phong D\u1EABn"
+    clips:
+    - {fileID: 8300000, guid: 866cd5322e7e9c84da08034f1a5a7f84, type: 3}
+    maxVolume: 1
+  - audioName: "Ph\u1EA7n Thi\xEAn Di\u1EC7t Vi\xEAm Quy\u1EBFt"
+    clips:
+    - {fileID: 8300000, guid: 887bdee56892bb14ba8dc52b25ba3419, type: 3}
+    maxVolume: 1
+  - audioName: "Ph\u1EA7n Vi\xEAm Ch\u01B0\u1EDFng"
+    clips:
+    - {fileID: 8300000, guid: 19aa7491c79cf3a48be06ff9548970c4, type: 3}
+    maxVolume: 1
+  - audioName: "Song Long H\u1ED9 Thi\xEAn Quy\u1EBFt"
+    clips:
+    - {fileID: 8300000, guid: da27f616a64cabf42a300824b189018f, type: 3}
+    maxVolume: 1
+  - audioName: "Thanh Li\xEAn H\u1ED3i Nguy\xEAn Quy\u1EBFt"
+    clips:
+    - {fileID: 8300000, guid: c1e2a34c9d8a31f4ababfbbdc05a3445, type: 3}
+    maxVolume: 1
+  - audioName: "Thanh Long Thi\xEAn Tru 01"
+    clips:
+    - {fileID: 8300000, guid: c989ba34aeb3e424eabb357f54604531, type: 3}
+    maxVolume: 1
+  - audioName: "Thi\xEAn Huy\u1EC5n T\xE0n \u1EA2nh Quy\u1EBFt"
+    clips:
+    - {fileID: 8300000, guid: b3d1959a10289314d8297a0e82cfc0e5, type: 3}
+    maxVolume: 1
+  - audioName: "Thi\xEAn Ma Nh\u1EA5t Ch\u1EC9"
+    clips:
+    - {fileID: 8300000, guid: 1956e0419410da341984747a6374c1bd, type: 3}
+    maxVolume: 1
+  - audioName: "Thi\xEAn Ma Song Ch\u1EC9"
+    clips:
+    - {fileID: 8300000, guid: d6be40f9f8eadee4e8caebb5e8df99b7, type: 3}
+    maxVolume: 1
+  - audioName: "Thi\xEAn Ma Th\u1EE7 \u1EA4n"
+    clips:
+    - {fileID: 8300000, guid: 3a4744a8cc7732e4bb45cbe73ff65c3d, type: 3}
+    maxVolume: 1
+  - audioName: "Thi\xEAn \u0110\xECnh Tru Th\u1EA7n Ti\u1EC5n Quy\u1EBFt 02"
+    clips:
+    - {fileID: 8300000, guid: 59fbd2cfdce5882449f2c877fb400b66, type: 3}
+    maxVolume: 1
+  - audioName: "Th\u01B0\u01A1ng Lan Linh Ho\xE0ng"
+    clips:
+    - {fileID: 8300000, guid: eb1b343f7970e044c929ac4ff91a728d, type: 3}
+    maxVolume: 1
+  - audioName: "V\u1EA1n Ki\u1EBFm Quy T\xF4ng"
+    clips:
+    - {fileID: 8300000, guid: 5fe0828fc70ef35409e78530a1f6fb8e, type: 3}
+    maxVolume: 1
+  - audioName: "\u0110\u1EA1i Bi Ph\u1EADt Tr\u01B0\u1EDFng"
+    clips:
+    - {fileID: 8300000, guid: 89db892c5843390448e2df17c9142dd7, type: 3}
+    maxVolume: 1
+  - audioName: "\u0110\u1ECBnh Th\xE2n Thu\u1EADt"
+    clips:
+    - {fileID: 8300000, guid: 958f16ddd4c1a7645ac920789f5bc466, type: 3}
+    maxVolume: 1
+  mushroom:
+  - audioName: IdleMushroom
+    clips:
+    - {fileID: 8300000, guid: 843f8c39cd3b74a44a6e6519bd2be358, type: 3}
+    maxVolume: 1
+  - audioName: WalkMushroom
+    clips:
+    - {fileID: 8300000, guid: db407973f2f3c2b4ba8906d38c651a03, type: 3}
+    maxVolume: 1
+  - audioName: AttackMushroom
+    clips:
+    - {fileID: 8300000, guid: d4df6ec4c40abe44e8ab2e49af3694b5, type: 3}
+    maxVolume: 1
+  - audioName: DieMushroom
+    clips:
+    - {fileID: 8300000, guid: 1ddd10bb14ac44940bf6c04cba62b8b2, type: 3}
+    maxVolume: 1
+  uiAudio:
+  - audioName: Sell/Buy
+    clips:
+    - {fileID: 8300000, guid: 836a5d1e47ad5b54795d089027d9b428, type: 3}
+    maxVolume: 1
+  - audioName: Equip
+    clips:
+    - {fileID: 8300000, guid: 0724b6c00b21e1443a738b35b68c108b, type: 3}
+    maxVolume: 1
+  - audioName: Unequip
+    clips:
+    - {fileID: 8300000, guid: 04284c08e927c094d887dcc633071722, type: 3}
+    maxVolume: 1
+  - audioName: Button
+    clips:
+    - {fileID: 8300000, guid: 33f190adf696b2d4a9c06b2529d0fd92, type: 3}
+    maxVolume: 1
+  - audioName: Craft
+    clips:
+    - {fileID: 8300000, guid: 64205d63dfa521c48af3b573ffb43444, type: 3}
+    maxVolume: 1
+  objectItem:
+  - audioName: ChestOpen
+    clips:
+    - {fileID: 8300000, guid: 2cb008a2584bfea439949f0ae758114f, type: 3}
+    maxVolume: 1
+  - audioName: BreakItem
+    clips:
+    - {fileID: 8300000, guid: 2e3f5f5450a8c4c43a8bc7141db636d1, type: 3}
+    maxVolume: 1
+  mainMenuMusic:
+  - audioName: Menu
+    clips:
+    - {fileID: 8300000, guid: ca9188c20781bca40af33c706aa02ad5, type: 3}
+    maxVolume: 1
+  levelMusic:
+  - audioName: ThonThanhNguyen
+    clips:
+    - {fileID: 8300000, guid: 65fa9ca0c351bec488cb1f7f6839713c, type: 3}
+    maxVolume: 1
+  asmrMusic:
+  - audioName: ASMR
+    clips:
+    - {fileID: 8300000, guid: 0daedd8a722ffd846bb8a7cc92647cf2, type: 3}
+    maxVolume: 1

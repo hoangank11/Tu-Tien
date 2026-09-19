@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: dd4106004cc43264fa21a02ce4c579c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3207629248396767250
+    second: "chim b\u1ED3 c\xE2u-idle_0"
+  - first:
+      213: 3504023076199628970
+    second: "chim b\u1ED3 c\xE2u-idle_1"
+  - first:
+      213: -1548066441549499475
+    second: "chim b\u1ED3 c\xE2u-idle_2"
+  - first:
+      213: -7323826177555118811
+    second: "chim b\u1ED3 c\xE2u-idle_3"
+  - first:
+      213: 1704616487147070795
+    second: "chim b\u1ED3 c\xE2u-idle_4"
+  - first:
+      213: -1928922311915110052
+    second: "chim b\u1ED3 c\xE2u-idle_5"
+  - first:
+      213: -6864527668824615710
+    second: "chim b\u1ED3 c\xE2u-idle_6"
+  - first:
+      213: 6016143110328258552
+    second: "chim b\u1ED3 c\xE2u-idle_7"
+  - first:
+      213: 8456703156464208691
+    second: "chim b\u1ED3 c\xE2u-idle_8"
+  - first:
+      213: -4262359204816120663
+    second: "chim b\u1ED3 c\xE2u-idle_9"
+  - first:
+      213: 5041322304801016172
+    second: "chim b\u1ED3 c\xE2u-idle_10"
+  - first:
+      213: -8878175459947483255
+    second: "chim b\u1ED3 c\xE2u-idle_11"
+  - first:
+      213: 1971050375574994055
+    second: "chim b\u1ED3 c\xE2u-idle_12"
+  - first:
+      213: 3783317092169959017
+    second: "chim b\u1ED3 c\xE2u-idle_13"
+  - first:
+      213: 2530360140652798408
+    second: "chim b\u1ED3 c\xE2u-idle_14"
+  - first:
+      213: 2175830221057326471
+    second: "chim b\u1ED3 c\xE2u-idle_15"
+  - first:
+      213: -5157648366632862216
+    second: "chim b\u1ED3 c\xE2u-idle_16"
+  - first:
+      213: 1785306553569447819
+    second: "chim b\u1ED3 c\xE2u-idle_17"
+  - first:
+      213: 5641971086379559847
+    second: "chim b\u1ED3 c\xE2u-idle_18"
+  - first:
+      213: -1363424820386210441
+    second: "chim b\u1ED3 c\xE2u-idle_19"
+  - first:
+      213: 8852461981512940591
+    second: "chim b\u1ED3 c\xE2u-idle_20"
+  - first:
+      213: 3281366854440664163
+    second: "chim b\u1ED3 c\xE2u-idle_21"
+  - first:
+      213: -1351736441764764397
+    second: "chim b\u1ED3 c\xE2u-idle_22"
+  - first:
+      213: -4198463702051693611
+    second: "chim b\u1ED3 c\xE2u-idle_23"
+  - first:
+      213: 3388796127108917843
+    second: "chim b\u1ED3 c\xE2u-idle_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef482e71363c73d0800000000000000
+      internalID: -3207629248396767250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa086a53c6ac0a030800000000000000
+      internalID: 3504023076199628970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33dbef5c9248ae0800000000000000
+      internalID: -1548066441549499475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ce1215ea8c5a90800000000000000
+      internalID: -7323826177555118811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45eca2e9a308a710800000000000000
+      internalID: 1704616487147070795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5189fe80671b35e0800000000000000
+      internalID: -1928922311915110052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_6"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e45edc747c4cb0a0800000000000000
+      internalID: -6864527668824615710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_7"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff8701b842ad7350800000000000000
+      internalID: 6016143110328258552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_8"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b49fb17be3c5570800000000000000
+      internalID: 8456703156464208691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_9"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a491dbd2ee09d4c0800000000000000
+      internalID: -4262359204816120663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c690be71def56f540800000000000000
+      internalID: 5041322304801016172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f6d3035726ac480800000000000000
+      internalID: -8878175459947483255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_12"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c3c8e9fd39a5b10800000000000000
+      internalID: 1971050375574994055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_13"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664477b9da018430800000000000000
+      internalID: 3783317092169959017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_14"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ea693425ad1320800000000000000
+      internalID: 2530360140652798408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d7ea9de0a123e10800000000000000
+      internalID: 2175830221057326471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_16"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd797e032a5c68b0800000000000000
+      internalID: -5157648366632862216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_17"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f0facf9dea6c810800000000000000
+      internalID: 1785306553569447819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_18"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abada48fce4c4e40800000000000000
+      internalID: 5641971086379559847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_19"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dddee7954241de0800000000000000
+      internalID: -1363424820386210441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cbab315434ada70800000000000000
+      internalID: 8852461981512940591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c3da8c4c1c98d20800000000000000
+      internalID: 3281366854440664163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_22"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31529a63edaad3de0800000000000000
+      internalID: -1351736441764764397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db56d4e18f0cb5c0800000000000000
+      internalID: -4198463702051693611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "chim b\u1ED3 c\xE2u-idle_24"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aeb8c7f1c670f20800000000000000
+      internalID: 3388796127108917843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1a4eeac49291d504b998572b6d65acc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "chim b\u1ED3 c\xE2u-idle_0": -3207629248396767250
+      "chim b\u1ED3 c\xE2u-idle_1": 3504023076199628970
+      "chim b\u1ED3 c\xE2u-idle_10": 5041322304801016172
+      "chim b\u1ED3 c\xE2u-idle_11": -8878175459947483255
+      "chim b\u1ED3 c\xE2u-idle_12": 1971050375574994055
+      "chim b\u1ED3 c\xE2u-idle_13": 3783317092169959017
+      "chim b\u1ED3 c\xE2u-idle_14": 2530360140652798408
+      "chim b\u1ED3 c\xE2u-idle_15": 2175830221057326471
+      "chim b\u1ED3 c\xE2u-idle_16": -5157648366632862216
+      "chim b\u1ED3 c\xE2u-idle_17": 1785306553569447819
+      "chim b\u1ED3 c\xE2u-idle_18": 5641971086379559847
+      "chim b\u1ED3 c\xE2u-idle_19": -1363424820386210441
+      "chim b\u1ED3 c\xE2u-idle_2": -1548066441549499475
+      "chim b\u1ED3 c\xE2u-idle_20": 8852461981512940591
+      "chim b\u1ED3 c\xE2u-idle_21": 3281366854440664163
+      "chim b\u1ED3 c\xE2u-idle_22": -1351736441764764397
+      "chim b\u1ED3 c\xE2u-idle_23": -4198463702051693611
+      "chim b\u1ED3 c\xE2u-idle_24": 3388796127108917843
+      "chim b\u1ED3 c\xE2u-idle_3": -7323826177555118811
+      "chim b\u1ED3 c\xE2u-idle_4": 1704616487147070795
+      "chim b\u1ED3 c\xE2u-idle_5": -1928922311915110052
+      "chim b\u1ED3 c\xE2u-idle_6": -6864527668824615710
+      "chim b\u1ED3 c\xE2u-idle_7": 6016143110328258552
+      "chim b\u1ED3 c\xE2u-idle_8": 8456703156464208691
+      "chim b\u1ED3 c\xE2u-idle_9": -4262359204816120663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

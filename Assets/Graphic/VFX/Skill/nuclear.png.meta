@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: 79ea0218810477e4f8045d8226228097
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5402474465312207100
+    second: nuclear_0
+  - first:
+      213: 9097888116335734960
+    second: nuclear_1
+  - first:
+      213: 3190799023473788574
+    second: nuclear_2
+  - first:
+      213: -8157947744090195630
+    second: nuclear_3
+  - first:
+      213: 5126805000240960422
+    second: nuclear_4
+  - first:
+      213: 1530655957875049710
+    second: nuclear_5
+  - first:
+      213: -2434689864809958962
+    second: nuclear_6
+  - first:
+      213: -5706690640154358002
+    second: nuclear_7
+  - first:
+      213: 3197310249148039316
+    second: nuclear_8
+  - first:
+      213: -7350650130626563221
+    second: nuclear_9
+  - first:
+      213: -1809976698510480416
+    second: nuclear_10
+  - first:
+      213: -7010275553779526467
+    second: nuclear_11
+  - first:
+      213: 5844693114781113214
+    second: nuclear_12
+  - first:
+      213: 8645334160993153987
+    second: nuclear_13
+  - first:
+      213: -3892040448042766039
+    second: nuclear_14
+  - first:
+      213: -3627298990687295902
+    second: nuclear_15
+  - first:
+      213: -45819734890890585
+    second: nuclear_16
+  - first:
+      213: 8974894768972463720
+    second: nuclear_17
+  - first:
+      213: -7228004197154994152
+    second: nuclear_18
+  - first:
+      213: -2457559047638418136
+    second: nuclear_19
+  - first:
+      213: 5118502680489069349
+    second: nuclear_20
+  - first:
+      213: -3910670630851776241
+    second: nuclear_21
+  - first:
+      213: -5629290639860584553
+    second: nuclear_22
+  - first:
+      213: 1043720112126059011
+    second: nuclear_23
+  - first:
+      213: 3514465168126038545
+    second: nuclear_24
+  - first:
+      213: 6787914966264381984
+    second: nuclear_25
+  - first:
+      213: 3353292433398948817
+    second: nuclear_26
+  - first:
+      213: -5944005871521006135
+    second: nuclear_27
+  - first:
+      213: -7395485149279392758
+    second: nuclear_28
+  - first:
+      213: 3139084707569009497
+    second: nuclear_29
+  - first:
+      213: 7492378846313536816
+    second: nuclear_30
+  - first:
+      213: 2533841895515069299
+    second: nuclear_31
+  - first:
+      213: 2675247208781128090
+    second: nuclear_32
+  - first:
+      213: -8320665360080293213
+    second: nuclear_33
+  - first:
+      213: -8118832347125651729
+    second: nuclear_34
+  - first:
+      213: 7986861797050121123
+    second: nuclear_35
+  - first:
+      213: 1089038306660311993
+    second: nuclear_36
+  - first:
+      213: -7055198230302445400
+    second: nuclear_37
+  - first:
+      213: -6977641899454649571
+    second: nuclear_38
+  - first:
+      213: -352962470276499498
+    second: nuclear_39
+  - first:
+      213: -3858277935846032366
+    second: nuclear_40
+  - first:
+      213: -5258456690657817238
+    second: nuclear_41
+  - first:
+      213: -6138052312637897088
+    second: nuclear_42
+  - first:
+      213: 6432901027863641496
+    second: nuclear_43
+  - first:
+      213: 3520035091549860361
+    second: nuclear_44
+  - first:
+      213: -1470690912406281720
+    second: nuclear_45
+  - first:
+      213: 3219576149527744969
+    second: nuclear_46
+  - first:
+      213: 4330127986902621668
+    second: nuclear_47
+  - first:
+      213: 8222356131484476498
+    second: nuclear_48
+  - first:
+      213: 3375629581508637098
+    second: nuclear_49
+  - first:
+      213: 441121254533710878
+    second: nuclear_50
+  - first:
+      213: 6007841470607883062
+    second: nuclear_51
+  - first:
+      213: -7003973082201158310
+    second: nuclear_52
+  - first:
+      213: -1919577664782440227
+    second: nuclear_53
+  - first:
+      213: 3010302690529761228
+    second: nuclear_54
+  - first:
+      213: -5848854733108718368
+    second: nuclear_55
+  - first:
+      213: 1250075218696522355
+    second: nuclear_56
+  - first:
+      213: -2954476456710412658
+    second: nuclear_57
+  - first:
+      213: 2119030724133188203
+    second: nuclear_58
+  - first:
+      213: -7098080312995588746
+    second: nuclear_59
+  - first:
+      213: -648545220439301022
+    second: nuclear_60
+  - first:
+      213: 1113106201762844959
+    second: nuclear_61
+  - first:
+      213: 8561926387290993273
+    second: nuclear_62
+  - first:
+      213: 6686380725517385641
+    second: nuclear_63
+  - first:
+      213: 3605868035424440714
+    second: nuclear_64
+  - first:
+      213: 7069946312983525829
+    second: nuclear_65
+  - first:
+      213: -4912437846646682625
+    second: nuclear_66
+  - first:
+      213: -3172899690907376048
+    second: nuclear_67
+  - first:
+      213: -466555062861930957
+    second: nuclear_68
+  - first:
+      213: 5684658418054189817
+    second: nuclear_69
+  - first:
+      213: -8592088067559410685
+    second: nuclear_70
+  - first:
+      213: 6214411330130262297
+    second: nuclear_71
+  - first:
+      213: 7166439448799955556
+    second: nuclear_72
+  - first:
+      213: 7243327391725492685
+    second: nuclear_73
+  - first:
+      213: 8986496508193994305
+    second: nuclear_74
+  - first:
+      213: 1348975082278676295
+    second: nuclear_75
+  - first:
+      213: 8488263570651531052
+    second: nuclear_76
+  - first:
+      213: -176066737631005631
+    second: nuclear_77
+  - first:
+      213: 4366876755345436383
+    second: nuclear_78
+  - first:
+      213: -7082301536926104627
+    second: nuclear_79
+  - first:
+      213: 1436390995487243815
+    second: nuclear_80
+  - first:
+      213: -4380936490577192718
+    second: nuclear_81
+  - first:
+      213: -5355024248449589499
+    second: nuclear_82
+  - first:
+      213: -8126495248302136601
+    second: nuclear_83
+  - first:
+      213: -3742356726881343267
+    second: nuclear_84
+  - first:
+      213: -6661016831224075920
+    second: nuclear_85
+  - first:
+      213: -5657117663140268604
+    second: nuclear_86
+  - first:
+      213: -1339305117088004894
+    second: nuclear_87
+  - first:
+      213: 4463724019156241744
+    second: nuclear_88
+  - first:
+      213: -1726110656786443918
+    second: nuclear_89
+  - first:
+      213: -6322654855485163976
+    second: nuclear_90
+  - first:
+      213: 8768096377615933130
+    second: nuclear_91
+  - first:
+      213: 5503406872504289228
+    second: nuclear_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuclear_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf07d0517e179fa40800000000000000
+      internalID: 5402474465312207100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b070740a01324e70800000000000000
+      internalID: 9097888116335734960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9681d76ecef74c20800000000000000
+      internalID: 3190799023473788574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fd49dfb529ce80800000000000000
+      internalID: -8157947744090195630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a31f081cf1162740800000000000000
+      internalID: 5126805000240960422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee44a72eb7bfd3510800000000000000
+      internalID: 1530655957875049710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec132cda77e363ed0800000000000000
+      internalID: -2434689864809958962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f8d8e1913cdc0b0800000000000000
+      internalID: -5706690640154358002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904f254bb02f5c20800000000000000
+      internalID: 3197310249148039316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuclear_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6333dfc6ae3df990800000000000000
+      internalID: -7350650130626563221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 165a5457fae8ab04eabdf1cc1607d19f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      nuclear_0: 5402474465312207100
+      nuclear_1: 9097888116335734960
+      nuclear_2: 3190799023473788574
+      nuclear_3: -8157947744090195630
+      nuclear_4: 5126805000240960422
+      nuclear_5: 1530655957875049710
+      nuclear_6: -2434689864809958962
+      nuclear_7: -5706690640154358002
+      nuclear_8: 3197310249148039316
+      nuclear_9: -7350650130626563221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

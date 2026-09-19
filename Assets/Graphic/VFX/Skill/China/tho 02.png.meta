@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 28261ecbadfae854cb4808457c540453
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 693390003795728974
+    second: tho 02_0
+  - first:
+      213: -5741232076721470707
+    second: tho 02_1
+  - first:
+      213: 4578045249218044918
+    second: tho 02_2
+  - first:
+      213: -4215936750577737048
+    second: tho 02_3
+  - first:
+      213: -3208064875653397785
+    second: tho 02_4
+  - first:
+      213: 5696813308115925258
+    second: tho 02_5
+  - first:
+      213: -7009358553232916684
+    second: tho 02_6
+  - first:
+      213: -4010910378709179967
+    second: tho 02_7
+  - first:
+      213: 7935604617903586904
+    second: tho 02_8
+  - first:
+      213: -7696114288399445727
+    second: tho 02_9
+  - first:
+      213: 2728204827113797226
+    second: tho 02_10
+  - first:
+      213: -8693481655276013366
+    second: tho 02_11
+  - first:
+      213: 7739804723861331202
+    second: tho 02_12
+  - first:
+      213: -7298284610003934749
+    second: tho 02_13
+  - first:
+      213: 8793038127883064235
+    second: tho 02_14
+  - first:
+      213: 8163971737060212187
+    second: tho 02_15
+  - first:
+      213: 5814871519939117998
+    second: tho 02_16
+  - first:
+      213: -2719600679116976257
+    second: tho 02_17
+  - first:
+      213: 141246267288706933
+    second: tho 02_18
+  - first:
+      213: 7477964495210167147
+    second: tho 02_19
+  - first:
+      213: 2488197125943866449
+    second: tho 02_20
+  - first:
+      213: -1400709570882142032
+    second: tho 02_21
+  - first:
+      213: -3249360166618021446
+    second: tho 02_22
+  - first:
+      213: 982901337983222765
+    second: tho 02_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tho 02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a1d03e88a6f9900800000000000000
+      internalID: 693390003795728974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 256
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0340f538db0350b0800000000000000
+      internalID: -5741232076721470707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 256
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f36e4d06eb788f30800000000000000
+      internalID: 4578045249218044918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2ac42ccdbfd75c0800000000000000
+      internalID: -4215936750577737048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2854e1ef9aa73d0800000000000000
+      internalID: -3208064875653397785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b7fd45852f0f40800000000000000
+      internalID: 5696813308115925258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb4337881c9be90800000000000000
+      internalID: -7009358553232916684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tho 02_7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 162
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1ac13e2426658c0800000000000000
+      internalID: -4010910378709179967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33dcc2a5c9d78c64db37365ef0a3a506
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tho 02_0: 693390003795728974
+      tho 02_1: -5741232076721470707
+      tho 02_2: 4578045249218044918
+      tho 02_3: -4215936750577737048
+      tho 02_4: -3208064875653397785
+      tho 02_5: 5696813308115925258
+      tho 02_6: -7009358553232916684
+      tho 02_7: -4010910378709179967
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

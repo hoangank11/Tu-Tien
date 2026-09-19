@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 2"
+  m_EditorClassIdentifier: 
+  saveID: d49ca9167326ea34a840ad09c9261834
+  moneyType: 2
+  itemPrice: 100
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 2"
+  itemIcon: {fileID: -5285911598449367740, guid: 67f1a11930a53604b8a2e492abe612d5, type: 3}
+  itemType: 0
+  description: " \u0110an d\u01B0\u1EE3c ch\u1EE9a huy\u1EBFt kh\xED tinh thu\u1EA7n,
+    d\u01B0\u1EE3c l\u1EF1c m\u1EA1nh h\u01A1n Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc
+    1. C\xF3 kh\u1EA3 n\u0103ng th\u1EA9m th\u1EA5u s\xE2u v\xE0o c\u01A1 th\u1EC3,
+    t\xF4i luy\u1EC7n c\u01A1 nh\u1EE5c v\xE0 t\u0103ng c\u01B0\u1EDDng s\u1EE9c
+    m\u1EA1nh th\xE2n th\u1EC3. Ch\u1EC9 ng\u01B0\u1EDDi \u0111\xE3 \u0111\u1EA1t
+    Luy\u1EC7n B\xEC \u0110\u1EA1i Vi\xEAn M\xE3n m\u1EDBi c\xF3 th\u1EC3 h\u1EA5p
+    thu d\u01B0\u1EE3c l\u1EF1c \u0111\u1EC3 ti\u1EBFn th\xEAm m\u1ED9t b\u01B0\u1EDBc
+    tr\xEAn con \u0111\u01B0\u1EDDng luy\u1EC7n th\u1EC3."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe:
+  - itemData: {fileID: 11400000, guid: 823cab64c65b55344b4215ab0efdff22, type: 2}
+    stackSize: 3
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: 3c68e63be6e12794cb3e0895413817a5, type: 2}
+    stackSize: 5
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: e9f270cb80c0f004182f5938e831168b, type: 2}
+    stackSize: 10
+    itemEffect: {fileID: 0}

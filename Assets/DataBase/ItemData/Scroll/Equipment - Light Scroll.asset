@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: Equipment - Light Scroll
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0.1, y: 0.1, z: 1}
+  itemName: "Thi\xEAn L\xF4i Tr\u1EA5n H\u1ED3n Ph\xF9"
+  itemIcon: {fileID: 21300000, guid: be0e12b7b7bcf7a44bd501664872a03e, type: 3}
+  itemType: 6
+  description: " Kh\u1EAFc h\u1ECDa b\xED v\u0103n \u0111\u1ECBnh th\u1EA7n, m\u1ED7i
+    \u0111\xF2n t\u1EA5n c\xF4ng c\xF3 t\u1EC9 l\u1EC7 khi\u1EBFn m\u1EE5c ti\xEAu
+    r\u01A1i v\xE0o tr\u1EA1ng th\xE1i Cho\xE1ng, t\u1EA1m th\u1EDDi m\u1EA5t kh\u1EA3
+    n\u0103ng ph\u1EA3n kh\xE1ng."
+  maxStackSize: 1
+  itemEffect: {fileID: 11400000, guid: 999796419d8474a408308bca0f793a6b, type: 2}
+  craftRecipe: []
+  modifiers:
+  - startType: 6
+    value: 0.05

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Linh Chi N\xE2u \u0110\u1ECF"
+  m_EditorClassIdentifier: 
+  moneyType: 1
+  itemPrice: 50
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.15, y: 0.15, z: 1}
+  itemName: "Linh Chi N\xE2u \u0110\u1ECF"
+  itemIcon: {fileID: 21300000, guid: ddffc9b22dc9cb746a5012229ca4cc9d, type: 3}
+  itemType: 0
+  description: " C\xE2y n\u1EA5m l\u1EDBn c\xF3 m\u0169 h\xECnh qu\u1EA1t, b\u1EC1
+    m\u1EB7t b\xF3ng m\xE0u n\xE2u \u0111\u1ECF v\u1EDBi c\xE1c v\xF2ng v\xE2n \u0111\u1ED3ng
+    t\xE2m r\xF5 r\u1EC7t."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

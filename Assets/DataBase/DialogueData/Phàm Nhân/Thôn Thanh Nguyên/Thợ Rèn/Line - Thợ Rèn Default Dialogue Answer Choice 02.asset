@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Th\u1EE3 R\xE8n Default Dialogue Answer Choice 02"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "Tr\u01B0\u01A1ng \u0110\u1EA1i L\u1EF1c"
+  speaker: {fileID: 11400000, guid: b21c264e29f6cc141b6346820335c6e1, type: 2}
+  textLine:
+  - " Kh\xF4ng c\xF3 g\xEC, t\xF4i s\u1EBD quay l\u1EA1i sau"
+  actionLine: " H\u1EEBm........"
+  actionType: 6
+  choiceLine: []

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: da2f1a31a96cd0d4a9917882c34a6bc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3377938951159598717
+    second: potion_3_mushroom-shaped_16-bit_0
+  - first:
+      213: -6006623957112397752
+    second: potion_3_mushroom-shaped_16-bit_1
+  - first:
+      213: -4499979011398979750
+    second: potion_3_mushroom-shaped_16-bit_2
+  - first:
+      213: -4291261948184827043
+    second: potion_3_mushroom-shaped_16-bit_3
+  - first:
+      213: 3423756298002652157
+    second: potion_3_mushroom-shaped_16-bit_4
+  - first:
+      213: -5831272730808181660
+    second: potion_3_mushroom-shaped_16-bit_5
+  - first:
+      213: -795084216371428068
+    second: potion_3_mushroom-shaped_16-bit_6
+  - first:
+      213: -4138207346625254239
+    second: potion_3_mushroom-shaped_16-bit_7
+  - first:
+      213: 5117708623565218295
+    second: potion_3_mushroom-shaped_16-bit_8
+  - first:
+      213: 3942810891543720221
+    second: potion_3_mushroom-shaped_16-bit_9
+  - first:
+      213: -4333715518592618979
+    second: potion_3_mushroom-shaped_16-bit_10
+  - first:
+      213: -4928604490973973843
+    second: potion_3_mushroom-shaped_16-bit_11
+  - first:
+      213: -5862743387005449767
+    second: potion_3_mushroom-shaped_16-bit_12
+  - first:
+      213: 6256345511327275091
+    second: potion_3_mushroom-shaped_16-bit_13
+  - first:
+      213: -6426708728501155114
+    second: potion_3_mushroom-shaped_16-bit_14
+  - first:
+      213: -3066546633947280812
+    second: potion_3_mushroom-shaped_16-bit_15
+  - first:
+      213: 1421676555358276572
+    second: potion_3_mushroom-shaped_16-bit_16
+  - first:
+      213: 5882210697423064270
+    second: potion_3_mushroom-shaped_16-bit_17
+  - first:
+      213: 3315920475739320126
+    second: potion_3_mushroom-shaped_16-bit_18
+  - first:
+      213: -4341726522284606477
+    second: potion_3_mushroom-shaped_16-bit_19
+  - first:
+      213: -6337853747897586984
+    second: potion_3_mushroom-shaped_16-bit_20
+  - first:
+      213: -3507470926590241164
+    second: potion_3_mushroom-shaped_16-bit_21
+  - first:
+      213: -6921879514485170090
+    second: potion_3_mushroom-shaped_16-bit_22
+  - first:
+      213: 8836168258522478416
+    second: potion_3_mushroom-shaped_16-bit_23
+  - first:
+      213: 3367329534998451587
+    second: potion_3_mushroom-shaped_16-bit_24
+  - first:
+      213: 2522985268686105705
+    second: potion_3_mushroom-shaped_16-bit_25
+  - first:
+      213: 5625469466130467798
+    second: potion_3_mushroom-shaped_16-bit_26
+  - first:
+      213: 3625088111303879072
+    second: potion_3_mushroom-shaped_16-bit_27
+  - first:
+      213: -8910556880536132722
+    second: potion_3_mushroom-shaped_16-bit_28
+  - first:
+      213: -7817697441002118567
+    second: potion_3_mushroom-shaped_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813d27cb662f11d0800000000000000
+      internalID: -3377938951159598717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e6f0e55f24aca0800000000000000
+      internalID: -6006623957112397752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fa9d85eecdc81c0800000000000000
+      internalID: -4499979011398979750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bea448eff5274c0800000000000000
+      internalID: -4291261948184827043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb54f39630a38f20800000000000000
+      internalID: 3423756298002652157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c91c3c858231fa0800000000000000
+      internalID: -5831272730808181660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1549a42e1b47f4f0800000000000000
+      internalID: -795084216371428068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac6d79e7522296c0800000000000000
+      internalID: -4138207346625254239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1ee8bd0e0c50740800000000000000
+      internalID: 5117708623565218295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11310fad9da7b630800000000000000
+      internalID: 3942810891543720221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e60b462bc8bd3c0800000000000000
+      internalID: -4333715518592618979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f91d04541a9bb0800000000000000
+      internalID: -4928604490973973843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d90540a3f953aea0800000000000000
+      internalID: -5862743387005449767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35895c2581103d650800000000000000
+      internalID: 6256345511327275091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da49ca267ebfc6a0800000000000000
+      internalID: -6426708728501155114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a076c65107175d0800000000000000
+      internalID: -3066546633947280812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb81a37b4fcab310800000000000000
+      internalID: 1421676555358276572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc87e9c67fc1a150800000000000000
+      internalID: 5882210697423064270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe2ebaa14840e20800000000000000
+      internalID: 3315920475739320126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb755f3bb61fb3c0800000000000000
+      internalID: -4341726522284606477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daaf2e789b6b08a0800000000000000
+      internalID: -6337853747897586984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476149096c5f25fc0800000000000000
+      internalID: -3507470926590241164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ee09514b80ff90800000000000000
+      internalID: -6921879514485170090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05770d0173060aa70800000000000000
+      internalID: 8836168258522478416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38593470f582bbe20800000000000000
+      internalID: 3367329534998451587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c24990cb1730320800000000000000
+      internalID: 2522985268686105705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db4387acaea11e40800000000000000
+      internalID: 5625469466130467798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a962c14e66ee4230800000000000000
+      internalID: 3625088111303879072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e832bb03ab7575480800000000000000
+      internalID: -8910556880536132722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_3_mushroom-shaped_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952a69be895f18390800000000000000
+      internalID: -7817697441002118567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c80f697e546165140a80dfd0820e7426
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_3_mushroom-shaped_16-bit_0: -3377938951159598717
+      potion_3_mushroom-shaped_16-bit_1: -6006623957112397752
+      potion_3_mushroom-shaped_16-bit_10: -4333715518592618979
+      potion_3_mushroom-shaped_16-bit_11: -4928604490973973843
+      potion_3_mushroom-shaped_16-bit_12: -5862743387005449767
+      potion_3_mushroom-shaped_16-bit_13: 6256345511327275091
+      potion_3_mushroom-shaped_16-bit_14: -6426708728501155114
+      potion_3_mushroom-shaped_16-bit_15: -3066546633947280812
+      potion_3_mushroom-shaped_16-bit_16: 1421676555358276572
+      potion_3_mushroom-shaped_16-bit_17: 5882210697423064270
+      potion_3_mushroom-shaped_16-bit_18: 3315920475739320126
+      potion_3_mushroom-shaped_16-bit_19: -4341726522284606477
+      potion_3_mushroom-shaped_16-bit_2: -4499979011398979750
+      potion_3_mushroom-shaped_16-bit_20: -6337853747897586984
+      potion_3_mushroom-shaped_16-bit_21: -3507470926590241164
+      potion_3_mushroom-shaped_16-bit_22: -6921879514485170090
+      potion_3_mushroom-shaped_16-bit_23: 8836168258522478416
+      potion_3_mushroom-shaped_16-bit_24: 3367329534998451587
+      potion_3_mushroom-shaped_16-bit_25: 2522985268686105705
+      potion_3_mushroom-shaped_16-bit_26: 5625469466130467798
+      potion_3_mushroom-shaped_16-bit_27: 3625088111303879072
+      potion_3_mushroom-shaped_16-bit_28: -8910556880536132722
+      potion_3_mushroom-shaped_16-bit_29: -7817697441002118567
+      potion_3_mushroom-shaped_16-bit_3: -4291261948184827043
+      potion_3_mushroom-shaped_16-bit_4: 3423756298002652157
+      potion_3_mushroom-shaped_16-bit_5: -5831272730808181660
+      potion_3_mushroom-shaped_16-bit_6: -795084216371428068
+      potion_3_mushroom-shaped_16-bit_7: -4138207346625254239
+      potion_3_mushroom-shaped_16-bit_8: 5117708623565218295
+      potion_3_mushroom-shaped_16-bit_9: 3942810891543720221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

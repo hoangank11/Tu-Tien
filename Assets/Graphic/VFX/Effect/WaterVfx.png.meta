@@ -1,0 +1,1415 @@
+fileFormatVersion: 2
+guid: 33193a3fce0d51b4493ba390c174498d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5945965384772876735
+    second: WaterVfx_0
+  - first:
+      213: 1234241278165089471
+    second: WaterVfx_1
+  - first:
+      213: 2810210706921592118
+    second: WaterVfx_2
+  - first:
+      213: 7773101554876852988
+    second: WaterVfx_3
+  - first:
+      213: -6119039483648910328
+    second: WaterVfx_4
+  - first:
+      213: -5300650417279988285
+    second: WaterVfx_5
+  - first:
+      213: 7434596392461300747
+    second: WaterVfx_6
+  - first:
+      213: 8251068238320496031
+    second: WaterVfx_7
+  - first:
+      213: 11847919995231420
+    second: WaterVfx_8
+  - first:
+      213: 4064094055621513364
+    second: WaterVfx_9
+  - first:
+      213: -824231530592063169
+    second: WaterVfx_10
+  - first:
+      213: -7101856144543271613
+    second: WaterVfx_11
+  - first:
+      213: -6340727571412051309
+    second: WaterVfx_12
+  - first:
+      213: -6853078464813013140
+    second: WaterVfx_13
+  - first:
+      213: 412952482739629813
+    second: WaterVfx_14
+  - first:
+      213: -7988087764513133369
+    second: WaterVfx_15
+  - first:
+      213: -7228771527563857964
+    second: WaterVfx_16
+  - first:
+      213: 8323311864768873231
+    second: WaterVfx_17
+  - first:
+      213: -8602413938173641961
+    second: WaterVfx_18
+  - first:
+      213: 3174360988627390860
+    second: WaterVfx_19
+  - first:
+      213: 3613759921638039137
+    second: WaterVfx_20
+  - first:
+      213: -2136435597095577398
+    second: WaterVfx_21
+  - first:
+      213: -4139467208083142010
+    second: WaterVfx_22
+  - first:
+      213: 2801651725649928459
+    second: WaterVfx_23
+  - first:
+      213: -1719474594486721600
+    second: WaterVfx_24
+  - first:
+      213: -5037573670579933676
+    second: WaterVfx_25
+  - first:
+      213: -7797074347155116675
+    second: WaterVfx_26
+  - first:
+      213: -4683015576525285492
+    second: WaterVfx_27
+  - first:
+      213: 4219568306720356110
+    second: WaterVfx_28
+  - first:
+      213: -7099421424745092587
+    second: WaterVfx_29
+  - first:
+      213: -5008613596029558275
+    second: WaterVfx_30
+  - first:
+      213: 2261922557379446874
+    second: WaterVfx_31
+  - first:
+      213: -1355631626273050487
+    second: WaterVfx_32
+  - first:
+      213: -8594590310613784067
+    second: WaterVfx_33
+  - first:
+      213: -8192759373574080426
+    second: WaterVfx_34
+  - first:
+      213: 3855439478995962514
+    second: WaterVfx_35
+  - first:
+      213: -2398265666704304982
+    second: WaterVfx_36
+  - first:
+      213: 3497204419462693846
+    second: WaterVfx_37
+  - first:
+      213: 6244334048362407872
+    second: WaterVfx_38
+  - first:
+      213: -8460981981156016686
+    second: WaterVfx_39
+  - first:
+      213: -4933274230956790593
+    second: WaterVfx_40
+  - first:
+      213: 4846327890997999825
+    second: WaterVfx_41
+  - first:
+      213: 1639519237518602047
+    second: WaterVfx_42
+  - first:
+      213: 6122000875394671446
+    second: WaterVfx_43
+  - first:
+      213: -620622662880364803
+    second: WaterVfx_44
+  - first:
+      213: 4171379837943337860
+    second: WaterVfx_45
+  - first:
+      213: 771151964195705162
+    second: WaterVfx_46
+  - first:
+      213: -103654278345645449
+    second: WaterVfx_47
+  - first:
+      213: -2498923393390846011
+    second: WaterVfx_48
+  - first:
+      213: 2550093136494977801
+    second: WaterVfx_49
+  - first:
+      213: 176849297755061206
+    second: WaterVfx_50
+  - first:
+      213: 2945233250902159998
+    second: WaterVfx_51
+  - first:
+      213: 8308603495110071697
+    second: WaterVfx_52
+  - first:
+      213: 7500070639352708958
+    second: WaterVfx_53
+  - first:
+      213: -8622378899266782725
+    second: WaterVfx_54
+  - first:
+      213: -3499832419783715559
+    second: WaterVfx_55
+  - first:
+      213: 3166816615354131370
+    second: WaterVfx_56
+  - first:
+      213: -1314607156564665107
+    second: WaterVfx_57
+  - first:
+      213: 2749606656311778035
+    second: WaterVfx_58
+  - first:
+      213: 7193140096261960953
+    second: WaterVfx_59
+  - first:
+      213: 2676722137116375610
+    second: WaterVfx_60
+  - first:
+      213: 7349307145146819124
+    second: WaterVfx_61
+  - first:
+      213: 460010010924283828
+    second: WaterVfx_62
+  - first:
+      213: -2511318859535419030
+    second: WaterVfx_63
+  - first:
+      213: 7058162810501885428
+    second: WaterVfx_64
+  - first:
+      213: 2301248823180819659
+    second: WaterVfx_65
+  - first:
+      213: -8729561121522599977
+    second: WaterVfx_66
+  - first:
+      213: -3847341287612686857
+    second: WaterVfx_67
+  - first:
+      213: 2765088049383797645
+    second: WaterVfx_68
+  - first:
+      213: -8751049952137500667
+    second: WaterVfx_69
+  - first:
+      213: -5991518415808174385
+    second: WaterVfx_70
+  - first:
+      213: 204436977555682338
+    second: WaterVfx_71
+  - first:
+      213: 3635812392062315469
+    second: WaterVfx_72
+  - first:
+      213: -5876302765980473226
+    second: WaterVfx_73
+  - first:
+      213: -1004814611695351434
+    second: WaterVfx_74
+  - first:
+      213: 2130909257856636732
+    second: WaterVfx_75
+  - first:
+      213: -3281890365146647914
+    second: WaterVfx_76
+  - first:
+      213: -3719272159470512367
+    second: WaterVfx_77
+  - first:
+      213: 8637014654794999808
+    second: WaterVfx_78
+  - first:
+      213: -5129852027464155158
+    second: WaterVfx_79
+  - first:
+      213: 6299040605737252598
+    second: WaterVfx_80
+  - first:
+      213: 2747235945327848139
+    second: WaterVfx_81
+  - first:
+      213: 8713108791284469179
+    second: WaterVfx_82
+  - first:
+      213: -4090522180000554146
+    second: WaterVfx_83
+  - first:
+      213: 6429728611868637636
+    second: WaterVfx_84
+  - first:
+      213: -5900235900197574167
+    second: WaterVfx_85
+  - first:
+      213: 2255217795528467413
+    second: WaterVfx_86
+  - first:
+      213: 8479355409397584043
+    second: WaterVfx_87
+  - first:
+      213: -4360130023711907544
+    second: WaterVfx_88
+  - first:
+      213: 7190438699660396020
+    second: WaterVfx_89
+  - first:
+      213: -7767567096430107236
+    second: WaterVfx_90
+  - first:
+      213: -6067791640484870694
+    second: WaterVfx_91
+  - first:
+      213: -1257618519442393913
+    second: WaterVfx_92
+  - first:
+      213: -6152331167134593711
+    second: WaterVfx_93
+  - first:
+      213: -3961820147356953285
+    second: WaterVfx_94
+  - first:
+      213: -7164431226328774994
+    second: WaterVfx_95
+  - first:
+      213: -1273190530698944972
+    second: WaterVfx_96
+  - first:
+      213: 8176920660546535942
+    second: WaterVfx_97
+  - first:
+      213: 2794840233221719551
+    second: WaterVfx_98
+  - first:
+      213: -9073439224044017870
+    second: WaterVfx_99
+  - first:
+      213: -1657099058259905026
+    second: WaterVfx_100
+  - first:
+      213: -8583827948094203155
+    second: WaterVfx_101
+  - first:
+      213: 5018792225686760998
+    second: WaterVfx_102
+  - first:
+      213: -4673084333892522948
+    second: WaterVfx_103
+  - first:
+      213: -2309287021298415300
+    second: WaterVfx_104
+  - first:
+      213: -4763125690925658550
+    second: WaterVfx_105
+  - first:
+      213: 4314535744171765563
+    second: WaterVfx_106
+  - first:
+      213: -7232293808731664177
+    second: WaterVfx_107
+  - first:
+      213: -4674373856852985044
+    second: WaterVfx_108
+  - first:
+      213: -1596537581691294472
+    second: WaterVfx_109
+  - first:
+      213: 3585624629906313079
+    second: WaterVfx_110
+  - first:
+      213: -1575765378311125571
+    second: WaterVfx_111
+  - first:
+      213: 136852075936504766
+    second: WaterVfx_112
+  - first:
+      213: 6360381707620111381
+    second: WaterVfx_113
+  - first:
+      213: -4213914003906708080
+    second: WaterVfx_114
+  - first:
+      213: 4185970775761867529
+    second: WaterVfx_115
+  - first:
+      213: -5738196471749759337
+    second: WaterVfx_116
+  - first:
+      213: 4355447361198550065
+    second: WaterVfx_117
+  - first:
+      213: 4255690878175629400
+    second: WaterVfx_118
+  - first:
+      213: -1209708113062886441
+    second: WaterVfx_119
+  - first:
+      213: -1217829964971385917
+    second: WaterVfx_120
+  - first:
+      213: 8598572247636715215
+    second: WaterVfx_121
+  - first:
+      213: 5683517598763021405
+    second: WaterVfx_122
+  - first:
+      213: 6953275348659492983
+    second: WaterVfx_123
+  - first:
+      213: -7780123762824719543
+    second: WaterVfx_124
+  - first:
+      213: -1383612616776792378
+    second: WaterVfx_125
+  - first:
+      213: -6285278623429095468
+    second: WaterVfx_126
+  - first:
+      213: 1768911095465301213
+    second: WaterVfx_127
+  - first:
+      213: -8285313533218738723
+    second: WaterVfx_128
+  - first:
+      213: -416835835968533499
+    second: WaterVfx_129
+  - first:
+      213: -8793521938857752901
+    second: WaterVfx_130
+  - first:
+      213: -6768925026532924426
+    second: WaterVfx_131
+  - first:
+      213: 6132210500684376950
+    second: WaterVfx_132
+  - first:
+      213: -4808281639469576240
+    second: WaterVfx_133
+  - first:
+      213: -8022915229116582527
+    second: WaterVfx_134
+  - first:
+      213: -6491833287869676711
+    second: WaterVfx_135
+  - first:
+      213: 2835055911763983754
+    second: WaterVfx_136
+  - first:
+      213: 4738236349465210845
+    second: WaterVfx_137
+  - first:
+      213: -7182058106326029896
+    second: WaterVfx_138
+  - first:
+      213: -627714512421481482
+    second: WaterVfx_139
+  - first:
+      213: -3139102750978419508
+    second: WaterVfx_140
+  - first:
+      213: -6566312990017736037
+    second: WaterVfx_141
+  - first:
+      213: -7007574042576926234
+    second: WaterVfx_142
+  - first:
+      213: -4773576073101098782
+    second: WaterVfx_143
+  - first:
+      213: -6268925815193250586
+    second: WaterVfx_144
+  - first:
+      213: -3453881380536052461
+    second: WaterVfx_145
+  - first:
+      213: -3290496828784304520
+    second: WaterVfx_146
+  - first:
+      213: 2627660634478170213
+    second: WaterVfx_147
+  - first:
+      213: 6059884358063090243
+    second: WaterVfx_148
+  - first:
+      213: 5151842366278480493
+    second: WaterVfx_149
+  - first:
+      213: -4357864048766492967
+    second: WaterVfx_150
+  - first:
+      213: -2945715633798275799
+    second: WaterVfx_151
+  - first:
+      213: 1629298491272468555
+    second: WaterVfx_152
+  - first:
+      213: 3595563355102330515
+    second: WaterVfx_153
+  - first:
+      213: -376755550673651290
+    second: WaterVfx_154
+  - first:
+      213: -3707178964343483243
+    second: WaterVfx_155
+  - first:
+      213: -168880095893753876
+    second: WaterVfx_156
+  - first:
+      213: -724497689950047079
+    second: WaterVfx_157
+  - first:
+      213: -7486386429817590137
+    second: WaterVfx_158
+  - first:
+      213: 5020102096617094499
+    second: WaterVfx_159
+  - first:
+      213: -3035256181463395392
+    second: WaterVfx_160
+  - first:
+      213: -8695140039249825322
+    second: WaterVfx_161
+  - first:
+      213: -3725080262292749561
+    second: WaterVfx_162
+  - first:
+      213: -672522123106406897
+    second: WaterVfx_163
+  - first:
+      213: 9038414156609004484
+    second: WaterVfx_164
+  - first:
+      213: -3649771862176174420
+    second: WaterVfx_165
+  - first:
+      213: -5505877491596156392
+    second: WaterVfx_166
+  - first:
+      213: -2456786397345402412
+    second: WaterVfx_167
+  - first:
+      213: 2762373559799374014
+    second: WaterVfx_168
+  - first:
+      213: -7394896456161045391
+    second: WaterVfx_169
+  - first:
+      213: 8883385449247935923
+    second: WaterVfx_170
+  - first:
+      213: 539993009607709735
+    second: WaterVfx_171
+  - first:
+      213: -2311577122978776957
+    second: WaterVfx_172
+  - first:
+      213: 2342086130043964512
+    second: WaterVfx_173
+  - first:
+      213: 2099541037958785330
+    second: WaterVfx_174
+  - first:
+      213: -2140918635999162524
+    second: WaterVfx_175
+  - first:
+      213: -82557157204989459
+    second: WaterVfx_176
+  - first:
+      213: -5091599607200226414
+    second: WaterVfx_177
+  - first:
+      213: -2777946179566698677
+    second: WaterVfx_178
+  - first:
+      213: -2784629688375651224
+    second: WaterVfx_179
+  - first:
+      213: 6968472547517805765
+    second: WaterVfx_180
+  - first:
+      213: -2166820856721090056
+    second: WaterVfx_181
+  - first:
+      213: -4830093801666228422
+    second: WaterVfx_182
+  - first:
+      213: 3061331998276384527
+    second: WaterVfx_183
+  - first:
+      213: 1090008485388401793
+    second: WaterVfx_184
+  - first:
+      213: 2960981066367605689
+    second: WaterVfx_185
+  - first:
+      213: -1521636506777379847
+    second: WaterVfx_186
+  - first:
+      213: 4445611740946672513
+    second: WaterVfx_187
+  - first:
+      213: 6609424351510238137
+    second: WaterVfx_188
+  - first:
+      213: -8983635368115118848
+    second: WaterVfx_189
+  - first:
+      213: 4383291822606196743
+    second: WaterVfx_190
+  - first:
+      213: -7360084878526344640
+    second: WaterVfx_191
+  - first:
+      213: -5293077562670083515
+    second: WaterVfx_192
+  - first:
+      213: 5693286334322249319
+    second: WaterVfx_193
+  - first:
+      213: 8799631774223906796
+    second: WaterVfx_194
+  - first:
+      213: -6872740197586418572
+    second: WaterVfx_195
+  - first:
+      213: -6484964774652290930
+    second: WaterVfx_196
+  - first:
+      213: -1810926291168583215
+    second: WaterVfx_197
+  - first:
+      213: -8096349018309878508
+    second: WaterVfx_198
+  - first:
+      213: 2917056423253097119
+    second: WaterVfx_199
+  - first:
+      213: -1902683009876669034
+    second: WaterVfx_200
+  - first:
+      213: 3598246490922957878
+    second: WaterVfx_201
+  - first:
+      213: 131289824279346023
+    second: WaterVfx_202
+  - first:
+      213: 9112167878552819919
+    second: WaterVfx_203
+  - first:
+      213: 1434091571834670812
+    second: WaterVfx_204
+  - first:
+      213: -7067052563006357104
+    second: WaterVfx_205
+  - first:
+      213: 1914885411272167182
+    second: WaterVfx_206
+  - first:
+      213: 5760185240633762195
+    second: WaterVfx_207
+  - first:
+      213: -1887370226042296394
+    second: WaterVfx_208
+  - first:
+      213: 8592160332414786602
+    second: WaterVfx_209
+  - first:
+      213: -2152669993738313136
+    second: WaterVfx_210
+  - first:
+      213: 5578677897665737215
+    second: WaterVfx_211
+  - first:
+      213: 5005672486583618682
+    second: WaterVfx_212
+  - first:
+      213: 2857687290166366765
+    second: WaterVfx_213
+  - first:
+      213: 2378164740151277910
+    second: WaterVfx_214
+  - first:
+      213: -434798395804999829
+    second: WaterVfx_215
+  - first:
+      213: 4387339434192379899
+    second: WaterVfx_216
+  - first:
+      213: -6775371130025671116
+    second: WaterVfx_217
+  - first:
+      213: 8014900296338899325
+    second: WaterVfx_218
+  - first:
+      213: -262803142459812796
+    second: WaterVfx_219
+  - first:
+      213: 4450166450309039372
+    second: WaterVfx_220
+  - first:
+      213: -2815587412981956543
+    second: WaterVfx_221
+  - first:
+      213: 291558330172720834
+    second: WaterVfx_222
+  - first:
+      213: -5464582096889478851
+    second: WaterVfx_223
+  - first:
+      213: 7783100891389128836
+    second: WaterVfx_224
+  - first:
+      213: 1168079166486239356
+    second: WaterVfx_225
+  - first:
+      213: -9136532834281838084
+    second: WaterVfx_226
+  - first:
+      213: 3748165766792429215
+    second: WaterVfx_227
+  - first:
+      213: -4784202696340665987
+    second: WaterVfx_228
+  - first:
+      213: 1662968097692780923
+    second: WaterVfx_229
+  - first:
+      213: -4920998262366456864
+    second: WaterVfx_230
+  - first:
+      213: -3917084430513584525
+    second: WaterVfx_231
+  - first:
+      213: -814782641949273179
+    second: WaterVfx_232
+  - first:
+      213: 7330868704107769969
+    second: WaterVfx_233
+  - first:
+      213: -5691789660423389964
+    second: WaterVfx_234
+  - first:
+      213: 5904592084769047738
+    second: WaterVfx_235
+  - first:
+      213: -2706809546593691030
+    second: WaterVfx_236
+  - first:
+      213: 2018254345977657771
+    second: WaterVfx_237
+  - first:
+      213: 6519991346627813936
+    second: WaterVfx_238
+  - first:
+      213: 1243442970027307478
+    second: WaterVfx_239
+  - first:
+      213: -4281975517016576020
+    second: WaterVfx_240
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaterVfx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f72ea300548250800000000000000
+      internalID: 5945965384772876735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc772837e7e02110800000000000000
+      internalID: 1234241278165089471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6359f02bfbfdff620800000000000000
+      internalID: 2810210706921592118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa8753eaa9fdb60800000000000000
+      internalID: 7773101554876852988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c548a720ec41ba0800000000000000
+      internalID: -6119039483648910328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd008f878e4076b0800000000000000
+      internalID: -5300650417279988285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b047e0d570efc2760800000000000000
+      internalID: 7434596392461300747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9de992c8dea18270800000000000000
+      internalID: 8251068238320496031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc94a6de971a2000800000000000000
+      internalID: 11847919995231420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d817d200966830800000000000000
+      internalID: 4064094055621513364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3132663acdbf84f0800000000000000
+      internalID: -824231530592063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b29ab673217d90800000000000000
+      internalID: -7101856144543271613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a95705ed53108a0800000000000000
+      internalID: -6340727571412051309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67e0f60279f4e0a0800000000000000
+      internalID: -6853078464813013140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feafca581a1bb500800000000000000
+      internalID: 412952482739629813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccec89308c942190800000000000000
+      internalID: -7988087764513133369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2919689e3eab90800000000000000
+      internalID: -7228771527563857964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03c75eca08528370800000000000000
+      internalID: 8323311864768873231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b7a4cc9161e9880800000000000000
+      internalID: -8602413938173641961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c815efb20889d0c20800000000000000
+      internalID: 3174360988627390860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e57c09087a62230800000000000000
+      internalID: 3613759921638039137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac85e9dc42bd952e0800000000000000
+      internalID: -2136435597095577398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a83de8188ad86c0800000000000000
+      internalID: -4139467208083142010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0169b3966771e620800000000000000
+      internalID: 2801651725649928459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaterVfx_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c36f4b67f23328e0800000000000000
+      internalID: -1719474594486721600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 805a27bbc6d86694c9c0b2a73e122e78
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WaterVfx_0: 5945965384772876735
+      WaterVfx_1: 1234241278165089471
+      WaterVfx_10: -824231530592063169
+      WaterVfx_11: -7101856144543271613
+      WaterVfx_12: -6340727571412051309
+      WaterVfx_13: -6853078464813013140
+      WaterVfx_14: 412952482739629813
+      WaterVfx_15: -7988087764513133369
+      WaterVfx_16: -7228771527563857964
+      WaterVfx_17: 8323311864768873231
+      WaterVfx_18: -8602413938173641961
+      WaterVfx_19: 3174360988627390860
+      WaterVfx_2: 2810210706921592118
+      WaterVfx_20: 3613759921638039137
+      WaterVfx_21: -2136435597095577398
+      WaterVfx_22: -4139467208083142010
+      WaterVfx_23: 2801651725649928459
+      WaterVfx_24: -1719474594486721600
+      WaterVfx_3: 7773101554876852988
+      WaterVfx_4: -6119039483648910328
+      WaterVfx_5: -5300650417279988285
+      WaterVfx_6: 7434596392461300747
+      WaterVfx_7: 8251068238320496031
+      WaterVfx_8: 11847919995231420
+      WaterVfx_9: 4064094055621513364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: e6c6c6a8261e6b24888005ee910057db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3889005875392842302
+    second: "Th\u1ECF r\u1EEBng-run_0"
+  - first:
+      213: -536773611998372809
+    second: "Th\u1ECF r\u1EEBng-run_1"
+  - first:
+      213: 2505259961891002099
+    second: "Th\u1ECF r\u1EEBng-run_2"
+  - first:
+      213: -8567661122877377801
+    second: "Th\u1ECF r\u1EEBng-run_3"
+  - first:
+      213: 8485122380203577670
+    second: "Th\u1ECF r\u1EEBng-run_4"
+  - first:
+      213: -2035013887528789978
+    second: "Th\u1ECF r\u1EEBng-run_5"
+  - first:
+      213: -4515991179444341752
+    second: "Th\u1ECF r\u1EEBng-run_6"
+  - first:
+      213: 2501346496473748583
+    second: "Th\u1ECF r\u1EEBng-run_7"
+  - first:
+      213: -1266251128555634655
+    second: "Th\u1ECF r\u1EEBng-run_8"
+  - first:
+      213: -2051668545930644620
+    second: "Th\u1ECF r\u1EEBng-run_9"
+  - first:
+      213: -7698527230220885107
+    second: "Th\u1ECF r\u1EEBng-run_10"
+  - first:
+      213: -1818228575109719746
+    second: "Th\u1ECF r\u1EEBng-run_11"
+  - first:
+      213: 2056178351046819941
+    second: "Th\u1ECF r\u1EEBng-run_12"
+  - first:
+      213: 5758051906793054253
+    second: "Th\u1ECF r\u1EEBng-run_13"
+  - first:
+      213: -4769669838045435799
+    second: "Th\u1ECF r\u1EEBng-run_14"
+  - first:
+      213: -1977261653763421156
+    second: "Th\u1ECF r\u1EEBng-run_15"
+  - first:
+      213: 5575975533648459173
+    second: "Th\u1ECF r\u1EEBng-run_16"
+  - first:
+      213: 4761220960159617343
+    second: "Th\u1ECF r\u1EEBng-run_17"
+  - first:
+      213: 8297304527807596519
+    second: "Th\u1ECF r\u1EEBng-run_18"
+  - first:
+      213: 6256721479096572969
+    second: "Th\u1ECF r\u1EEBng-run_19"
+  - first:
+      213: -2468703768047308630
+    second: "Th\u1ECF r\u1EEBng-run_20"
+  - first:
+      213: -6022852868965348881
+    second: "Th\u1ECF r\u1EEBng-run_21"
+  - first:
+      213: 6872976969378777122
+    second: "Th\u1ECF r\u1EEBng-run_22"
+  - first:
+      213: 6811310134345821281
+    second: "Th\u1ECF r\u1EEBng-run_23"
+  - first:
+      213: 3839544498367280183
+    second: "Th\u1ECF r\u1EEBng-run_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c57dcbd2c9770ac0800000000000000
+      internalID: -3889005875392842302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c980c6e3ffc88f0800000000000000
+      internalID: -536773611998372809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6958279a874c220800000000000000
+      internalID: 2505259961891002099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f238f62a9d891980800000000000000
+      internalID: -8567661122877377801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64150c349d531c570800000000000000
+      internalID: 8485122380203577670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281cd8b6ad22c3e0800000000000000
+      internalID: -2035013887528789978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_6"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8043c64f2f9f351c0800000000000000
+      internalID: -4515991179444341752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_7"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7645c76c26196b220800000000000000
+      internalID: 2501346496473748583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_8"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1200106be4f5d6ee0800000000000000
+      internalID: -1266251128555634655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_9"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47336f2e3520783e0800000000000000
+      internalID: -2051668545930644620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83230dc546592590800000000000000
+      internalID: -7698527230220885107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39de1c8eba54c6e0800000000000000
+      internalID: -1818228575109719746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_12"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5608ef0f053098c10800000000000000
+      internalID: 2056178351046819941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_13"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2029a6a3b5b8ef40800000000000000
+      internalID: 5758051906793054253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_14"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96828679d8abecdb0800000000000000
+      internalID: -4769669838045435799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0e6b700b5f84e0800000000000000
+      internalID: -1977261653763421156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_16"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5b26f7438d16d40800000000000000
+      internalID: 5575975533648459173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_17"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31557bbc31431240800000000000000
+      internalID: 4761220960159617343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_18"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7463dc182f52370800000000000000
+      internalID: 8297304527807596519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_19"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c9b14290754d650800000000000000
+      internalID: 6256721479096572969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa03fd1b0076dbdd0800000000000000
+      internalID: -2468703768047308630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9c0e2e9378a6ca0800000000000000
+      internalID: -6022852868965348881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_22"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22843499328b16f50800000000000000
+      internalID: 6872976969378777122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c63b4ba72a68e50800000000000000
+      internalID: 6811310134345821281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Th\u1ECF r\u1EEBng-run_24"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734bc74e06dc84530800000000000000
+      internalID: 3839544498367280183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0fef643f78043fc4ab5a026b206ca1e0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Th\u1ECF r\u1EEBng-run_0": -3889005875392842302
+      "Th\u1ECF r\u1EEBng-run_1": -536773611998372809
+      "Th\u1ECF r\u1EEBng-run_10": -7698527230220885107
+      "Th\u1ECF r\u1EEBng-run_11": -1818228575109719746
+      "Th\u1ECF r\u1EEBng-run_12": 2056178351046819941
+      "Th\u1ECF r\u1EEBng-run_13": 5758051906793054253
+      "Th\u1ECF r\u1EEBng-run_14": -4769669838045435799
+      "Th\u1ECF r\u1EEBng-run_15": -1977261653763421156
+      "Th\u1ECF r\u1EEBng-run_16": 5575975533648459173
+      "Th\u1ECF r\u1EEBng-run_17": 4761220960159617343
+      "Th\u1ECF r\u1EEBng-run_18": 8297304527807596519
+      "Th\u1ECF r\u1EEBng-run_19": 6256721479096572969
+      "Th\u1ECF r\u1EEBng-run_2": 2505259961891002099
+      "Th\u1ECF r\u1EEBng-run_20": -2468703768047308630
+      "Th\u1ECF r\u1EEBng-run_21": -6022852868965348881
+      "Th\u1ECF r\u1EEBng-run_22": 6872976969378777122
+      "Th\u1ECF r\u1EEBng-run_23": 6811310134345821281
+      "Th\u1ECF r\u1EEBng-run_24": 3839544498367280183
+      "Th\u1ECF r\u1EEBng-run_3": -8567661122877377801
+      "Th\u1ECF r\u1EEBng-run_4": 8485122380203577670
+      "Th\u1ECF r\u1EEBng-run_5": -2035013887528789978
+      "Th\u1ECF r\u1EEBng-run_6": -4515991179444341752
+      "Th\u1ECF r\u1EEBng-run_7": 2501346496473748583
+      "Th\u1ECF r\u1EEBng-run_8": -1266251128555634655
+      "Th\u1ECF r\u1EEBng-run_9": -2051668545930644620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

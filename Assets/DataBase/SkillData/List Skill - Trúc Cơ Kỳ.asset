@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced9733b73fb59641ab9f8f389cbff34, type: 3}
+  m_Name: "List Skill - Tr\xFAc C\u01A1 K\u1EF3"
+  m_EditorClassIdentifier: 
+  skillList:
+  - {fileID: 11400000, guid: 3fdf57e77b238a4469dabb92a76bbde6, type: 2}
+  - {fileID: 11400000, guid: b5ab2319f037c6540b2f6515fedb2ac1, type: 2}
+  - {fileID: 11400000, guid: a5a35463930c27f4aa15806106882b59, type: 2}
+  - {fileID: 11400000, guid: 87b0064c32a23b143802172dfca56238, type: 2}

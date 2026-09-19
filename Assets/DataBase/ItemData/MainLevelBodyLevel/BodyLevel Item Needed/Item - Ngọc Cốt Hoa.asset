@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Ng\u1ECDc C\u1ED1t Hoa"
+  m_EditorClassIdentifier: 
+  saveID: 88a905a81e9a56042a031e85482f63d7
+  moneyType: 1
+  itemPrice: 1000
+  minStackSizeAtShop: 5
+  maxStackSizeAtShop: 10
+  itemRarity: 661
+  dropChance: 33.9
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Ng\u1ECDc C\u1ED1t Hoa"
+  itemIcon: {fileID: 21300000, guid: 1a0992c7f612f754fb38a33fbd112cf9, type: 3}
+  itemType: 0
+  description: " Linh hoa qu\xFD hi\u1EBFm c\xF3 d\u01B0\u1EE3c l\u1EF1c th\u1EA5m
+    s\xE2u v\xE0o g\xE2n c\u1ED1t, gi\xFAp d\u1EABn n\u0103ng l\u01B0\u1EE3ng v\xE0o
+    c\u01A1 th\u1EC3 m\xE0 kh\xF4ng g\xE2y t\u1ED5n th\u01B0\u01A1ng. Th\u01B0\u1EDDng
+    d\xF9ng \u0111\u1EC3 luy\u1EC7n Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 3."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

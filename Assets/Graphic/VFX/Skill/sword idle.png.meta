@@ -1,0 +1,1538 @@
+fileFormatVersion: 2
+guid: f90347b7bcd4cf145bd79d63bd82da16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7833142210566264047
+    second: sword idle_0
+  - first:
+      213: 7744724530166081679
+    second: sword idle_1
+  - first:
+      213: 7401110407598763861
+    second: sword idle_2
+  - first:
+      213: 3480003392844989191
+    second: sword idle_3
+  - first:
+      213: 314538307428404020
+    second: sword idle_4
+  - first:
+      213: 4158406670762326771
+    second: sword idle_5
+  - first:
+      213: 8611624931382773737
+    second: sword idle_6
+  - first:
+      213: 3505816773117427490
+    second: sword idle_7
+  - first:
+      213: -3772147521968218286
+    second: sword idle_8
+  - first:
+      213: 6967650364371641054
+    second: sword idle_9
+  - first:
+      213: 5089301269931039591
+    second: sword idle_10
+  - first:
+      213: -2931271203779682466
+    second: sword idle_11
+  - first:
+      213: -8344871849272397084
+    second: sword idle_12
+  - first:
+      213: 8163708359226896949
+    second: sword idle_13
+  - first:
+      213: 2477911599927209728
+    second: sword idle_14
+  - first:
+      213: 2655513133964405876
+    second: sword idle_15
+  - first:
+      213: 7603231736228278022
+    second: sword idle_16
+  - first:
+      213: -5488371287705180255
+    second: sword idle_17
+  - first:
+      213: 4984982737849471265
+    second: sword idle_18
+  - first:
+      213: 642825295357412064
+    second: sword idle_19
+  - first:
+      213: 7220514987041403448
+    second: sword idle_20
+  - first:
+      213: -79896092259216650
+    second: sword idle_21
+  - first:
+      213: -7180775466783148914
+    second: sword idle_22
+  - first:
+      213: -8468460572731542074
+    second: sword idle_23
+  - first:
+      213: -3391960337237699589
+    second: sword idle_24
+  - first:
+      213: -985365167165811254
+    second: sword idle_25
+  - first:
+      213: 409824054087637844
+    second: sword idle_26
+  - first:
+      213: -2250560833046005364
+    second: sword idle_27
+  - first:
+      213: 5224766398655054274
+    second: sword idle_28
+  - first:
+      213: -3302162896968019987
+    second: sword idle_29
+  - first:
+      213: 3236418715457010761
+    second: sword idle_30
+  - first:
+      213: -6964656499785062246
+    second: sword idle_31
+  - first:
+      213: -1896231459468950997
+    second: sword idle_32
+  - first:
+      213: -748576028903753941
+    second: sword idle_33
+  - first:
+      213: -493826024998195518
+    second: sword idle_34
+  - first:
+      213: 2150215812161879875
+    second: sword idle_35
+  - first:
+      213: 3630450636401784551
+    second: sword idle_36
+  - first:
+      213: 3166340791902081620
+    second: sword idle_37
+  - first:
+      213: -6644628416787319088
+    second: sword idle_38
+  - first:
+      213: 4095406504696208708
+    second: sword idle_39
+  - first:
+      213: 7081154873332063150
+    second: sword idle_40
+  - first:
+      213: -4557823008648633923
+    second: sword idle_41
+  - first:
+      213: 4450650609616937831
+    second: sword idle_42
+  - first:
+      213: -7327574416793486831
+    second: sword idle_43
+  - first:
+      213: -5992435245773055400
+    second: sword idle_44
+  - first:
+      213: -4228381989255028122
+    second: sword idle_45
+  - first:
+      213: 8381768135022211709
+    second: sword idle_46
+  - first:
+      213: -536482477427925333
+    second: sword idle_47
+  - first:
+      213: -7162697489197212719
+    second: sword idle_48
+  - first:
+      213: 501833366907807255
+    second: sword idle_49
+  - first:
+      213: -2505459541174954059
+    second: sword idle_50
+  - first:
+      213: -2939079724120240417
+    second: sword idle_51
+  - first:
+      213: 6308706786825930653
+    second: sword idle_52
+  - first:
+      213: -3583144737653896210
+    second: sword idle_53
+  - first:
+      213: -6965298831975760860
+    second: sword idle_54
+  - first:
+      213: -9059684125034645235
+    second: sword idle_55
+  - first:
+      213: -6910715692398388381
+    second: sword idle_56
+  - first:
+      213: -6996322378227386716
+    second: sword idle_57
+  - first:
+      213: -3079520047755763916
+    second: sword idle_58
+  - first:
+      213: -8381089079774127960
+    second: sword idle_59
+  - first:
+      213: 4176284258116282882
+    second: sword idle_60
+  - first:
+      213: -8863802793172739353
+    second: sword idle_61
+  - first:
+      213: -6072498810263280986
+    second: sword idle_62
+  - first:
+      213: -2294058417104887907
+    second: sword idle_63
+  - first:
+      213: -537942162892148494
+    second: sword idle_64
+  - first:
+      213: -8665846282051456241
+    second: sword idle_65
+  - first:
+      213: -7648913514625178692
+    second: sword idle_66
+  - first:
+      213: 4445855272771295165
+    second: sword idle_67
+  - first:
+      213: -6329507838425939451
+    second: sword idle_68
+  - first:
+      213: 8700215876556973028
+    second: sword idle_69
+  - first:
+      213: 8633000043105362696
+    second: sword idle_70
+  - first:
+      213: 62969560834932590
+    second: sword idle_71
+  - first:
+      213: 7733550425264506102
+    second: sword idle_72
+  - first:
+      213: -1275163547708427381
+    second: sword idle_73
+  - first:
+      213: 1283561319468324506
+    second: sword idle_74
+  - first:
+      213: 4404970866005120092
+    second: sword idle_75
+  - first:
+      213: -8831842072546440679
+    second: sword idle_76
+  - first:
+      213: 1774169436673615559
+    second: sword idle_77
+  - first:
+      213: -2749551633611421231
+    second: sword idle_78
+  - first:
+      213: -8079462964558745576
+    second: sword idle_79
+  - first:
+      213: 2609976306749681032
+    second: sword idle_80
+  - first:
+      213: -6425924092990257119
+    second: sword idle_81
+  - first:
+      213: 6048099715886320342
+    second: sword idle_82
+  - first:
+      213: 6127041028829335477
+    second: sword idle_83
+  - first:
+      213: -8678577939430639521
+    second: sword idle_84
+  - first:
+      213: -8320861731096975102
+    second: sword idle_85
+  - first:
+      213: 6998767164292108042
+    second: sword idle_86
+  - first:
+      213: -2554135483843816693
+    second: sword idle_87
+  - first:
+      213: 5108716392982254588
+    second: sword idle_88
+  - first:
+      213: -2653328566761080575
+    second: sword idle_89
+  - first:
+      213: 1763875912155448113
+    second: sword idle_90
+  - first:
+      213: 2448078953975343013
+    second: sword idle_91
+  - first:
+      213: 4458755549212339903
+    second: sword idle_92
+  - first:
+      213: 8129028674793353672
+    second: sword idle_93
+  - first:
+      213: -4787684171672509049
+    second: sword idle_94
+  - first:
+      213: -1709252336888437144
+    second: sword idle_95
+  - first:
+      213: -8927998105893052073
+    second: sword idle_96
+  - first:
+      213: 1177362548311325024
+    second: sword idle_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe49be7b659e4bc60800000000000000
+      internalID: 7833142210566264047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88adc74de9ca7b60800000000000000
+      internalID: 7744724530166081679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fee54f3b606b660800000000000000
+      internalID: 7401110407598763861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030eafd5a47b4030800000000000000
+      internalID: 3480003392844989191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc5829ce67d5400800000000000000
+      internalID: 314538307428404020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa376ab5d0a5b930800000000000000
+      internalID: 4158406670762326771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c7fdaf33a28770800000000000000
+      internalID: 8611624931382773737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3541d7c927a030800000000000000
+      internalID: 3505816773117427490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fd6b080d3a6abc0800000000000000
+      internalID: -3772147521968218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22e77171112b060800000000000000
+      internalID: 6967650364371641054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b1f2d6a84d0a640800000000000000
+      internalID: 5089301269931039591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f5166ee580257d0800000000000000
+      internalID: -2931271203779682466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e236ff144f013c80800000000000000
+      internalID: -8344871849272397084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5323b91ef715b4170800000000000000
+      internalID: 8163708359226896949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2b7ab87f436220800000000000000
+      internalID: 2477911599927209728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c255630274ad420800000000000000
+      internalID: 2655513133964405876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fecdefafa148960800000000000000
+      internalID: 7603231736228278022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a721e8746365d3b0800000000000000
+      internalID: -5488371287705180255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121d8f473673e2540800000000000000
+      internalID: 4984982737849471265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20a664336cbe800800000000000000
+      internalID: 642825295357412064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832bcf1ff1c643460800000000000000
+      internalID: 7220514987041403448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f292f96de624eef0800000000000000
+      internalID: -79896092259216650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84fc8222c2c85c90800000000000000
+      internalID: -7180775466783148914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c57fe71afbf97a80800000000000000
+      internalID: -8468460572731542074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf39bbe6b065de0d0800000000000000
+      internalID: -3391960337237699589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5d905e9974352f0800000000000000
+      internalID: -985365167165811254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bdd4c4eccffa500800000000000000
+      internalID: 409824054087637844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89b2e8a8d664c0e0800000000000000
+      internalID: -2250560833046005364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c14b3a8b59128840800000000000000
+      internalID: 5224766398655054274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0fbf375c5c22d0800000000000000
+      internalID: -3302162896968019987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cbd37aca11aec20800000000000000
+      internalID: 3236418715457010761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9822b350d1985f90800000000000000
+      internalID: -6964656499785062246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ce66c88b3fa5e0800000000000000
+      internalID: -1896231459468950997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b1dd51168c95f0800000000000000
+      internalID: -748576028903753941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cea32fb8d39529f0800000000000000
+      internalID: -493826024998195518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f365a83e917dd10800000000000000
+      internalID: 2150215812161879875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b15d6e93f16230800000000000000
+      internalID: 3630450636401784551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452172b9c2a11fb20800000000000000
+      internalID: 3166340791902081620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6fce0e8a989c3a0800000000000000
+      internalID: -6644628416787319088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ddd33848ec5d830800000000000000
+      internalID: 4095406504696208708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabdb78f6d0554260800000000000000
+      internalID: 7081154873332063150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1656c3f1c5fb0c0800000000000000
+      internalID: -4557823008648633923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e79d1623e3cd30800000000000000
+      internalID: 4450650609616937831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ab8cd14e93f4a90800000000000000
+      internalID: -7327574416793486831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a9a2ca4e796dca0800000000000000
+      internalID: -5992435245773055400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626bc3dbf4c155c0800000000000000
+      internalID: -4228381989255028122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72ffa5d5b5025470800000000000000
+      internalID: 8381768135022211709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baedfa877080e88f0800000000000000
+      internalID: -536482477427925333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sword idle_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db51da459cf89c90800000000000000
+      internalID: -7162697489197212719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2507c921000ae9b41892e4b6593b1a28
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sword idle_0: 7833142210566264047
+      sword idle_1: 7744724530166081679
+      sword idle_10: 5089301269931039591
+      sword idle_11: -2931271203779682466
+      sword idle_12: -8344871849272397084
+      sword idle_13: 8163708359226896949
+      sword idle_14: 2477911599927209728
+      sword idle_15: 2655513133964405876
+      sword idle_16: 7603231736228278022
+      sword idle_17: -5488371287705180255
+      sword idle_18: 4984982737849471265
+      sword idle_19: 642825295357412064
+      sword idle_2: 7401110407598763861
+      sword idle_20: 7220514987041403448
+      sword idle_21: -79896092259216650
+      sword idle_22: -7180775466783148914
+      sword idle_23: -8468460572731542074
+      sword idle_24: -3391960337237699589
+      sword idle_25: -985365167165811254
+      sword idle_26: 409824054087637844
+      sword idle_27: -2250560833046005364
+      sword idle_28: 5224766398655054274
+      sword idle_29: -3302162896968019987
+      sword idle_3: 3480003392844989191
+      sword idle_30: 3236418715457010761
+      sword idle_31: -6964656499785062246
+      sword idle_32: -1896231459468950997
+      sword idle_33: -748576028903753941
+      sword idle_34: -493826024998195518
+      sword idle_35: 2150215812161879875
+      sword idle_36: 3630450636401784551
+      sword idle_37: 3166340791902081620
+      sword idle_38: -6644628416787319088
+      sword idle_39: 4095406504696208708
+      sword idle_4: 314538307428404020
+      sword idle_40: 7081154873332063150
+      sword idle_41: -4557823008648633923
+      sword idle_42: 4450650609616937831
+      sword idle_43: -7327574416793486831
+      sword idle_44: -5992435245773055400
+      sword idle_45: -4228381989255028122
+      sword idle_46: 8381768135022211709
+      sword idle_47: -536482477427925333
+      sword idle_48: -7162697489197212719
+      sword idle_5: 4158406670762326771
+      sword idle_6: 8611624931382773737
+      sword idle_7: 3505816773117427490
+      sword idle_8: -3772147521968218286
+      sword idle_9: 6967650364371641054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: b92b634f1e8b75547b89cd016320ec31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1108876483492815097
+    second: potion_45_diving_bell_16-bit_dither_0
+  - first:
+      213: -8434196417081973896
+    second: potion_45_diving_bell_16-bit_dither_1
+  - first:
+      213: -2868174922280445095
+    second: potion_45_diving_bell_16-bit_dither_2
+  - first:
+      213: -2985836792399790373
+    second: potion_45_diving_bell_16-bit_dither_3
+  - first:
+      213: 9145698430350268363
+    second: potion_45_diving_bell_16-bit_dither_4
+  - first:
+      213: -593014904403222352
+    second: potion_45_diving_bell_16-bit_dither_5
+  - first:
+      213: -1817746540759019880
+    second: potion_45_diving_bell_16-bit_dither_6
+  - first:
+      213: -3736263013222261073
+    second: potion_45_diving_bell_16-bit_dither_7
+  - first:
+      213: -6369095468737401699
+    second: potion_45_diving_bell_16-bit_dither_8
+  - first:
+      213: -1200457345352709987
+    second: potion_45_diving_bell_16-bit_dither_9
+  - first:
+      213: 1201112686404435495
+    second: potion_45_diving_bell_16-bit_dither_10
+  - first:
+      213: 1890264283179481894
+    second: potion_45_diving_bell_16-bit_dither_11
+  - first:
+      213: 734172280908295706
+    second: potion_45_diving_bell_16-bit_dither_12
+  - first:
+      213: 3264958636489059903
+    second: potion_45_diving_bell_16-bit_dither_13
+  - first:
+      213: -1977344803866491755
+    second: potion_45_diving_bell_16-bit_dither_14
+  - first:
+      213: -565546570221936665
+    second: potion_45_diving_bell_16-bit_dither_15
+  - first:
+      213: 5843194072211797013
+    second: potion_45_diving_bell_16-bit_dither_16
+  - first:
+      213: -9102097505026829889
+    second: potion_45_diving_bell_16-bit_dither_17
+  - first:
+      213: 7480764345351685299
+    second: potion_45_diving_bell_16-bit_dither_18
+  - first:
+      213: -2614505603124467009
+    second: potion_45_diving_bell_16-bit_dither_19
+  - first:
+      213: 571082850953510763
+    second: potion_45_diving_bell_16-bit_dither_20
+  - first:
+      213: 1860620327726177417
+    second: potion_45_diving_bell_16-bit_dither_21
+  - first:
+      213: -3181871060406879797
+    second: potion_45_diving_bell_16-bit_dither_22
+  - first:
+      213: 6204488238848893709
+    second: potion_45_diving_bell_16-bit_dither_23
+  - first:
+      213: -6928268509555577620
+    second: potion_45_diving_bell_16-bit_dither_24
+  - first:
+      213: 7380186964397248577
+    second: potion_45_diving_bell_16-bit_dither_25
+  - first:
+      213: 6544107351320822280
+    second: potion_45_diving_bell_16-bit_dither_26
+  - first:
+      213: -6333609188726793943
+    second: potion_45_diving_bell_16-bit_dither_27
+  - first:
+      213: 4966492437892975533
+    second: potion_45_diving_bell_16-bit_dither_28
+  - first:
+      213: -3809617128010930864
+    second: potion_45_diving_bell_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f50ad96ba7c90f0800000000000000
+      internalID: -1108876483492815097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873e4f18b07b3fa80800000000000000
+      internalID: -8434196417081973896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b5acbba123238d0800000000000000
+      internalID: -2868174922280445095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdef7b7c14d2096d0800000000000000
+      internalID: -2985836792399790373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc710e3344c0cee70800000000000000
+      internalID: 9145698430350268363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a88c161035c7f0800000000000000
+      internalID: -593014904403222352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0d5ae62116c6e0800000000000000
+      internalID: -1817746540759019880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faed475c590262cc0800000000000000
+      internalID: -3736263013222261073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c6b558a6d6c97a0800000000000000
+      internalID: -6369095468737401699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d984e3a976e175fe0800000000000000
+      internalID: -1200457345352709987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef950ef953ba010800000000000000
+      internalID: 1201112686404435495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b758ab9519b3a10800000000000000
+      internalID: 1890264283179481894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e2a77bccd403a00800000000000000
+      internalID: 734172280908295706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e2646d4967f4d20800000000000000
+      internalID: 3264958636489059903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594c217906f0f84e0800000000000000
+      internalID: -1977344803866491755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef1bf90466c628f0800000000000000
+      internalID: -565546570221936665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5143ad3dc02371150800000000000000
+      internalID: 5843194072211797013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb118ed4b8adea180800000000000000
+      internalID: -9102097505026829889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4481d898301d760800000000000000
+      internalID: 7480764345351685299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba6f76910967bbd0800000000000000
+      internalID: -2614505603124467009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fb664c3d4ece700800000000000000
+      internalID: 571082850953510763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5dff745042d910800000000000000
+      internalID: 1860620327726177417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc93a5bf029b7d3d0800000000000000
+      internalID: -3181871060406879797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d036da13e25ca1650800000000000000
+      internalID: 6204488238848893709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec2a638f78d9df90800000000000000
+      internalID: -6928268509555577620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140ddd431f0bb6660800000000000000
+      internalID: 7380186964397248577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802008fb6f651da50800000000000000
+      internalID: 6544107351320822280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291acfefff7a18a0800000000000000
+      internalID: -6333609188726793943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab46440f868ce440800000000000000
+      internalID: 4966492437892975533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_45_diving_bell_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0552aa20865812bc0800000000000000
+      internalID: -3809617128010930864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 47e7203cf7cdcea4f85462743a2da3ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_45_diving_bell_16-bit_dither_0: -1108876483492815097
+      potion_45_diving_bell_16-bit_dither_1: -8434196417081973896
+      potion_45_diving_bell_16-bit_dither_10: 1201112686404435495
+      potion_45_diving_bell_16-bit_dither_11: 1890264283179481894
+      potion_45_diving_bell_16-bit_dither_12: 734172280908295706
+      potion_45_diving_bell_16-bit_dither_13: 3264958636489059903
+      potion_45_diving_bell_16-bit_dither_14: -1977344803866491755
+      potion_45_diving_bell_16-bit_dither_15: -565546570221936665
+      potion_45_diving_bell_16-bit_dither_16: 5843194072211797013
+      potion_45_diving_bell_16-bit_dither_17: -9102097505026829889
+      potion_45_diving_bell_16-bit_dither_18: 7480764345351685299
+      potion_45_diving_bell_16-bit_dither_19: -2614505603124467009
+      potion_45_diving_bell_16-bit_dither_2: -2868174922280445095
+      potion_45_diving_bell_16-bit_dither_20: 571082850953510763
+      potion_45_diving_bell_16-bit_dither_21: 1860620327726177417
+      potion_45_diving_bell_16-bit_dither_22: -3181871060406879797
+      potion_45_diving_bell_16-bit_dither_23: 6204488238848893709
+      potion_45_diving_bell_16-bit_dither_24: -6928268509555577620
+      potion_45_diving_bell_16-bit_dither_25: 7380186964397248577
+      potion_45_diving_bell_16-bit_dither_26: 6544107351320822280
+      potion_45_diving_bell_16-bit_dither_27: -6333609188726793943
+      potion_45_diving_bell_16-bit_dither_28: 4966492437892975533
+      potion_45_diving_bell_16-bit_dither_29: -3809617128010930864
+      potion_45_diving_bell_16-bit_dither_3: -2985836792399790373
+      potion_45_diving_bell_16-bit_dither_4: 9145698430350268363
+      potion_45_diving_bell_16-bit_dither_5: -593014904403222352
+      potion_45_diving_bell_16-bit_dither_6: -1817746540759019880
+      potion_45_diving_bell_16-bit_dither_7: -3736263013222261073
+      potion_45_diving_bell_16-bit_dither_8: -6369095468737401699
+      potion_45_diving_bell_16-bit_dither_9: -1200457345352709987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: f928bbc5390868448a6a8e7f94163166
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8114074358367759882
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_0
+  - first:
+      213: 3863919844810593638
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_1
+  - first:
+      213: 8872491576363424755
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_2
+  - first:
+      213: 7420758034269785207
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_3
+  - first:
+      213: 2819798089358411147
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_4
+  - first:
+      213: -2609532401074827628
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_5
+  - first:
+      213: -1795677834699126173
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_6
+  - first:
+      213: -8725683646344111350
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_7
+  - first:
+      213: 3581993361878682446
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_8
+  - first:
+      213: -335098600355153534
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_9
+  - first:
+      213: -8375024934061562909
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_10
+  - first:
+      213: 3389980120590223930
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_11
+  - first:
+      213: 5833038225975250688
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_12
+  - first:
+      213: 6348410220961302180
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_13
+  - first:
+      213: -8410478413350694110
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_14
+  - first:
+      213: -5661307457558746390
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_15
+  - first:
+      213: -8196766033288939648
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_16
+  - first:
+      213: -3927318473930893904
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_17
+  - first:
+      213: -3697516368714203050
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_18
+  - first:
+      213: 1475391065729369007
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_19
+  - first:
+      213: -2506295043278040000
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_20
+  - first:
+      213: -1928219074102193652
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_21
+  - first:
+      213: -404111442432693644
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_22
+  - first:
+      213: 2250177877914765974
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_23
+  - first:
+      213: 858393174445046042
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_24
+  - first:
+      213: 838231391742592040
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_25
+  - first:
+      213: -6614249499637044615
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_26
+  - first:
+      213: 2007913554208457500
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_27
+  - first:
+      213: -4714547304521318398
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_28
+  - first:
+      213: -2163112618897325773
+    second: 109_unrolled-scroll_thunder-bolt_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1526c7c54056f80800000000000000
+      internalID: -8114074358367759882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665948e70a66f9530800000000000000
+      internalID: 3863919844810593638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb99c9841c612b70800000000000000
+      internalID: 8872491576363424755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc6c48d14dbf660800000000000000
+      internalID: 7420758034269785207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85888e1c6fe12720800000000000000
+      internalID: 2819798089358411147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e001c6b1419cbd0800000000000000
+      internalID: -2609532401074827628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a47b3f5887417e0800000000000000
+      internalID: -1795677834699126173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b593d44f428e680800000000000000
+      internalID: -8725683646344111350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b06920cfbc5b130800000000000000
+      internalID: 3581993361878682446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b911399d795bf0800000000000000
+      internalID: -335098600355153534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3a83cf13fe5cb80800000000000000
+      internalID: -8375024934061562909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a8a6375f0ab0f20800000000000000
+      internalID: 3389980120590223930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f878c9c5d13f050800000000000000
+      internalID: 5833038225975250688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a68bdce5751a1850800000000000000
+      internalID: 6348410220961302180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2231425917af74b80800000000000000
+      internalID: -8410478413350694110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeae0fbbcdefe61b0800000000000000
+      internalID: -5661307457558746390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08733d698bc3f3e80800000000000000
+      internalID: -8196766033288939648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b51581e7ac5f79c0800000000000000
+      internalID: -3927318473930893904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500993f378cfacc0800000000000000
+      internalID: -3697516368714203050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa385997b54a97410800000000000000
+      internalID: 1475391065729369007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0441713efe9d73dd0800000000000000
+      internalID: -2506295043278040000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02910fd7f69d35e0800000000000000
+      internalID: -1928219074102193652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae020c8ce446af0800000000000000
+      internalID: -404111442432693644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a4d86abdc3a3f10800000000000000
+      internalID: 2250177877914765974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ba605b00a9eb00800000000000000
+      internalID: 858393174445046042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8240668720ff1ab00800000000000000
+      internalID: 838231391742592040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2456bf177534a0800000000000000
+      internalID: -6614249499637044615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13894a3dba8ddb10800000000000000
+      internalID: 2007913554208457500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2004b3d8430929eb0800000000000000
+      internalID: -4714547304521318398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 109_unrolled-scroll_thunder-bolt_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331c575a8841bf1e0800000000000000
+      internalID: -2163112618897325773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5d85f88229238d44c8f489b8dc5592a1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      109_unrolled-scroll_thunder-bolt_nopalette_0: -8114074358367759882
+      109_unrolled-scroll_thunder-bolt_nopalette_1: 3863919844810593638
+      109_unrolled-scroll_thunder-bolt_nopalette_10: -8375024934061562909
+      109_unrolled-scroll_thunder-bolt_nopalette_11: 3389980120590223930
+      109_unrolled-scroll_thunder-bolt_nopalette_12: 5833038225975250688
+      109_unrolled-scroll_thunder-bolt_nopalette_13: 6348410220961302180
+      109_unrolled-scroll_thunder-bolt_nopalette_14: -8410478413350694110
+      109_unrolled-scroll_thunder-bolt_nopalette_15: -5661307457558746390
+      109_unrolled-scroll_thunder-bolt_nopalette_16: -8196766033288939648
+      109_unrolled-scroll_thunder-bolt_nopalette_17: -3927318473930893904
+      109_unrolled-scroll_thunder-bolt_nopalette_18: -3697516368714203050
+      109_unrolled-scroll_thunder-bolt_nopalette_19: 1475391065729369007
+      109_unrolled-scroll_thunder-bolt_nopalette_2: 8872491576363424755
+      109_unrolled-scroll_thunder-bolt_nopalette_20: -2506295043278040000
+      109_unrolled-scroll_thunder-bolt_nopalette_21: -1928219074102193652
+      109_unrolled-scroll_thunder-bolt_nopalette_22: -404111442432693644
+      109_unrolled-scroll_thunder-bolt_nopalette_23: 2250177877914765974
+      109_unrolled-scroll_thunder-bolt_nopalette_24: 858393174445046042
+      109_unrolled-scroll_thunder-bolt_nopalette_25: 838231391742592040
+      109_unrolled-scroll_thunder-bolt_nopalette_26: -6614249499637044615
+      109_unrolled-scroll_thunder-bolt_nopalette_27: 2007913554208457500
+      109_unrolled-scroll_thunder-bolt_nopalette_28: -4714547304521318398
+      109_unrolled-scroll_thunder-bolt_nopalette_29: -2163112618897325773
+      109_unrolled-scroll_thunder-bolt_nopalette_3: 7420758034269785207
+      109_unrolled-scroll_thunder-bolt_nopalette_4: 2819798089358411147
+      109_unrolled-scroll_thunder-bolt_nopalette_5: -2609532401074827628
+      109_unrolled-scroll_thunder-bolt_nopalette_6: -1795677834699126173
+      109_unrolled-scroll_thunder-bolt_nopalette_7: -8725683646344111350
+      109_unrolled-scroll_thunder-bolt_nopalette_8: 3581993361878682446
+      109_unrolled-scroll_thunder-bolt_nopalette_9: -335098600355153534
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

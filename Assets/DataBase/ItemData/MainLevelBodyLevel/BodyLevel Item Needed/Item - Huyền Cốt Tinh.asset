@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Huy\u1EC1n C\u1ED1t Tinh"
+  m_EditorClassIdentifier: 
+  saveID: 0022d388808b26144aa3756163069cac
+  moneyType: 1
+  itemPrice: 5000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 902
+  dropChance: 5
+  maxDropChance: 5
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EC1n C\u1ED1t Tinh"
+  itemIcon: {fileID: 21300000, guid: c84702971cf9c044d8d965e35e890150, type: 3}
+  itemType: 0
+  description: " Tinh th\u1EC3 \u0111\u01B0\u1EE3c h\xECnh th\xE0nh t\u1EEB x\u01B0\u01A1ng
+    c\u1EE7a y\xEAu th\xFA m\u1EA1nh, ch\u1EE9a l\u1EF1c l\u01B0\u1EE3ng c\u1ED1t
+    ch\u1EA5t tinh thu\u1EA7n. D\xF9ng \u0111\u1EC3 r\xE8n luy\u1EC7n x\u01B0\u01A1ng,
+    khi\u1EBFn th\xE2n th\u1EC3 ng\xE0y c\xE0ng c\u1EE9ng ch\u1EAFc."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

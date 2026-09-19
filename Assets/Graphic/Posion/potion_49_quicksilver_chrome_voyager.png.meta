@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: b81fea922742cce4987aac6e03418110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5442301655643240525
+    second: potion_49_quicksilver_chrome_voyager_0
+  - first:
+      213: -3471453298075799802
+    second: potion_49_quicksilver_chrome_voyager_1
+  - first:
+      213: 2193803004890704469
+    second: potion_49_quicksilver_chrome_voyager_2
+  - first:
+      213: 1765489126075981915
+    second: potion_49_quicksilver_chrome_voyager_3
+  - first:
+      213: -4423489316681244384
+    second: potion_49_quicksilver_chrome_voyager_4
+  - first:
+      213: 3741972451441841150
+    second: potion_49_quicksilver_chrome_voyager_5
+  - first:
+      213: -1530902874631090966
+    second: potion_49_quicksilver_chrome_voyager_6
+  - first:
+      213: 7511373330883204141
+    second: potion_49_quicksilver_chrome_voyager_7
+  - first:
+      213: 2202523922349947491
+    second: potion_49_quicksilver_chrome_voyager_8
+  - first:
+      213: 6220084345218913684
+    second: potion_49_quicksilver_chrome_voyager_9
+  - first:
+      213: 2694611791898570290
+    second: potion_49_quicksilver_chrome_voyager_10
+  - first:
+      213: 5083869339273409559
+    second: potion_49_quicksilver_chrome_voyager_11
+  - first:
+      213: 1502435100737507890
+    second: potion_49_quicksilver_chrome_voyager_12
+  - first:
+      213: 4427417214561088119
+    second: potion_49_quicksilver_chrome_voyager_13
+  - first:
+      213: -2571987999635953277
+    second: potion_49_quicksilver_chrome_voyager_14
+  - first:
+      213: 7560300969308878519
+    second: potion_49_quicksilver_chrome_voyager_15
+  - first:
+      213: 341772503436641927
+    second: potion_49_quicksilver_chrome_voyager_16
+  - first:
+      213: 8535102222382551822
+    second: potion_49_quicksilver_chrome_voyager_17
+  - first:
+      213: -3813805411921225113
+    second: potion_49_quicksilver_chrome_voyager_18
+  - first:
+      213: -5274533455730071029
+    second: potion_49_quicksilver_chrome_voyager_19
+  - first:
+      213: -1787456099566596254
+    second: potion_49_quicksilver_chrome_voyager_20
+  - first:
+      213: 8320414031793936841
+    second: potion_49_quicksilver_chrome_voyager_21
+  - first:
+      213: 8240353109614203128
+    second: potion_49_quicksilver_chrome_voyager_22
+  - first:
+      213: 3586908251893132236
+    second: potion_49_quicksilver_chrome_voyager_23
+  - first:
+      213: -7221065976731991163
+    second: potion_49_quicksilver_chrome_voyager_24
+  - first:
+      213: 3518377897257311969
+    second: potion_49_quicksilver_chrome_voyager_25
+  - first:
+      213: 1198628966179560759
+    second: potion_49_quicksilver_chrome_voyager_26
+  - first:
+      213: 3475703755498697110
+    second: potion_49_quicksilver_chrome_voyager_27
+  - first:
+      213: -4342296370328643770
+    second: potion_49_quicksilver_chrome_voyager_28
+  - first:
+      213: -2031416919235463086
+    second: potion_49_quicksilver_chrome_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b74dde8a7f0974b0800000000000000
+      internalID: -5442301655643240525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f65d13e9be2dfc0800000000000000
+      internalID: -3471453298075799802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae1bda534f17e10800000000000000
+      internalID: 2193803004890704469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50e2969107408810800000000000000
+      internalID: 1765489126075981915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021aa7337eb9c92c0800000000000000
+      internalID: -4423489316681244384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef31d776e182ee330800000000000000
+      internalID: 3741972451441841150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec4df352f321cae0800000000000000
+      internalID: -1530902874631090966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d2aa5f32cd3860800000000000000
+      internalID: 7511373330883204141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af7f086dfe09e10800000000000000
+      internalID: 2202523922349947491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ddbda1cd225650800000000000000
+      internalID: 6220084345218913684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e61b7e52f256520800000000000000
+      internalID: 2694611791898570290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71434e38a388d8640800000000000000
+      internalID: 5083869339273409559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232998d83c8b9d410800000000000000
+      internalID: 1502435100737507890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772fc5acf78517d30800000000000000
+      internalID: 4427417214561088119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a1239a867e4cd0800000000000000
+      internalID: -2571987999635953277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b672b6eca59be860800000000000000
+      internalID: 7560300969308878519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7864655f7483eb400800000000000000
+      internalID: 341772503436641927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0352c61046c27670800000000000000
+      internalID: 8535102222382551822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a19fb2f24a21bc0800000000000000
+      internalID: -3813805411921225113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0aab4784c71dc6b0800000000000000
+      internalID: -5274533455730071029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4ab5d52ea137e0800000000000000
+      internalID: -1787456099566596254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d04d7a7c087370800000000000000
+      internalID: 8320414031793936841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f017527e7d9b5270800000000000000
+      internalID: 8240353109614203128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbe1040d0247c130800000000000000
+      internalID: 3586908251893132236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5830b35c0ce99cb90800000000000000
+      internalID: -7221065976731991163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee9b9f6e0ac3d030800000000000000
+      internalID: 3518377897257311969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d50a2b1b262a010800000000000000
+      internalID: 1198628966179560759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691bdfa862e2c3030800000000000000
+      internalID: 3475703755498697110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647d71925701db3c0800000000000000
+      internalID: -4342296370328643770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_49_quicksilver_chrome_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258704a2315fec3e0800000000000000
+      internalID: -2031416919235463086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0a637bfaa29cda74cadae275ff8944d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_49_quicksilver_chrome_voyager_0: -5442301655643240525
+      potion_49_quicksilver_chrome_voyager_1: -3471453298075799802
+      potion_49_quicksilver_chrome_voyager_10: 2694611791898570290
+      potion_49_quicksilver_chrome_voyager_11: 5083869339273409559
+      potion_49_quicksilver_chrome_voyager_12: 1502435100737507890
+      potion_49_quicksilver_chrome_voyager_13: 4427417214561088119
+      potion_49_quicksilver_chrome_voyager_14: -2571987999635953277
+      potion_49_quicksilver_chrome_voyager_15: 7560300969308878519
+      potion_49_quicksilver_chrome_voyager_16: 341772503436641927
+      potion_49_quicksilver_chrome_voyager_17: 8535102222382551822
+      potion_49_quicksilver_chrome_voyager_18: -3813805411921225113
+      potion_49_quicksilver_chrome_voyager_19: -5274533455730071029
+      potion_49_quicksilver_chrome_voyager_2: 2193803004890704469
+      potion_49_quicksilver_chrome_voyager_20: -1787456099566596254
+      potion_49_quicksilver_chrome_voyager_21: 8320414031793936841
+      potion_49_quicksilver_chrome_voyager_22: 8240353109614203128
+      potion_49_quicksilver_chrome_voyager_23: 3586908251893132236
+      potion_49_quicksilver_chrome_voyager_24: -7221065976731991163
+      potion_49_quicksilver_chrome_voyager_25: 3518377897257311969
+      potion_49_quicksilver_chrome_voyager_26: 1198628966179560759
+      potion_49_quicksilver_chrome_voyager_27: 3475703755498697110
+      potion_49_quicksilver_chrome_voyager_28: -4342296370328643770
+      potion_49_quicksilver_chrome_voyager_29: -2031416919235463086
+      potion_49_quicksilver_chrome_voyager_3: 1765489126075981915
+      potion_49_quicksilver_chrome_voyager_4: -4423489316681244384
+      potion_49_quicksilver_chrome_voyager_5: 3741972451441841150
+      potion_49_quicksilver_chrome_voyager_6: -1530902874631090966
+      potion_49_quicksilver_chrome_voyager_7: 7511373330883204141
+      potion_49_quicksilver_chrome_voyager_8: 2202523922349947491
+      potion_49_quicksilver_chrome_voyager_9: 6220084345218913684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

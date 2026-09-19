@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - V\u1EA1n Ki\u1EBFm Quy T\xF4ng"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 8
+  upgradeData:
+    cooldown: 0
+    scaleFactor:
+      physicalDamage: 1
+      elementalDamage: 1
+      effectToxicDuration: 6
+      toxicScallDmg: 1
+      toxicSlowAnimation: 0.15
+      effectIceDuration: 3
+      iceSlowAnimation: 0.3
+      effectFireDuration: 6
+      fireScaleDmg: 1
+      effectElectricDuration: 4
+      electricScaleDmg: 1
+      electricCharge: 1.5
+    skillByName: 0
+  skillName: "V\u1EA1n Ki\u1EBFm Quy T\xF4ng"
+  level: 17
+  skillPoint: 611
+  description: " (\u4E07\u5251\u5F52\u5B97) Ng\u01B0ng t\u1EE5 linh l\u1EF1c, tri\u1EC7u
+    h\u1ED3i v\xF4 s\u1ED1 phi ki\u1EBFm xoay quanh th\xE2n th\u1EC3, h\xECnh th\xE0nh
+    ki\u1EBFm tr\u1EADn h\u1ED9 th\u1EC3.\n Khi t\xE2m ni\u1EC7m kh\u1EDFi \u0111\u1ED9ng,
+    v\u1EA1n ki\u1EBFm \u0111\u1ED3ng lo\u1EA1t xu\u1EA5t k\xEDch, nh\u01B0 b\xE3o
+    ki\u1EBFm ph\xE1 kh\xF4ng, xuy\xEAn th\u1EA5u k\u1EBB \u0111\u1ECBch."
+  icon: {fileID: 21300000, guid: af7cea8830900394587b4fef43e9b1d3, type: 3}

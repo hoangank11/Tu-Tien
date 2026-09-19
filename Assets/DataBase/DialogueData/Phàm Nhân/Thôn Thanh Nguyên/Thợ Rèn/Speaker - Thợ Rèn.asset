@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a0b734e3b9c6d54cb4a39fa449f51c8, type: 3}
+  m_Name: "Speaker - Th\u1EE3 R\xE8n"
+  m_EditorClassIdentifier: 
+  speakerName: "Tr\u01B0\u01A1ng \u0110\u1EA1i L\u1EF1c"
+  speakerPortait: {fileID: 4130640169021434097, guid: 5f7b7515482dbaf4789372a55f85d969, type: 3}

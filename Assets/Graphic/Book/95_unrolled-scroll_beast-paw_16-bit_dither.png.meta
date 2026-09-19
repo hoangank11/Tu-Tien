@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 56c01a7bebbb34545a95871c5b4ed9da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2924049608401503788
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_0
+  - first:
+      213: -6430409736310714551
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_1
+  - first:
+      213: -8403057635639803953
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_2
+  - first:
+      213: -2887714374273107278
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_3
+  - first:
+      213: 7976990181084400291
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_4
+  - first:
+      213: 1978067881563946153
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_5
+  - first:
+      213: 9148512867492427498
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_6
+  - first:
+      213: -5952069268826684121
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_7
+  - first:
+      213: 599155596466851533
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_8
+  - first:
+      213: 1777812135010697749
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_9
+  - first:
+      213: 1167958051569398541
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_10
+  - first:
+      213: 5732955369864795143
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_11
+  - first:
+      213: 6632829838982449958
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_12
+  - first:
+      213: -6741933309173151038
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_13
+  - first:
+      213: -6710686681270406951
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_14
+  - first:
+      213: 1393987153849867623
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_15
+  - first:
+      213: 3220837189870550354
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_16
+  - first:
+      213: 2357544188617312330
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_17
+  - first:
+      213: 6304345795453594300
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_18
+  - first:
+      213: -6166635622306108166
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_19
+  - first:
+      213: -3723997664073613306
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_20
+  - first:
+      213: -2482482537596379182
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_21
+  - first:
+      213: 5161745198920065588
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_22
+  - first:
+      213: 286691751681703021
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_23
+  - first:
+      213: 6165221481403398287
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_24
+  - first:
+      213: 7338165227605224802
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_25
+  - first:
+      213: -7218720896378589099
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_26
+  - first:
+      213: -4148126410527462454
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_27
+  - first:
+      213: 4202280450731859733
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_28
+  - first:
+      213: 3037731184919102280
+    second: 95_unrolled-scroll_beast-paw_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26446660af449820800000000000000
+      internalID: 2924049608401503788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f8cf22a6892c6a0800000000000000
+      internalID: -6430409736310714551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf3e880a97526b80800000000000000
+      internalID: -8403057635639803953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba79ac8317cce7d0800000000000000
+      internalID: -2887714374273107278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa80584e46f3be60800000000000000
+      internalID: 7976990181084400291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac7a3e0242837b10800000000000000
+      internalID: 1978067881563946153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6f9f96bfb06fe70800000000000000
+      internalID: 9148512867492427498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72501111980066da0800000000000000
+      internalID: -5952069268826684121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce089c27d0a05800800000000000000
+      internalID: 599155596466851533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51201b0b7be0ca810800000000000000
+      internalID: 1777812135010697749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03f958e8ab653010800000000000000
+      internalID: 1167958051569398541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70495fdc88c8f8f40800000000000000
+      internalID: 5732955369864795143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b0928a89b8c0c50800000000000000
+      internalID: 6632829838982449958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4c572067df62a0800000000000000
+      internalID: -6741933309173151038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0bee3a40aded2a0800000000000000
+      internalID: -6710686681270406951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ddda64eef685310800000000000000
+      internalID: 1393987153849867623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25df9950c56b2bc20800000000000000
+      internalID: 3220837189870550354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4842d0e2fda7b020800000000000000
+      internalID: 2357544188617312330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba2d3f59198d7750800000000000000
+      internalID: 6304345795453594300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcac21e295bb6aa0800000000000000
+      internalID: -6166635622306108166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6000288ead3b15cc0800000000000000
+      internalID: -3723997664073613306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1579e8437c8dd0800000000000000
+      internalID: -2482482537596379182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43265ba09e332a740800000000000000
+      internalID: 5161745198920065588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cb50311a88af300800000000000000
+      internalID: 286691751681703021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8838a8c5444f8550800000000000000
+      internalID: 6165221481403398287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d688e256666d560800000000000000
+      internalID: 7338165227605224802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5503aa65793f1db90800000000000000
+      internalID: -7218720896378589099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb2811e105ee66c0800000000000000
+      internalID: -4148126410527462454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fd0782ecf715a30800000000000000
+      internalID: 4202280450731859733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 95_unrolled-scroll_beast-paw_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843ca380b60382a20800000000000000
+      internalID: 3037731184919102280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a4e50105706fda64e96f50522c04e562
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      95_unrolled-scroll_beast-paw_16-bit_dither_0: 2924049608401503788
+      95_unrolled-scroll_beast-paw_16-bit_dither_1: -6430409736310714551
+      95_unrolled-scroll_beast-paw_16-bit_dither_10: 1167958051569398541
+      95_unrolled-scroll_beast-paw_16-bit_dither_11: 5732955369864795143
+      95_unrolled-scroll_beast-paw_16-bit_dither_12: 6632829838982449958
+      95_unrolled-scroll_beast-paw_16-bit_dither_13: -6741933309173151038
+      95_unrolled-scroll_beast-paw_16-bit_dither_14: -6710686681270406951
+      95_unrolled-scroll_beast-paw_16-bit_dither_15: 1393987153849867623
+      95_unrolled-scroll_beast-paw_16-bit_dither_16: 3220837189870550354
+      95_unrolled-scroll_beast-paw_16-bit_dither_17: 2357544188617312330
+      95_unrolled-scroll_beast-paw_16-bit_dither_18: 6304345795453594300
+      95_unrolled-scroll_beast-paw_16-bit_dither_19: -6166635622306108166
+      95_unrolled-scroll_beast-paw_16-bit_dither_2: -8403057635639803953
+      95_unrolled-scroll_beast-paw_16-bit_dither_20: -3723997664073613306
+      95_unrolled-scroll_beast-paw_16-bit_dither_21: -2482482537596379182
+      95_unrolled-scroll_beast-paw_16-bit_dither_22: 5161745198920065588
+      95_unrolled-scroll_beast-paw_16-bit_dither_23: 286691751681703021
+      95_unrolled-scroll_beast-paw_16-bit_dither_24: 6165221481403398287
+      95_unrolled-scroll_beast-paw_16-bit_dither_25: 7338165227605224802
+      95_unrolled-scroll_beast-paw_16-bit_dither_26: -7218720896378589099
+      95_unrolled-scroll_beast-paw_16-bit_dither_27: -4148126410527462454
+      95_unrolled-scroll_beast-paw_16-bit_dither_28: 4202280450731859733
+      95_unrolled-scroll_beast-paw_16-bit_dither_29: 3037731184919102280
+      95_unrolled-scroll_beast-paw_16-bit_dither_3: -2887714374273107278
+      95_unrolled-scroll_beast-paw_16-bit_dither_4: 7976990181084400291
+      95_unrolled-scroll_beast-paw_16-bit_dither_5: 1978067881563946153
+      95_unrolled-scroll_beast-paw_16-bit_dither_6: 9148512867492427498
+      95_unrolled-scroll_beast-paw_16-bit_dither_7: -5952069268826684121
+      95_unrolled-scroll_beast-paw_16-bit_dither_8: 599155596466851533
+      95_unrolled-scroll_beast-paw_16-bit_dither_9: 1777812135010697749
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e633a33c9394418e61be669f8e35f, type: 3}
+  m_Name: Consumable Item - Refund Skill
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.05, y: 0.05, z: 1}
+  itemName: "Thi\xEAn \u0110\u1EA1o Ho\xE0n Nguy\xEAn Kinh"
+  itemIcon: {fileID: 21300000, guid: 6a2856aa2bb524b4b9bff17bb0767fe8, type: 3}
+  itemType: 5
+  description: "M\u1ED9t c\u1ED5 th\u01B0 ghi ch\xE9p thi\xEAn \u0111\u1EA1o ho\xE0n
+    tr\u1EA3 l\u1EA1i c\xE1c k\u1EF9 n\u0103ng"
+  maxStackSize: 1
+  itemEffect: {fileID: 11400000, guid: 14fc1b631444ea5458e0d9644e931098, type: 2}
+  craftRecipe: []

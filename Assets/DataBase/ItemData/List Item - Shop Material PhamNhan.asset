@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 316375c910874e249b8ae6b3f17fbc98, type: 3}
+  m_Name: List Item - Shop Material PhamNhan
+  m_EditorClassIdentifier: 
+  itemList:
+  - {fileID: 11400000, guid: 1b20500dc4c77e542ad0bcacbb7977e1, type: 2}
+  - {fileID: 11400000, guid: bb522cba26ae8d34a8ab6d884d0ca2fc, type: 2}
+  - {fileID: 11400000, guid: e740a8281a2ebe54eb4f5774ee03c40f, type: 2}
+  - {fileID: 11400000, guid: 83a451f9371e679458fac6445508c43f, type: 2}
+  - {fileID: 11400000, guid: aaf33124afe7b3f488f1211c3f5a9e16, type: 2}
+  - {fileID: 11400000, guid: e6f779f5a9d6525489788742981e7a56, type: 2}
+  - {fileID: 11400000, guid: fbf59f86d4cc0784484bde5fe4745dcf, type: 2}
+  - {fileID: 11400000, guid: a88cb4c5863dc2449917a9ba877b512e, type: 2}
+  - {fileID: 11400000, guid: 96839ace5d0957045805f338a23b1487, type: 2}
+  - {fileID: 11400000, guid: a704a156d23cdf64991bc3e79a19f3ce, type: 2}
+  - {fileID: 11400000, guid: a704a156d23cdf64991bc3e79a19f3ce, type: 2}
+  itemAmount: 0100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

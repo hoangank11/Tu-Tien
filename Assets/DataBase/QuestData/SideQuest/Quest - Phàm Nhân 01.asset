@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79b5ca4245a2314cb6acc141b2237ab, type: 3}
+  m_Name: "Quest - Ph\xE0m Nh\xE2n 01"
+  m_EditorClassIdentifier: 
+  questType: 1
+  questSaveID: 13021bf3d40c56c4784b694d91cd4d12
+  questName: "B\u1EA7y ong v\u1EE1 t\u1ED5"
+  description: " Hi\u1EC7n t\u1EA1i trong l\xE0ng \u0111ang c\xF3 m\u1ED9t t\u1ED5
+    ong v\u1EE1 t\u1ED5 khi\u1EBFn cho ch\xFAng hay xu\u1EA5t hi\u1EC7n v\xE0 qu\u1EA5y
+    ph\xE1 ng\u01B0\u1EDDi d\xE2n trong l\xE0ng. C\u1EADu nh\xF3c h\xE3y \u0111i
+    ti\xEAu di\u1EC7t m\u1ED9t \u0111\xE1m ong \u0111\xF3 \u0111\u1EC3 \u0111\u1EC1
+    ph\xF2ng ch\xFAng t\u1EA5n c\xF4ng ng\u01B0\u1EDDi d\xE2n trong l\xE0ng. Nh\xE2n
+    ti\u1EC7n n\u1EBFu may m\u1EAFn c\u1EADu c\xF3 th\u1EC3 ki\u1EBFm \u0111\u01B0\u1EE3c
+    ch\xFAt m\u1EADt ong t\u1EEB \u0111\xE1m \u0111\xF3 khi \u0111\xF3 ch\xFAng s\u1EBD
+    l\xE0 nguy\xEAn li\u1EC7u qu\xFD \u0111\u1EC3 l\xE0m thu\u1ED1c \u0111\xF3."
+  questGoal: "- gi\u1EBFt 10 con ong xung quanh l\xE0ng"
+  questTargetID: Bee
+  requiredAmount: 10
+  rewardType: 1
+  rewardItems: []
+  moneyType: 0
+  moneyAmount: 200

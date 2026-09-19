@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79b5ca4245a2314cb6acc141b2237ab, type: 3}
+  m_Name: "Quest - Ph\xE0m Nh\xE2n MainQuest04"
+  m_EditorClassIdentifier: 
+  questSaveID: fffef5cec7097f34ea88dd4a8a927109
+  questType: 0
+  missionType: 2
+  questName: 
+  description: "\u0111\u01B0a h\xE0ng t\u1EDBi cho quan"
+  questGoal: 
+  questTargetID: QuanNhan
+  requiredAmount: 2
+  itemToDelivery: {fileID: 11400000, guid: e78d32e8c7b1e764883c28da596930a4, type: 2}
+  itemNeedToCollect: {fileID: 0}
+  rewardType: 1
+  rewardItems: []
+  moneyType: 0
+  moneyAmount: 150

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 2ee8a0e6f0d6dac4f9fc9a657c3cbfb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4656610136354933780
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_0
+  - first:
+      213: 578658350781016772
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_1
+  - first:
+      213: 4168978287559275597
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_2
+  - first:
+      213: 5609208921383721137
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_3
+  - first:
+      213: -4853955669981050374
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_4
+  - first:
+      213: 7769837763081401944
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_5
+  - first:
+      213: -2979933312846665963
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_6
+  - first:
+      213: -7351729497180848488
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_7
+  - first:
+      213: 3326544538479443598
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_8
+  - first:
+      213: -5864944343109738594
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_9
+  - first:
+      213: 2612104857400472625
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_10
+  - first:
+      213: -562935257364073619
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_11
+  - first:
+      213: -6267980508201701167
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_12
+  - first:
+      213: -7456201482107698042
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_13
+  - first:
+      213: -3175839505351614986
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_14
+  - first:
+      213: -5945241023106917934
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_15
+  - first:
+      213: 5214167193966722486
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_16
+  - first:
+      213: 4796599811604196469
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_17
+  - first:
+      213: -5577578903612800962
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_18
+  - first:
+      213: -3300607360145857482
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_19
+  - first:
+      213: -5269181796384198295
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_20
+  - first:
+      213: -4591279769019064707
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_21
+  - first:
+      213: 4635110803001877859
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_22
+  - first:
+      213: 8035748370269622831
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_23
+  - first:
+      213: 2196375300536879801
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_24
+  - first:
+      213: -6351121033178095973
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_25
+  - first:
+      213: 1239327321067252286
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_26
+  - first:
+      213: -1096926096768316478
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_27
+  - first:
+      213: 7975330944282280442
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_28
+  - first:
+      213: -7894005933327707155
+    second: 83_unrolled-scroll_leaf-restoration_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b415b0c5606fb0800000000000000
+      internalID: -4656610136354933780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caad9444bec70800800000000000000
+      internalID: 578658350781016772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4479421aaf2bd930800000000000000
+      internalID: 4168978287559275597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8570e8bc9e7dd40800000000000000
+      internalID: 5609208921383721137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94947190943acb0800000000000000
+      internalID: -4853955669981050374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f1e6774204db60800000000000000
+      internalID: 7769837763081401944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517eb69b07625a6d0800000000000000
+      internalID: -2979933312846665963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e36c339f869f990800000000000000
+      internalID: -7351729497180848488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e359902a24a2e20800000000000000
+      internalID: 3326544538479443598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd18991388b9ea0800000000000000
+      internalID: -5864944343109738594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1347d6d378f004420800000000000000
+      internalID: 2612104857400472625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637541bd5d0038f0800000000000000
+      internalID: -562935257364073619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0b09ddfe8a309a0800000000000000
+      internalID: -6267980508201701167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ca35b140468890800000000000000
+      internalID: -7456201482107698042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5dd3dbc62de3d0800000000000000
+      internalID: -3175839505351614986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d1a9e9c24e7da0800000000000000
+      internalID: -5945241023106917934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb1e3ef617c5840800000000000000
+      internalID: 5214167193966722486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57caf5c7d12f09240800000000000000
+      internalID: 4796599811604196469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304277d9857892b0800000000000000
+      internalID: -5577578903612800962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6346773e713e132d0800000000000000
+      internalID: -3300607360145857482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961b091d21b10e6b0800000000000000
+      internalID: -5269181796384198295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5e2f206f7840c0800000000000000
+      internalID: -4591279769019064707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365a08ba7b8335040800000000000000
+      internalID: 4635110803001877859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22585a4196b48f60800000000000000
+      internalID: 8035748370269622831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba41fde2b71b7e10800000000000000
+      internalID: 2196375300536879801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e58ebe1194cd7a0800000000000000
+      internalID: -6351121033178095973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a66acd1a9f23110800000000000000
+      internalID: 1239327321067252286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbc449d68fe6c0f0800000000000000
+      internalID: -1096926096768316478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1402c1d311eae60800000000000000
+      internalID: 7975330944282280442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 83_unrolled-scroll_leaf-restoration_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31d298d6bd27290800000000000000
+      internalID: -7894005933327707155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 137d0aeda46b3944c850325a91792b3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      83_unrolled-scroll_leaf-restoration_nopalette_0: -4656610136354933780
+      83_unrolled-scroll_leaf-restoration_nopalette_1: 578658350781016772
+      83_unrolled-scroll_leaf-restoration_nopalette_10: 2612104857400472625
+      83_unrolled-scroll_leaf-restoration_nopalette_11: -562935257364073619
+      83_unrolled-scroll_leaf-restoration_nopalette_12: -6267980508201701167
+      83_unrolled-scroll_leaf-restoration_nopalette_13: -7456201482107698042
+      83_unrolled-scroll_leaf-restoration_nopalette_14: -3175839505351614986
+      83_unrolled-scroll_leaf-restoration_nopalette_15: -5945241023106917934
+      83_unrolled-scroll_leaf-restoration_nopalette_16: 5214167193966722486
+      83_unrolled-scroll_leaf-restoration_nopalette_17: 4796599811604196469
+      83_unrolled-scroll_leaf-restoration_nopalette_18: -5577578903612800962
+      83_unrolled-scroll_leaf-restoration_nopalette_19: -3300607360145857482
+      83_unrolled-scroll_leaf-restoration_nopalette_2: 4168978287559275597
+      83_unrolled-scroll_leaf-restoration_nopalette_20: -5269181796384198295
+      83_unrolled-scroll_leaf-restoration_nopalette_21: -4591279769019064707
+      83_unrolled-scroll_leaf-restoration_nopalette_22: 4635110803001877859
+      83_unrolled-scroll_leaf-restoration_nopalette_23: 8035748370269622831
+      83_unrolled-scroll_leaf-restoration_nopalette_24: 2196375300536879801
+      83_unrolled-scroll_leaf-restoration_nopalette_25: -6351121033178095973
+      83_unrolled-scroll_leaf-restoration_nopalette_26: 1239327321067252286
+      83_unrolled-scroll_leaf-restoration_nopalette_27: -1096926096768316478
+      83_unrolled-scroll_leaf-restoration_nopalette_28: 7975330944282280442
+      83_unrolled-scroll_leaf-restoration_nopalette_29: -7894005933327707155
+      83_unrolled-scroll_leaf-restoration_nopalette_3: 5609208921383721137
+      83_unrolled-scroll_leaf-restoration_nopalette_4: -4853955669981050374
+      83_unrolled-scroll_leaf-restoration_nopalette_5: 7769837763081401944
+      83_unrolled-scroll_leaf-restoration_nopalette_6: -2979933312846665963
+      83_unrolled-scroll_leaf-restoration_nopalette_7: -7351729497180848488
+      83_unrolled-scroll_leaf-restoration_nopalette_8: 3326544538479443598
+      83_unrolled-scroll_leaf-restoration_nopalette_9: -5864944343109738594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

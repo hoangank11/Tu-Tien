@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 4"
+  m_EditorClassIdentifier: 
+  saveID: 10718f9c8495d6047a1bf3722e5042d8
+  moneyType: 2
+  itemPrice: 10000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 4"
+  itemIcon: {fileID: 4429082402369922233, guid: 105270dc8b3c2cb40a0a03eee0842064, type: 3}
+  itemType: 0
+  description: " \u0110an d\u01B0\u1EE3c luy\u1EC7n th\u1EC3 cao c\u1EA5p ch\u1EE9a
+    huy\u1EBFt kh\xED c\xF4 \u0111\u1ECDng v\xE0 sinh l\u1EF1c d\u1ED3i d\xE0o c\u1EE7a
+    y\xEAu th\xFA m\u1EA1nh. D\u01B0\u1EE3c l\u1EF1c b\xE1 \u0111\u1EA1o, c\xF3 kh\u1EA3
+    n\u0103ng th\u1EA5m s\xE2u v\xE0o g\xE2n c\u1ED1t, t\xF4i luy\u1EC7n c\u0103n
+    c\u01A1 v\xE0 c\u1EE7ng c\u1ED1 x\u01B0\u01A1ng th\u1EC3. Ch\u1EC9 ng\u01B0\u1EDDi
+    \u0111\u1EA1t Luy\u1EC7n C\u0103n \u0110\u1EA1i Vi\xEAn M\xE3n m\u1EDBi \u0111\u1EE7
+    kh\u1EA3 n\u0103ng ch\u1ECBu \u0111\u1EF1ng d\u01B0\u1EE3c l\u1EF1c c\u1EE7a
+    \u0111an n\xE0y. L\xE0 \u0111an d\u01B0\u1EE3c c\u1EA7n thi\u1EBFt \u0111\u1EC3
+    \u0111\u1ED9t ph\xE1 Luy\u1EC7n C\u1ED1t."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe:
+  - itemData: {fileID: 11400000, guid: b1d5882ee923d48469c108e3a7480d3e, type: 2}
+    stackSize: 3
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: 3c68fa1919979c3489ae93a32f5e6391, type: 2}
+    stackSize: 5
+    itemEffect: {fileID: 0}
+  - itemData: {fileID: 11400000, guid: 23e39adb245e71b4c8e8c6c58887bbbc, type: 2}
+    stackSize: 10
+    itemEffect: {fileID: 0}

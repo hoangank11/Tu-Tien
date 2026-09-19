@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Huy\u1EC1n Linh Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: f56b7bc001ea5fa46a20c8db6ba73fc2
+  moneyType: 1
+  itemPrice: 1827
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Huy\u1EC1n Linh Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: 5075525440574747648, guid: 24859424911ad244c9f2ce253f104394, type: 3}
+  itemType: 3
+  description: " M\u1ED9t kh\u1ED1i linh ng\u1ECDc m\xE0u \u0111en huy\u1EC1n, b\xEAn
+    trong c\xF3 linh l\u1EF1c dao \u0111\u1ED9ng \u1ED5n \u0111\u1ECBnh."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 5
+  - startType: 18
+    value: 3
+  - startType: 17
+    value: 3
+  - startType: 14
+    value: 3
+  - startType: 15
+    value: 3
+  - startType: 16
+    value: 3
+  - startType: 20
+    value: 3

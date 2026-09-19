@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - H\u1ED9 Th\xE2n Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: 3eb86bfda8d2c1441aee76b5dd2b867f
+  moneyType: 1
+  itemPrice: 2211
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "H\u1ED9 Th\xE2n Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: 2811062443041329992, guid: de74efa1b6fb55e4394cd603e146fcc7, type: 3}
+  itemType: 3
+  description: " Ng\u1ECDc b\u1ED9i \u0111\u01B0\u1EE3c kh\u1EAFc nh\u1EEFng tr\u1EADn
+    v\u0103n \u0111\u01A1n gi\u1EA3n, th\u01B0\u1EDDng \u0111\u01B0\u1EE3c s\u1EED
+    d\u1EE5ng nh\u01B0 v\u1EADt h\u1ED9 th\xE2n."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 10
+  - startType: 13
+    value: 3
+  - startType: 19
+    value: 3

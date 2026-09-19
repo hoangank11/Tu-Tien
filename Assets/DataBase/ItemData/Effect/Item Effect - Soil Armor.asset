@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e554b4ef90a820149a321bfc9f5c8e9b, type: 3}
+  m_Name: Item Effect - Soil Armor
+  m_EditorClassIdentifier: 
+  effectDes: " - \u0110i\u1EC1u ki\u1EC7n k\xEDch ho\u1EA1t: Khi HP gi\u1EA3m xu\u1ED1ng
+    d\u01B0\u1EDBi 20%\n - Hi\u1EC7u \u1EE9ng:  T\u1EF1 \u0111\u1ED9ng h\u1ED3i ph\u1EE5c
+    20% HP t\u1ED1i \u0111a.\n - Th\u1EDDi gian h\u1ED3i: 50 gi\xE2y."
+  healthPercentTrigger: 0.2
+  regenHealth: 0.2
+  cooldown: 50
+  healthVFX: {fileID: 5308302098527350271, guid: a27f23e12370339428f75be49290e3da, type: 3}

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 208c1a1239ec18f4cade19a194e2320e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2555498302103072892
+    second: 96_unrolled-scroll_void-starburst_voyager_0
+  - first:
+      213: -1453196727959250600
+    second: 96_unrolled-scroll_void-starburst_voyager_1
+  - first:
+      213: -6919294872995599395
+    second: 96_unrolled-scroll_void-starburst_voyager_2
+  - first:
+      213: 402164707829041164
+    second: 96_unrolled-scroll_void-starburst_voyager_3
+  - first:
+      213: -326667975388141250
+    second: 96_unrolled-scroll_void-starburst_voyager_4
+  - first:
+      213: -5564701580588426517
+    second: 96_unrolled-scroll_void-starburst_voyager_5
+  - first:
+      213: 1340874011307954704
+    second: 96_unrolled-scroll_void-starburst_voyager_6
+  - first:
+      213: -7768431436914626032
+    second: 96_unrolled-scroll_void-starburst_voyager_7
+  - first:
+      213: 4285971889738041323
+    second: 96_unrolled-scroll_void-starburst_voyager_8
+  - first:
+      213: -6534765072189133091
+    second: 96_unrolled-scroll_void-starburst_voyager_9
+  - first:
+      213: -7102544779014408834
+    second: 96_unrolled-scroll_void-starburst_voyager_10
+  - first:
+      213: -5648799156603855706
+    second: 96_unrolled-scroll_void-starburst_voyager_11
+  - first:
+      213: -6419627249043564040
+    second: 96_unrolled-scroll_void-starburst_voyager_12
+  - first:
+      213: 6649034583077422133
+    second: 96_unrolled-scroll_void-starburst_voyager_13
+  - first:
+      213: -4611096709524134188
+    second: 96_unrolled-scroll_void-starburst_voyager_14
+  - first:
+      213: 6227407904339359630
+    second: 96_unrolled-scroll_void-starburst_voyager_15
+  - first:
+      213: -2677594559000892379
+    second: 96_unrolled-scroll_void-starburst_voyager_16
+  - first:
+      213: -2215180073174757206
+    second: 96_unrolled-scroll_void-starburst_voyager_17
+  - first:
+      213: 8374420087186627749
+    second: 96_unrolled-scroll_void-starburst_voyager_18
+  - first:
+      213: 4944659344435173149
+    second: 96_unrolled-scroll_void-starburst_voyager_19
+  - first:
+      213: 8820891319305889875
+    second: 96_unrolled-scroll_void-starburst_voyager_20
+  - first:
+      213: 2252213552295313222
+    second: 96_unrolled-scroll_void-starburst_voyager_21
+  - first:
+      213: -6596425293044928986
+    second: 96_unrolled-scroll_void-starburst_voyager_22
+  - first:
+      213: 2440785387632804558
+    second: 96_unrolled-scroll_void-starburst_voyager_23
+  - first:
+      213: 5823171148196496819
+    second: 96_unrolled-scroll_void-starburst_voyager_24
+  - first:
+      213: -374115749066104425
+    second: 96_unrolled-scroll_void-starburst_voyager_25
+  - first:
+      213: 7033486151779774058
+    second: 96_unrolled-scroll_void-starburst_voyager_26
+  - first:
+      213: 3299494259794114596
+    second: 96_unrolled-scroll_void-starburst_voyager_27
+  - first:
+      213: 7530639518982557946
+    second: 96_unrolled-scroll_void-starburst_voyager_28
+  - first:
+      213: 8064473139521502100
+    second: 96_unrolled-scroll_void-starburst_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f480775db098cd0800000000000000
+      internalID: -2555498302103072892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8599a39764535dbe0800000000000000
+      internalID: -1453196727959250600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb6ae619f9b9ff90800000000000000
+      internalID: -6919294872995599395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c084957cba6c49500800000000000000
+      internalID: 402164707829041164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e396e770531777bf0800000000000000
+      internalID: -326667975388141250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bead8ff356536c2b0800000000000000
+      internalID: -5564701580588426517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012509c1fcdbb9210800000000000000
+      internalID: 1340874011307954704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012f9bc54ccf03490800000000000000
+      internalID: -7768431436914626032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74525c9b4da7b30800000000000000
+      internalID: 4285971889738041323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde698d1ac9df45a0800000000000000
+      internalID: -6534765072189133091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e757a858721be6d90800000000000000
+      internalID: -7102544779014408834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acd91f781f6b91b0800000000000000
+      internalID: -5648799156603855706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f917569707e8e6a0800000000000000
+      internalID: -6419627249043564040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5340e97a9bd164c50800000000000000
+      internalID: 6649034583077422133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d667db29f71200c0800000000000000
+      internalID: -4611096709524134188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877b99ae723c6650800000000000000
+      internalID: 6227407904339359630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cab326fe547dad0800000000000000
+      internalID: -2677594559000892379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa015e0c5791241e0800000000000000
+      internalID: -2215180073174757206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac97a023bae73470800000000000000
+      internalID: 8374420087186627749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17df50d975fe9440800000000000000
+      internalID: 4944659344435173149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358ed897be91a6a70800000000000000
+      internalID: 8820891319305889875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ff1e60b48714f10800000000000000
+      internalID: 2252213552295313222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ea7a4352ac474a0800000000000000
+      internalID: -6596425293044928986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec241d2d0696fd120800000000000000
+      internalID: 2440785387632804558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b54e8a8e4f00d050800000000000000
+      internalID: 5823171148196496819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791290855bfdecaf0800000000000000
+      internalID: -374115749066104425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e6679d366fb9160800000000000000
+      internalID: 7033486151779774058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428f77d3c882acd20800000000000000
+      internalID: 3299494259794114596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af059745eb4328860800000000000000
+      internalID: 7530639518982557946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 96_unrolled-scroll_void-starburst_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bbbddc793caef60800000000000000
+      internalID: 8064473139521502100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 903789b9b405fe343bce37872f12754b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      96_unrolled-scroll_void-starburst_voyager_0: -2555498302103072892
+      96_unrolled-scroll_void-starburst_voyager_1: -1453196727959250600
+      96_unrolled-scroll_void-starburst_voyager_10: -7102544779014408834
+      96_unrolled-scroll_void-starburst_voyager_11: -5648799156603855706
+      96_unrolled-scroll_void-starburst_voyager_12: -6419627249043564040
+      96_unrolled-scroll_void-starburst_voyager_13: 6649034583077422133
+      96_unrolled-scroll_void-starburst_voyager_14: -4611096709524134188
+      96_unrolled-scroll_void-starburst_voyager_15: 6227407904339359630
+      96_unrolled-scroll_void-starburst_voyager_16: -2677594559000892379
+      96_unrolled-scroll_void-starburst_voyager_17: -2215180073174757206
+      96_unrolled-scroll_void-starburst_voyager_18: 8374420087186627749
+      96_unrolled-scroll_void-starburst_voyager_19: 4944659344435173149
+      96_unrolled-scroll_void-starburst_voyager_2: -6919294872995599395
+      96_unrolled-scroll_void-starburst_voyager_20: 8820891319305889875
+      96_unrolled-scroll_void-starburst_voyager_21: 2252213552295313222
+      96_unrolled-scroll_void-starburst_voyager_22: -6596425293044928986
+      96_unrolled-scroll_void-starburst_voyager_23: 2440785387632804558
+      96_unrolled-scroll_void-starburst_voyager_24: 5823171148196496819
+      96_unrolled-scroll_void-starburst_voyager_25: -374115749066104425
+      96_unrolled-scroll_void-starburst_voyager_26: 7033486151779774058
+      96_unrolled-scroll_void-starburst_voyager_27: 3299494259794114596
+      96_unrolled-scroll_void-starburst_voyager_28: 7530639518982557946
+      96_unrolled-scroll_void-starburst_voyager_29: 8064473139521502100
+      96_unrolled-scroll_void-starburst_voyager_3: 402164707829041164
+      96_unrolled-scroll_void-starburst_voyager_4: -326667975388141250
+      96_unrolled-scroll_void-starburst_voyager_5: -5564701580588426517
+      96_unrolled-scroll_void-starburst_voyager_6: 1340874011307954704
+      96_unrolled-scroll_void-starburst_voyager_7: -7768431436914626032
+      96_unrolled-scroll_void-starburst_voyager_8: 4285971889738041323
+      96_unrolled-scroll_void-starburst_voyager_9: -6534765072189133091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

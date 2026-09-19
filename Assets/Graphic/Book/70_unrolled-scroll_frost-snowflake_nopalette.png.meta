@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 9a61676952cb06a46a858cc8899c222f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -329283756441549589
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_0
+  - first:
+      213: 6929894891941017348
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_1
+  - first:
+      213: -2053811634897229560
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_2
+  - first:
+      213: 6788467801121639632
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_3
+  - first:
+      213: 4557448933918671772
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_4
+  - first:
+      213: -876931289249331279
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_5
+  - first:
+      213: 6657223721966479099
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_6
+  - first:
+      213: -552125020534405990
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_7
+  - first:
+      213: 7273929449595705307
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_8
+  - first:
+      213: -6521058749440061972
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_9
+  - first:
+      213: -9146309051268790874
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_10
+  - first:
+      213: 4969968639004302390
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_11
+  - first:
+      213: -827207858701008460
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_12
+  - first:
+      213: -5988623685530542981
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_13
+  - first:
+      213: -2014964954181235434
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_14
+  - first:
+      213: -3480925632360680291
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_15
+  - first:
+      213: 4736028773064866380
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_16
+  - first:
+      213: 6217892250210421172
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_17
+  - first:
+      213: -9038751810526486405
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_18
+  - first:
+      213: 3973527647962494794
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_19
+  - first:
+      213: -7276255737276191150
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_20
+  - first:
+      213: -6158467242841365739
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_21
+  - first:
+      213: -1720130742309815709
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_22
+  - first:
+      213: 5752328210997189511
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_23
+  - first:
+      213: -6196743972842295500
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_24
+  - first:
+      213: 8460103235979334807
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_25
+  - first:
+      213: 7344222171138121335
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_26
+  - first:
+      213: 167698136517901736
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_27
+  - first:
+      213: 8838638411169072192
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_28
+  - first:
+      213: -8622840424513347991
+    second: 70_unrolled-scroll_frost-snowflake_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4cefa0b262e6bf0800000000000000
+      internalID: -329283756441549589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40730f420beeb2060800000000000000
+      internalID: 6929894891941017348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809e26a13356f73e0800000000000000
+      internalID: -2053811634897229560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc480f8f7b753e50800000000000000
+      internalID: 6788467801121639632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c938434b8af4f3f30800000000000000
+      internalID: 4557448933918671772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b74edb73a384d3f0800000000000000
+      internalID: -876931289249331279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6ad1224b5336c50800000000000000
+      internalID: 6657223721966479099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94017718357658f0800000000000000
+      internalID: -552125020534405990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd79764ab4032f460800000000000000
+      internalID: 7273929449595705307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced0c201e9b8085a0800000000000000
+      internalID: -6521058749440061972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a50f298068c11180800000000000000
+      internalID: -9146309051268790874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cdea82520e8f440800000000000000
+      internalID: 4969968639004302390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b107b2d5da2584f0800000000000000
+      internalID: -827207858701008460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c1672bc7224eca0800000000000000
+      internalID: -5988623685530542981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d8a27cc086904e0800000000000000
+      internalID: -2014964954181235434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f691849441bfc0800000000000000
+      internalID: -3480925632360680291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a7f889311c9b140800000000000000
+      internalID: 4736028773064866380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b94279ce046a4650800000000000000
+      internalID: 6217892250210421172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7066a02e17ef8280800000000000000
+      internalID: -9038751810526486405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a477ff9d75ec42730800000000000000
+      internalID: 3973527647962494794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e21cc45fb850b90800000000000000
+      internalID: -7276255737276191150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513af8debaab88aa0800000000000000
+      internalID: -6158467242841365739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af469143ed028e0800000000000000
+      internalID: -1720130742309815709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b12ffd70064df40800000000000000
+      internalID: 5752328210997189511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f21be303eb00aa0800000000000000
+      internalID: -6196743972842295500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7945eafc113586570800000000000000
+      internalID: 8460103235979334807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5c3e372bebe560800000000000000
+      internalID: 7344222171138121335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf4a01198c35200800000000000000
+      internalID: 167698136517901736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440bdb4ec629aa70800000000000000
+      internalID: 8838638411169072192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 70_unrolled-scroll_frost-snowflake_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed006d154855880800000000000000
+      internalID: -8622840424513347991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e9755e1a046dc5f4c85c2623e4437930
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      70_unrolled-scroll_frost-snowflake_nopalette_0: -329283756441549589
+      70_unrolled-scroll_frost-snowflake_nopalette_1: 6929894891941017348
+      70_unrolled-scroll_frost-snowflake_nopalette_10: -9146309051268790874
+      70_unrolled-scroll_frost-snowflake_nopalette_11: 4969968639004302390
+      70_unrolled-scroll_frost-snowflake_nopalette_12: -827207858701008460
+      70_unrolled-scroll_frost-snowflake_nopalette_13: -5988623685530542981
+      70_unrolled-scroll_frost-snowflake_nopalette_14: -2014964954181235434
+      70_unrolled-scroll_frost-snowflake_nopalette_15: -3480925632360680291
+      70_unrolled-scroll_frost-snowflake_nopalette_16: 4736028773064866380
+      70_unrolled-scroll_frost-snowflake_nopalette_17: 6217892250210421172
+      70_unrolled-scroll_frost-snowflake_nopalette_18: -9038751810526486405
+      70_unrolled-scroll_frost-snowflake_nopalette_19: 3973527647962494794
+      70_unrolled-scroll_frost-snowflake_nopalette_2: -2053811634897229560
+      70_unrolled-scroll_frost-snowflake_nopalette_20: -7276255737276191150
+      70_unrolled-scroll_frost-snowflake_nopalette_21: -6158467242841365739
+      70_unrolled-scroll_frost-snowflake_nopalette_22: -1720130742309815709
+      70_unrolled-scroll_frost-snowflake_nopalette_23: 5752328210997189511
+      70_unrolled-scroll_frost-snowflake_nopalette_24: -6196743972842295500
+      70_unrolled-scroll_frost-snowflake_nopalette_25: 8460103235979334807
+      70_unrolled-scroll_frost-snowflake_nopalette_26: 7344222171138121335
+      70_unrolled-scroll_frost-snowflake_nopalette_27: 167698136517901736
+      70_unrolled-scroll_frost-snowflake_nopalette_28: 8838638411169072192
+      70_unrolled-scroll_frost-snowflake_nopalette_29: -8622840424513347991
+      70_unrolled-scroll_frost-snowflake_nopalette_3: 6788467801121639632
+      70_unrolled-scroll_frost-snowflake_nopalette_4: 4557448933918671772
+      70_unrolled-scroll_frost-snowflake_nopalette_5: -876931289249331279
+      70_unrolled-scroll_frost-snowflake_nopalette_6: 6657223721966479099
+      70_unrolled-scroll_frost-snowflake_nopalette_7: -552125020534405990
+      70_unrolled-scroll_frost-snowflake_nopalette_8: 7273929449595705307
+      70_unrolled-scroll_frost-snowflake_nopalette_9: -6521058749440061972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

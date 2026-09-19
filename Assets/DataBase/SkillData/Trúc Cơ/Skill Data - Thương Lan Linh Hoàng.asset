@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Th\u01B0\u01A1ng Lan Linh Ho\xE0ng"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 7
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Th\u01B0\u01A1ng Lan Linh Ho\xE0ng"
+  level: 16
+  skillPoint: 500
+  description: " (\u6CA7\u6F9C\u7075\u51F0) Tri\u1EC7u h\u1ED3i \u1EA5u th\u1EC3
+    th\u1EE7y h\u1EC7 linh ho\xE0ng, th\xE2n mang lam quang nh\u01B0 s\xF3ng bi\u1EC3n,
+    bay l\u01B0\u1EE3n quanh ng\u01B0\u1EDDi thi tri\u1EC3n.\n Linh ho\xE0ng h\xF2a
+    v\xE0o kh\xED h\u1EA3i, d\u1EABn \u0111\u1ED9ng th\u1EE7y linh chi l\u1EF1c,
+    khu\u1EBFch \u0111\u1EA1i uy l\u1EF1c c\xF4ng k\xEDch"
+  icon: {fileID: 21300000, guid: 45a5f9b73ee85c34d959358b1ec02396, type: 3}

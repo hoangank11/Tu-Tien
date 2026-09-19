@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 778d1e3ba5cb5694496899fb6fccfc13, type: 3}
+  m_Name: Item Effect - Buff_Dmg_ID_01
+  m_EditorClassIdentifier: 
+  effectDes: "T\u0103ng C\xF4ng L\u1EF1c: + 10 C\xF4ng L\u1EF1c (trong 30 gi\xE2y)"
+  buffToApply:
+  - type: 5
+    value: 10
+  duration: 30
+  source: 766e5cba-89f1-4cd9-88e5-8837cdc28755

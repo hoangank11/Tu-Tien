@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Tr\xFAc Linh Gi\u1EDBi"
+  m_EditorClassIdentifier: 
+  saveID: fa0964a54d50ca24394440a8731f3665
+  moneyType: 1
+  itemPrice: 7501
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Tr\xFAc Linh Gi\u1EDBi"
+  itemIcon: {fileID: 6913824115800055646, guid: 7caba806ecc29ef43a755e65053ffd25, type: 3}
+  itemType: 3
+  description: " Linh gi\u1EDBi \u0111\u01B0\u1EE3c luy\u1EC7n ch\u1EBF t\u1EEB linh
+    ng\u1ECDc, th\u01B0\u1EDDng \u0111\u01B0\u1EE3c d\xF9ng \u0111\u1EC3 h\u1ED7
+    tr\u1EE3 tu s\u0129 c\u1EE7ng c\u1ED1 c\u0103n c\u01A1."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 200
+  - startType: 10
+    value: 6

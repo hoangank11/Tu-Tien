@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: fb6827e0c009e5b47ace18fab8730e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 208219965899824019
+    second: potion_48_bamboo_tube_16-bit_0
+  - first:
+      213: -3848119092427960571
+    second: potion_48_bamboo_tube_16-bit_1
+  - first:
+      213: -1082248955297294522
+    second: potion_48_bamboo_tube_16-bit_2
+  - first:
+      213: -368441145892993445
+    second: potion_48_bamboo_tube_16-bit_3
+  - first:
+      213: 3257520524285323195
+    second: potion_48_bamboo_tube_16-bit_4
+  - first:
+      213: 4081544213250271563
+    second: potion_48_bamboo_tube_16-bit_5
+  - first:
+      213: 5880726559433445390
+    second: potion_48_bamboo_tube_16-bit_6
+  - first:
+      213: 629626578126083146
+    second: potion_48_bamboo_tube_16-bit_7
+  - first:
+      213: -6374056814482455437
+    second: potion_48_bamboo_tube_16-bit_8
+  - first:
+      213: -2912482016870655181
+    second: potion_48_bamboo_tube_16-bit_9
+  - first:
+      213: 7674269267402843587
+    second: potion_48_bamboo_tube_16-bit_10
+  - first:
+      213: 433722337841143755
+    second: potion_48_bamboo_tube_16-bit_11
+  - first:
+      213: 2077879457276368781
+    second: potion_48_bamboo_tube_16-bit_12
+  - first:
+      213: 198168180354069005
+    second: potion_48_bamboo_tube_16-bit_13
+  - first:
+      213: -5731283596464405088
+    second: potion_48_bamboo_tube_16-bit_14
+  - first:
+      213: -3792590012463807739
+    second: potion_48_bamboo_tube_16-bit_15
+  - first:
+      213: 6465274505824111865
+    second: potion_48_bamboo_tube_16-bit_16
+  - first:
+      213: -207240862049190426
+    second: potion_48_bamboo_tube_16-bit_17
+  - first:
+      213: -7105688854135616610
+    second: potion_48_bamboo_tube_16-bit_18
+  - first:
+      213: 1343850485060762773
+    second: potion_48_bamboo_tube_16-bit_19
+  - first:
+      213: 7606315093011475590
+    second: potion_48_bamboo_tube_16-bit_20
+  - first:
+      213: 748453191600096915
+    second: potion_48_bamboo_tube_16-bit_21
+  - first:
+      213: -7822159488615183089
+    second: potion_48_bamboo_tube_16-bit_22
+  - first:
+      213: 3368375109832119810
+    second: potion_48_bamboo_tube_16-bit_23
+  - first:
+      213: 5877693408782508423
+    second: potion_48_bamboo_tube_16-bit_24
+  - first:
+      213: 3583994543725817643
+    second: potion_48_bamboo_tube_16-bit_25
+  - first:
+      213: -4328817714207694236
+    second: potion_48_bamboo_tube_16-bit_26
+  - first:
+      213: 4375795497037292482
+    second: potion_48_bamboo_tube_16-bit_27
+  - first:
+      213: 8444254096996532199
+    second: potion_48_bamboo_tube_16-bit_28
+  - first:
+      213: -8705475078687698724
+    second: potion_48_bamboo_tube_16-bit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b5a9ea4feb3e200800000000000000
+      internalID: 208219965899824019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fce6ad21cb89ac0800000000000000
+      internalID: -3848119092427960571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64797f42f441bf0f0800000000000000
+      internalID: -1082248955297294522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56096adab803eaf0800000000000000
+      internalID: -368441145892993445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7229268a9053d20800000000000000
+      internalID: 3257520524285323195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4965d546de84a830800000000000000
+      internalID: 4081544213250271563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005c3cf5a98c9150800000000000000
+      internalID: 5880726559433445390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4499527902ecb800800000000000000
+      internalID: 629626578126083146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748d92391dca87a0800000000000000
+      internalID: -6374056814482455437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b16b16909c497d0800000000000000
+      internalID: -2912482016870655181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56e3a1d3b708a60800000000000000
+      internalID: 7674269267402843587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf5c261b24e40600800000000000000
+      internalID: 433722337841143755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871a097b5c16dc10800000000000000
+      internalID: 2077879457276368781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d023acbf8e800c200800000000000000
+      internalID: 198168180354069005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a547b54fe36670b0800000000000000
+      internalID: -5731283596464405088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50386684a730e5bc0800000000000000
+      internalID: -3792590012463807739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc090798e449b950800000000000000
+      internalID: 6465274505824111865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edbc92b88bbf1df0800000000000000
+      internalID: -207240862049190426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b4bcc72a5836d90800000000000000
+      internalID: -7105688854135616610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c784965e056a210800000000000000
+      internalID: 1343850485060762773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c24a0f64f0f8960800000000000000
+      internalID: 7606315093011475590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c458563a036a00800000000000000
+      internalID: 748453191600096915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d04a0836b127390800000000000000
+      internalID: -7822159488615183089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2069fc3e05fdebe20800000000000000
+      internalID: 3368375109832119810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781e2219303c19150800000000000000
+      internalID: 5877693408782508423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f27b77c08ecb130800000000000000
+      internalID: 3583994543725817643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4626b375933fce3c0800000000000000
+      internalID: -4328817714207694236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c369a212d2f9bc30800000000000000
+      internalID: 4375795497037292482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef7d949c54003570800000000000000
+      internalID: 8444254096996532199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_48_bamboo_tube_16-bit_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0ddcd1a80ff2780800000000000000
+      internalID: -8705475078687698724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 17dd45deee6f95147ba57c84d1bed977
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_48_bamboo_tube_16-bit_0: 208219965899824019
+      potion_48_bamboo_tube_16-bit_1: -3848119092427960571
+      potion_48_bamboo_tube_16-bit_10: 7674269267402843587
+      potion_48_bamboo_tube_16-bit_11: 433722337841143755
+      potion_48_bamboo_tube_16-bit_12: 2077879457276368781
+      potion_48_bamboo_tube_16-bit_13: 198168180354069005
+      potion_48_bamboo_tube_16-bit_14: -5731283596464405088
+      potion_48_bamboo_tube_16-bit_15: -3792590012463807739
+      potion_48_bamboo_tube_16-bit_16: 6465274505824111865
+      potion_48_bamboo_tube_16-bit_17: -207240862049190426
+      potion_48_bamboo_tube_16-bit_18: -7105688854135616610
+      potion_48_bamboo_tube_16-bit_19: 1343850485060762773
+      potion_48_bamboo_tube_16-bit_2: -1082248955297294522
+      potion_48_bamboo_tube_16-bit_20: 7606315093011475590
+      potion_48_bamboo_tube_16-bit_21: 748453191600096915
+      potion_48_bamboo_tube_16-bit_22: -7822159488615183089
+      potion_48_bamboo_tube_16-bit_23: 3368375109832119810
+      potion_48_bamboo_tube_16-bit_24: 5877693408782508423
+      potion_48_bamboo_tube_16-bit_25: 3583994543725817643
+      potion_48_bamboo_tube_16-bit_26: -4328817714207694236
+      potion_48_bamboo_tube_16-bit_27: 4375795497037292482
+      potion_48_bamboo_tube_16-bit_28: 8444254096996532199
+      potion_48_bamboo_tube_16-bit_29: -8705475078687698724
+      potion_48_bamboo_tube_16-bit_3: -368441145892993445
+      potion_48_bamboo_tube_16-bit_4: 3257520524285323195
+      potion_48_bamboo_tube_16-bit_5: 4081544213250271563
+      potion_48_bamboo_tube_16-bit_6: 5880726559433445390
+      potion_48_bamboo_tube_16-bit_7: 629626578126083146
+      potion_48_bamboo_tube_16-bit_8: -6374056814482455437
+      potion_48_bamboo_tube_16-bit_9: -2912482016870655181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

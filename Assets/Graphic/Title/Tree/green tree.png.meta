@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3bb2b42363b381a428c169a345644c0c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5637137216939036992
+    second: green tree_0
+  - first:
+      213: -4974190481570980017
+    second: green tree_1
+  - first:
+      213: -7091217520113644670
+    second: green tree_2
+  - first:
+      213: -8442118777754259595
+    second: green tree_3
+  - first:
+      213: -3760613851243379836
+    second: green tree_4
+  - first:
+      213: -5904273072971295571
+    second: green tree_5
+  - first:
+      213: -4154909781454907488
+    second: green tree_6
+  - first:
+      213: -3052370608481612110
+    second: green tree_7
+  - first:
+      213: 2501077705575499690
+    second: green tree_8
+  - first:
+      213: 3367809976579252391
+    second: green tree_9
+  - first:
+      213: -4156425796452463196
+    second: green tree_10
+  - first:
+      213: 8616223241265468532
+    second: green tree_11
+  - first:
+      213: 8196249830383371064
+    second: green tree_12
+  - first:
+      213: -1110574138974782858
+    second: green tree_13
+  - first:
+      213: -5365327821028979552
+    second: green tree_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green tree_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04119c59e622b3e40800000000000000
+      internalID: 5637137216939036992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f15d48c1028fab0800000000000000
+      internalID: -4974190481570980017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b89908c3fe69d90800000000000000
+      internalID: -7091217520113644670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f6d4c23b197da80800000000000000
+      internalID: -8442118777754259595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483893b70ad9fcbc0800000000000000
+      internalID: -3760613851243379836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da454ac1ceecf0ea0800000000000000
+      internalID: -5904273072971295571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 740
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79592419bc656c0800000000000000
+      internalID: -4154909781454907488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be4c9e8a1dc3a5d0800000000000000
+      internalID: -3052370608481612110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70a740cec95b220800000000000000
+      internalID: 2501077705575499690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e50d845ddcbe20800000000000000
+      internalID: 3367809976579252391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad4e2382c86156c0800000000000000
+      internalID: -4156425796452463196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474d7112369f29770800000000000000
+      internalID: 8616223241265468532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8334b5e8bcdeeb170800000000000000
+      internalID: 8196249830383371064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 370
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a3ca564b27690f0800000000000000
+      internalID: -1110574138974782858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green tree_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0c0406c68a85b0800000000000000
+      internalID: -5365327821028979552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c7ecfad66d02cc4fb0b1c0388ab95e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      green tree_0: 5637137216939036992
+      green tree_1: -4974190481570980017
+      green tree_10: -4156425796452463196
+      green tree_11: 8616223241265468532
+      green tree_12: 8196249830383371064
+      green tree_13: -1110574138974782858
+      green tree_14: -5365327821028979552
+      green tree_2: -7091217520113644670
+      green tree_3: -8442118777754259595
+      green tree_4: -3760613851243379836
+      green tree_5: -5904273072971295571
+      green tree_6: -4154909781454907488
+      green tree_7: -3052370608481612110
+      green tree_8: 2501077705575499690
+      green tree_9: 3367809976579252391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

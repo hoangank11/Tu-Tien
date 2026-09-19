@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 61ee15aa553a834429c7ffc55d67a820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8745427398102493384
+    second: Skill Spear 85x180_0
+  - first:
+      213: -114406431293788096
+    second: Skill Spear 85x180_1
+  - first:
+      213: 6300336070503521123
+    second: Skill Spear 85x180_2
+  - first:
+      213: 6610835920851373570
+    second: Skill Spear 85x180_3
+  - first:
+      213: -3629467275278551641
+    second: Skill Spear 85x180_4
+  - first:
+      213: -8650973958686665060
+    second: Skill Spear 85x180_5
+  - first:
+      213: 5646107752424672714
+    second: Skill Spear 85x180_6
+  - first:
+      213: -7847702219782309142
+    second: Skill Spear 85x180_7
+  - first:
+      213: 820593629696087194
+    second: Skill Spear 85x180_8
+  - first:
+      213: -7854385508100216716
+    second: Skill Spear 85x180_9
+  - first:
+      213: -5018279614355163789
+    second: Skill Spear 85x180_10
+  - first:
+      213: -3067709930773970665
+    second: Skill Spear 85x180_11
+  - first:
+      213: 2375569880568631281
+    second: Skill Spear 85x180_12
+  - first:
+      213: 1296028121712906047
+    second: Skill Spear 85x180_13
+  - first:
+      213: 692806008677711776
+    second: Skill Spear 85x180_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skill Spear 85x180_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d12fdd1002a680800000000000000
+      internalID: -8745427398102493384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 360
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b6b6f4fb896ef0800000000000000
+      internalID: -114406431293788096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 360
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b51f7864a4f6750800000000000000
+      internalID: 6300336070503521123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 360
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e0dba8e386ebb50800000000000000
+      internalID: 6610835920851373570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5fd1d2eba81adc0800000000000000
+      internalID: -3629467275278551641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 180
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c969357f40191f780800000000000000
+      internalID: -8650973958686665060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 180
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0ad226110b5e40800000000000000
+      internalID: 5646107752424672714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 180
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeab4d6f86c571390800000000000000
+      internalID: -7847702219782309142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skill Spear 85x180_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94dbfafe85536b00800000000000000
+      internalID: 820593629696087194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7f74f6a53d42794ea96b5eda5bb44fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skill Spear 85x180_0: -8745427398102493384
+      Skill Spear 85x180_1: -114406431293788096
+      Skill Spear 85x180_2: 6300336070503521123
+      Skill Spear 85x180_3: 6610835920851373570
+      Skill Spear 85x180_4: -3629467275278551641
+      Skill Spear 85x180_5: -8650973958686665060
+      Skill Spear 85x180_6: 5646107752424672714
+      Skill Spear 85x180_7: -7847702219782309142
+      Skill Spear 85x180_8: 820593629696087194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: f593e3a209e6b974d98994d33d1a3c13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5938745629695519655
+    second: Acid VFX 02 56x32_0
+  - first:
+      213: -7710624704197988253
+    second: Acid VFX 02 56x32_1
+  - first:
+      213: 6355074528335579840
+    second: Acid VFX 02 56x32_2
+  - first:
+      213: 6584845254640774745
+    second: Acid VFX 02 56x32_3
+  - first:
+      213: -7717873748432687234
+    second: Acid VFX 02 56x32_4
+  - first:
+      213: -1910362470331213835
+    second: Acid VFX 02 56x32_5
+  - first:
+      213: 4893723151568518112
+    second: Acid VFX 02 56x32_6
+  - first:
+      213: -3043273085249304758
+    second: Acid VFX 02 56x32_7
+  - first:
+      213: -2682627805378914645
+    second: Acid VFX 02 56x32_8
+  - first:
+      213: 2934051005017044875
+    second: Acid VFX 02 56x32_9
+  - first:
+      213: -5338117245936169833
+    second: Acid VFX 02 56x32_10
+  - first:
+      213: 9011376014043631264
+    second: Acid VFX 02 56x32_11
+  - first:
+      213: 440874123990369673
+    second: Acid VFX 02 56x32_12
+  - first:
+      213: -1668113551072426915
+    second: Acid VFX 02 56x32_13
+  - first:
+      213: 8882350801268905568
+    second: Acid VFX 02 56x32_14
+  - first:
+      213: -4579637268480816179
+    second: Acid VFX 02 56x32_15
+  - first:
+      213: -1040801946791783776
+    second: Acid VFX 02 56x32_16
+  - first:
+      213: 5035984886811372557
+    second: Acid VFX 02 56x32_17
+  - first:
+      213: -4469472005720406961
+    second: Acid VFX 02 56x32_18
+  - first:
+      213: 8449878036527336710
+    second: Acid VFX 02 56x32_19
+  - first:
+      213: -7261575396699152117
+    second: Acid VFX 02 56x32_20
+  - first:
+      213: 7034137732485477853
+    second: Acid VFX 02 56x32_21
+  - first:
+      213: -702469800796468328
+    second: Acid VFX 02 56x32_22
+  - first:
+      213: -6899699724658659065
+    second: Acid VFX 02 56x32_23
+  - first:
+      213: -4739437922149150869
+    second: Acid VFX 02 56x32_24
+  - first:
+      213: 3334095663863378398
+    second: Acid VFX 02 56x32_25
+  - first:
+      213: 223342626280407510
+    second: Acid VFX 02 56x32_26
+  - first:
+      213: -9186309654470299293
+    second: Acid VFX 02 56x32_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aba7657fa9aa6250800000000000000
+      internalID: 5938745629695519655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3607de52fab5ef490800000000000000
+      internalID: -7710624704197988253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca4396ec92c13850800000000000000
+      internalID: 6355074528335579840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ea7cffed1126b50800000000000000
+      internalID: 6584845254640774745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6b5387ba94e490800000000000000
+      internalID: -7717873748432687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79bab64770d75e0800000000000000
+      internalID: -1910362470331213835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebb85e374ff9e340800000000000000
+      internalID: 4893723151568518112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47453fb04f14c5d0800000000000000
+      internalID: -3043273085249304758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6ddc3693465cad0800000000000000
+      internalID: -2682627805378914645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b873be208d7d7b820800000000000000
+      internalID: 2934051005017044875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c869ab5a23be5b0800000000000000
+      internalID: -5338117245936169833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aecb8e8db6de0d70800000000000000
+      internalID: 9011376014043631264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9858b1f0eac4e1600800000000000000
+      internalID: 440874123990369673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d540057309ba9d8e0800000000000000
+      internalID: -1668113551072426915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0661a083ef2744b70800000000000000
+      internalID: 8882350801268905568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb8f041b2cd170c0800000000000000
+      internalID: -4579637268480816179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acid VFX 02 56x32_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2d0ffc4245e81f0800000000000000
+      internalID: -1040801946791783776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e73c80f9558dfb4448206897e696f2df
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Acid VFX 02 56x32_0: 5938745629695519655
+      Acid VFX 02 56x32_1: -7710624704197988253
+      Acid VFX 02 56x32_10: -5338117245936169833
+      Acid VFX 02 56x32_11: 9011376014043631264
+      Acid VFX 02 56x32_12: 440874123990369673
+      Acid VFX 02 56x32_13: -1668113551072426915
+      Acid VFX 02 56x32_14: 8882350801268905568
+      Acid VFX 02 56x32_15: -4579637268480816179
+      Acid VFX 02 56x32_16: -1040801946791783776
+      Acid VFX 02 56x32_2: 6355074528335579840
+      Acid VFX 02 56x32_3: 6584845254640774745
+      Acid VFX 02 56x32_4: -7717873748432687234
+      Acid VFX 02 56x32_5: -1910362470331213835
+      Acid VFX 02 56x32_6: 4893723151568518112
+      Acid VFX 02 56x32_7: -3043273085249304758
+      Acid VFX 02 56x32_8: -2682627805378914645
+      Acid VFX 02 56x32_9: 2934051005017044875
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - X\xEDch Vi\xEAm Linh \u0110ao"
+  m_EditorClassIdentifier: 
+  saveID: bb6b4d66acef2b54babb156e4d389cbc
+  moneyType: 1
+  itemPrice: 3154
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "X\xEDch Vi\xEAm Linh \u0110ao"
+  itemIcon: {fileID: 4912679936978092202, guid: fa1e04f8401b7cd4a96194effed6a8bc, type: 3}
+  itemType: 1
+  description: " Linh \u0111ao mang s\u1EAFc \u0111\u1ECF s\u1EABm, \u0111\u01B0\u1EE3c
+    luy\u1EC7n c\xF9ng h\u1ECFa linh th\u1EA1ch. L\u01B0\u1EE1i \u0111ao lu\xF4n
+    t\u1ECFa ra h\u01A1i n\xF3ng nh\xE0n nh\u1EA1t."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 5
+    value: 45
+  - startType: 8
+    value: 3

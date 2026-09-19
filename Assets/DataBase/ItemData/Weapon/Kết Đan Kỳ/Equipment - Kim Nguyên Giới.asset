@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Kim Nguy\xEAn Gi\u1EDBi"
+  m_EditorClassIdentifier: 
+  saveID: 4657375edb5f99b4ca34a973412b8018
+  moneyType: 1
+  itemPrice: 35000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Kim Nguy\xEAn Gi\u1EDBi"
+  itemIcon: {fileID: -4605129648457976887, guid: 5a111ccae73434947944cf1f947ad73b, type: 3}
+  itemType: 3
+  description: " Linh gi\u1EDBi \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB kim nguy\xEAn
+    ng\u1ECDc, b\xEAn trong ch\u1EE9a linh l\u1EF1c tinh thu\u1EA7n."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 400
+  - startType: 10
+    value: 10

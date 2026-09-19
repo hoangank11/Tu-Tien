@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 73c004b74b3b13343bbec81425aefdfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4270761615354587456
+    second: potion_39_hunter_antidote_voyager_0
+  - first:
+      213: -820949282881428974
+    second: potion_39_hunter_antidote_voyager_1
+  - first:
+      213: 7165425996523216840
+    second: potion_39_hunter_antidote_voyager_2
+  - first:
+      213: -2380267031809953141
+    second: potion_39_hunter_antidote_voyager_3
+  - first:
+      213: 8128300171051399802
+    second: potion_39_hunter_antidote_voyager_4
+  - first:
+      213: -485353292939101464
+    second: potion_39_hunter_antidote_voyager_5
+  - first:
+      213: -8411455598331145868
+    second: potion_39_hunter_antidote_voyager_6
+  - first:
+      213: 6553357766291227624
+    second: potion_39_hunter_antidote_voyager_7
+  - first:
+      213: 4502150642812548603
+    second: potion_39_hunter_antidote_voyager_8
+  - first:
+      213: -4803196293059638762
+    second: potion_39_hunter_antidote_voyager_9
+  - first:
+      213: 4508072149111747801
+    second: potion_39_hunter_antidote_voyager_10
+  - first:
+      213: 505210159253375406
+    second: potion_39_hunter_antidote_voyager_11
+  - first:
+      213: 3800907228170737696
+    second: potion_39_hunter_antidote_voyager_12
+  - first:
+      213: -4181681463387898356
+    second: potion_39_hunter_antidote_voyager_13
+  - first:
+      213: 215965662712449669
+    second: potion_39_hunter_antidote_voyager_14
+  - first:
+      213: 4059701865752417944
+    second: potion_39_hunter_antidote_voyager_15
+  - first:
+      213: 7522116676730006672
+    second: potion_39_hunter_antidote_voyager_16
+  - first:
+      213: -4820255487897590207
+    second: potion_39_hunter_antidote_voyager_17
+  - first:
+      213: 591308041904716785
+    second: potion_39_hunter_antidote_voyager_18
+  - first:
+      213: 2511612618924738395
+    second: potion_39_hunter_antidote_voyager_19
+  - first:
+      213: 8016787991645444009
+    second: potion_39_hunter_antidote_voyager_20
+  - first:
+      213: -3511693735209638461
+    second: potion_39_hunter_antidote_voyager_21
+  - first:
+      213: -3049572115658181218
+    second: potion_39_hunter_antidote_voyager_22
+  - first:
+      213: 7773361482360558917
+    second: potion_39_hunter_antidote_voyager_23
+  - first:
+      213: 224029172547151945
+    second: potion_39_hunter_antidote_voyager_24
+  - first:
+      213: -3521867645825243343
+    second: potion_39_hunter_antidote_voyager_25
+  - first:
+      213: -1611515332838829023
+    second: potion_39_hunter_antidote_voyager_26
+  - first:
+      213: 6410720568117307902
+    second: potion_39_hunter_antidote_voyager_27
+  - first:
+      213: -2963560168207415287
+    second: potion_39_hunter_antidote_voyager_28
+  - first:
+      213: -4088463482890386169
+    second: potion_39_hunter_antidote_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c69a6430f43bb4c0800000000000000
+      internalID: -4270761615354587456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212ad3f0af66b94f0800000000000000
+      internalID: -820949282881428974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf9d13daf4b07360800000000000000
+      internalID: 7165425996523216840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f46aeeb797fed0800000000000000
+      internalID: -2380267031809953141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7af343a0f58dc070800000000000000
+      internalID: 8128300171051399802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea7cc760cda349f0800000000000000
+      internalID: -485353292939101464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4715089f2b1844b80800000000000000
+      internalID: -8411455598331145868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e306d1da2432fa50800000000000000
+      internalID: 6553357766291227624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5732ef72ada7e30800000000000000
+      internalID: 4502150642812548603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a05bd7b6e975db0800000000000000
+      internalID: -4803196293059638762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d433ad1cb3ef8e30800000000000000
+      internalID: 4508072149111747801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9473f86fdd20700800000000000000
+      internalID: 505210159253375406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028d4576cf88fb430800000000000000
+      internalID: 3800907228170737696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebde25ddea7f5c0800000000000000
+      internalID: -4181681463387898356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a48a140a34ff200800000000000000
+      internalID: 215965662712449669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d9227655f65830800000000000000
+      internalID: 4059701865752417944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ca88b734de36860800000000000000
+      internalID: 7522116676730006672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ac3d2c230b1db0800000000000000
+      internalID: -4820255487897590207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fbff8ef78fb43800800000000000000
+      internalID: 591308041904716785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57c56cae5a0bd220800000000000000
+      internalID: 2511612618924738395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d4a1243a514f60800000000000000
+      internalID: 8016787991645444009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56dd05725f34fc0800000000000000
+      internalID: -3511693735209638461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95f141715ebda5d0800000000000000
+      internalID: -3049572115658181218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5451eca451780eb60800000000000000
+      internalID: 7773361482360558917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9486ff07859eb1300800000000000000
+      internalID: 224029172547151945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13725a82900df1fc0800000000000000
+      internalID: -3521867645825243343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124db0cc75fb2a9e0800000000000000
+      internalID: -1611515332838829023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92ce8246477f850800000000000000
+      internalID: 6410720568117307902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90800878ab15fd6d0800000000000000
+      internalID: -2963560168207415287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_39_hunter_antidote_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058929bf1cd247c0800000000000000
+      internalID: -4088463482890386169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e5555c1da8279f4aa9a227a51ffa361
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_39_hunter_antidote_voyager_0: -4270761615354587456
+      potion_39_hunter_antidote_voyager_1: -820949282881428974
+      potion_39_hunter_antidote_voyager_10: 4508072149111747801
+      potion_39_hunter_antidote_voyager_11: 505210159253375406
+      potion_39_hunter_antidote_voyager_12: 3800907228170737696
+      potion_39_hunter_antidote_voyager_13: -4181681463387898356
+      potion_39_hunter_antidote_voyager_14: 215965662712449669
+      potion_39_hunter_antidote_voyager_15: 4059701865752417944
+      potion_39_hunter_antidote_voyager_16: 7522116676730006672
+      potion_39_hunter_antidote_voyager_17: -4820255487897590207
+      potion_39_hunter_antidote_voyager_18: 591308041904716785
+      potion_39_hunter_antidote_voyager_19: 2511612618924738395
+      potion_39_hunter_antidote_voyager_2: 7165425996523216840
+      potion_39_hunter_antidote_voyager_20: 8016787991645444009
+      potion_39_hunter_antidote_voyager_21: -3511693735209638461
+      potion_39_hunter_antidote_voyager_22: -3049572115658181218
+      potion_39_hunter_antidote_voyager_23: 7773361482360558917
+      potion_39_hunter_antidote_voyager_24: 224029172547151945
+      potion_39_hunter_antidote_voyager_25: -3521867645825243343
+      potion_39_hunter_antidote_voyager_26: -1611515332838829023
+      potion_39_hunter_antidote_voyager_27: 6410720568117307902
+      potion_39_hunter_antidote_voyager_28: -2963560168207415287
+      potion_39_hunter_antidote_voyager_29: -4088463482890386169
+      potion_39_hunter_antidote_voyager_3: -2380267031809953141
+      potion_39_hunter_antidote_voyager_4: 8128300171051399802
+      potion_39_hunter_antidote_voyager_5: -485353292939101464
+      potion_39_hunter_antidote_voyager_6: -8411455598331145868
+      potion_39_hunter_antidote_voyager_7: 6553357766291227624
+      potion_39_hunter_antidote_voyager_8: 4502150642812548603
+      potion_39_hunter_antidote_voyager_9: -4803196293059638762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

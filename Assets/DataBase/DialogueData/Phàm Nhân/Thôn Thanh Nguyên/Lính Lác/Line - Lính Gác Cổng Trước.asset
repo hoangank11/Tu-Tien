@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - L\xEDnh G\xE1c C\u1ED5ng Tr\u01B0\u1EDBc"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "Tri\u1EC7u \u0110\u1EA1i S\u01A1n"
+  speaker: {fileID: 11400000, guid: bef9338c822d59b4db7387bc2ef17c59, type: 2}
+  textLine:
+  - " Ph\xEDa tr\u01B0\u1EDBc \u0111\u01B0\u1EDDng d\u1EABn t\u1EDBi cung th\xE0nh,
+    tr\xEAn \u0111\u01B0\u1EDDng l\u1EDBn tuy nhi\xEAn n\u01A1i \u0111\xF3 nghe \u0111\u1ED3n
+    c\xF3 nhi\u1EC1u b\u0103ng \u0111\u1EA3ng c\u01B0\u1EDBp ho\xE0nh h\xE0nh. ng\u01B0\u01A1i
+    h\xE3y th\u1EADn tr\u1ECDng. N\u1EBFu kh\xF4ng c\xF3 vi\u1EC7c g\xEC th\xEC t\u1ED1t
+    h\u1EBFt ta khuy\xEAn ng\u01B0\u01A1i kh\xF4ng n\xEAn ch\u1EA1y nh\u1EA3y lung
+    tung. Th\u1EDDi gian n\xE0y \u0111ang kh\xE1 l\xE0 r\u1ED1i ren."
+  - " Ng\u01B0\u01A1i n\u1EBFu r\u1EA3nh th\xEC h\xE3y h\u1ECFi th\u0103m em trai
+    ta nha, n\xF3 \u0111ang canh c\u1ED5ng ph\xEDa sau \xE1. T\xEAn \u0111\xF3 l\xFAc
+    n\xE0o c\u0169ng nh\u1EAFc m\u1ECDi ng\u01B0\u1EDDi c\u1EA9n th\u1EADn m\xE0
+    b\u1EA3n th\xE2n th\xEC c\u1EE9 lao \u0111\u1EA7u v\xE0o ch\u1ED7 nguy hi\u1EC3m.
+    H\u1EAFn c\xF3 k\u1EC3 cho ng\u01B0\u1EDDi v\u1EC1 v\u1EE5 h\u1EAFn g\u1EB7p
+    m\u1ED9t con g\u1EA5u to ph\xEDa sau l\xE0ng kh\xF4ng. Th\u1EADt l\xE0 h\u1EBFt
+    n\xF3i n\u1ED5i m\xE0!!!"
+  actionType: 0

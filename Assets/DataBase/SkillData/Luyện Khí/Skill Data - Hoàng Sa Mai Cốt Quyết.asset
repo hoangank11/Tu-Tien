@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Ho\xE0ng Sa Mai C\u1ED1t Quy\u1EBFt"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 4
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Ho\xE0ng Sa Mai C\u1ED1t Quy\u1EBFt"
+  level: 11
+  skillPoint: 99
+  description: " (\u9EC4\u6C99\u57CB\u9AA8\u8BC0) D\u1EABn \u0111\u1ED9ng l\u1EF1c
+    l\u01B0\u1EE3ng \u0111\u1ECBa m\u1EA1ch, l\xE0m m\u1EB7t \u0111\u1EA5t n\u1EE9t
+    v\u1EE1, cu\u1ED1n l\xEAn c\xE1t v\xE0ng v\xE0 \u0111\xE1 v\u1EE5n. Khi d\u01B0
+    ch\u1EA5n lan r\u1ED9ng, c\xE1t \u0111\xE1 nh\u01B0 th\u1EE7y tri\u1EC1u d\xE2ng
+    l\xEAn, k\xE9o k\u1EBB \u0111\u1ECBch xu\u1ED1ng l\xF2ng \u0111\u1EA5t, ch\xF4n
+    v\xF9i trong bi\u1EC3n c\xE1t v\xE0ng."
+  icon: {fileID: 21300000, guid: 30f4ed146df153047b477fe525cba327, type: 3}

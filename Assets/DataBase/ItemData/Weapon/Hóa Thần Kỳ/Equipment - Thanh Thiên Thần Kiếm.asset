@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Thanh Thi\xEAn Th\u1EA7n Ki\u1EBFm"
+  m_EditorClassIdentifier: 
+  saveID: dfb613e6ec2a44f499b0a5d97ec45af4
+  moneyType: 2
+  itemPrice: 120
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Thanh Thi\xEAn Th\u1EA7n Ki\u1EBFm"
+  itemIcon: {fileID: 1810300253887048035, guid: 3a5a41cae28b72544aa92997eab979f4, type: 3}
+  itemType: 1
+  description: " Th\u1EA7n ki\u1EBFm \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB thanh
+    thi\xEAn th\u1EA7n kim, ch\u1EE9a uy \xE1p kinh ng\u01B0\u1EDDi v\xE0 ch\u1EC9
+    nh\u1EEFng tu s\u0129 H\xF3a Th\u1EA7n m\u1EDBi c\xF3 th\u1EC3 s\u1EED d\u1EE5ng
+    \u1ED5n \u0111\u1ECBnh."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 5
+    value: 1400
+  - startType: 6
+    value: 0.25

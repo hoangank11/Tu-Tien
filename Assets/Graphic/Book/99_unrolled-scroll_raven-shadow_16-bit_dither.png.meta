@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 70f2755e859126e4083b431789d6ff05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6570946520415409328
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_0
+  - first:
+      213: 29135650351983088
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_1
+  - first:
+      213: -2635294737665456878
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_2
+  - first:
+      213: -3200317521527159524
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_3
+  - first:
+      213: -333250337366059403
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_4
+  - first:
+      213: -7524143861922830175
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_5
+  - first:
+      213: -5886712062293592173
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_6
+  - first:
+      213: 732043726332899358
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_7
+  - first:
+      213: 7407475335240824609
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_8
+  - first:
+      213: 1559691677569807512
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_9
+  - first:
+      213: -7104702423969415958
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_10
+  - first:
+      213: 5706892179609885065
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_11
+  - first:
+      213: -5784752980842867324
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_12
+  - first:
+      213: -964491231036993959
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_13
+  - first:
+      213: 3056906659286193592
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_14
+  - first:
+      213: -8616518031383567917
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_15
+  - first:
+      213: -723119319476165978
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_16
+  - first:
+      213: 64192419306695337
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_17
+  - first:
+      213: 2114763605493977340
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_18
+  - first:
+      213: 7501457757178761910
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_19
+  - first:
+      213: 5355291132683482217
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_20
+  - first:
+      213: -4688758007268629378
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_21
+  - first:
+      213: 3121644324203163248
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_22
+  - first:
+      213: -5239748378430031506
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_23
+  - first:
+      213: 4947255856111417045
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_24
+  - first:
+      213: 6562530341336120912
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_25
+  - first:
+      213: 4435471957031336639
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_26
+  - first:
+      213: 5966663004170940093
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_27
+  - first:
+      213: -2271554095610047210
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_28
+  - first:
+      213: 7068588687783877610
+    second: 99_unrolled-scroll_raven-shadow_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bec8c34fe4fc4a0800000000000000
+      internalID: -6570946520415409328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9a78938b2876000800000000000000
+      internalID: 29135650351983088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158ef2066d8d6bd0800000000000000
+      internalID: -2635294737665456878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154ae09b203693d0800000000000000
+      internalID: -3200317521527159524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5765404759e006bf0800000000000000
+      internalID: -333250337366059403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8672fa50fd49790800000000000000
+      internalID: -7524143861922830175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397bbf781923e4ea0800000000000000
+      internalID: -5886712062293592173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10302cf3edb82a00800000000000000
+      internalID: 732043726332899358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1273f772293acc660800000000000000
+      internalID: 7407475335240824609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947ea0315325a510800000000000000
+      internalID: 1559691677569807512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3278a9c6076d90800000000000000
+      internalID: -7104702423969415958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9891a117334f23f40800000000000000
+      internalID: 5706892179609885065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4859a7710dd68bfa0800000000000000
+      internalID: -5784752980842867324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e8f01e5507d92f0800000000000000
+      internalID: -964491231036993959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5974219605c6a20800000000000000
+      internalID: 3056906659286193592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d162a2b08afb6880800000000000000
+      internalID: -8616518031383567917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a6686fc6f6f5f0800000000000000
+      internalID: -723119319476165978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa6c0e4aae04e000800000000000000
+      internalID: 64192419306695337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf094617b46295d10800000000000000
+      internalID: 2114763605493977340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b21d32f5188a1860800000000000000
+      internalID: 7501457757178761910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f56069e0d15a40800000000000000
+      internalID: 5355291132683482217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e742cfa3f6f2eeeb0800000000000000
+      internalID: -4688758007268629378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6e3349fe425b20800000000000000
+      internalID: 3121644324203163248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69bf377c9ca847b0800000000000000
+      internalID: -5239748378430031506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6fd7c4dfe28a440800000000000000
+      internalID: 4947255856111417045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eff0f539ac21b50800000000000000
+      internalID: 6562530341336120912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3f0aae36fd8d30800000000000000
+      internalID: 4435471957031336639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbee21ab368ddc250800000000000000
+      internalID: 5966663004170940093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155413d591d970e0800000000000000
+      internalID: -2271554095610047210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 99_unrolled-scroll_raven-shadow_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd3b6e5fba81260800000000000000
+      internalID: 7068588687783877610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 656051f374d669040b481eee636e5a9a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      99_unrolled-scroll_raven-shadow_16-bit_dither_0: -6570946520415409328
+      99_unrolled-scroll_raven-shadow_16-bit_dither_1: 29135650351983088
+      99_unrolled-scroll_raven-shadow_16-bit_dither_10: -7104702423969415958
+      99_unrolled-scroll_raven-shadow_16-bit_dither_11: 5706892179609885065
+      99_unrolled-scroll_raven-shadow_16-bit_dither_12: -5784752980842867324
+      99_unrolled-scroll_raven-shadow_16-bit_dither_13: -964491231036993959
+      99_unrolled-scroll_raven-shadow_16-bit_dither_14: 3056906659286193592
+      99_unrolled-scroll_raven-shadow_16-bit_dither_15: -8616518031383567917
+      99_unrolled-scroll_raven-shadow_16-bit_dither_16: -723119319476165978
+      99_unrolled-scroll_raven-shadow_16-bit_dither_17: 64192419306695337
+      99_unrolled-scroll_raven-shadow_16-bit_dither_18: 2114763605493977340
+      99_unrolled-scroll_raven-shadow_16-bit_dither_19: 7501457757178761910
+      99_unrolled-scroll_raven-shadow_16-bit_dither_2: -2635294737665456878
+      99_unrolled-scroll_raven-shadow_16-bit_dither_20: 5355291132683482217
+      99_unrolled-scroll_raven-shadow_16-bit_dither_21: -4688758007268629378
+      99_unrolled-scroll_raven-shadow_16-bit_dither_22: 3121644324203163248
+      99_unrolled-scroll_raven-shadow_16-bit_dither_23: -5239748378430031506
+      99_unrolled-scroll_raven-shadow_16-bit_dither_24: 4947255856111417045
+      99_unrolled-scroll_raven-shadow_16-bit_dither_25: 6562530341336120912
+      99_unrolled-scroll_raven-shadow_16-bit_dither_26: 4435471957031336639
+      99_unrolled-scroll_raven-shadow_16-bit_dither_27: 5966663004170940093
+      99_unrolled-scroll_raven-shadow_16-bit_dither_28: -2271554095610047210
+      99_unrolled-scroll_raven-shadow_16-bit_dither_29: 7068588687783877610
+      99_unrolled-scroll_raven-shadow_16-bit_dither_3: -3200317521527159524
+      99_unrolled-scroll_raven-shadow_16-bit_dither_4: -333250337366059403
+      99_unrolled-scroll_raven-shadow_16-bit_dither_5: -7524143861922830175
+      99_unrolled-scroll_raven-shadow_16-bit_dither_6: -5886712062293592173
+      99_unrolled-scroll_raven-shadow_16-bit_dither_7: 732043726332899358
+      99_unrolled-scroll_raven-shadow_16-bit_dither_8: 7407475335240824609
+      99_unrolled-scroll_raven-shadow_16-bit_dither_9: 1559691677569807512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Thanh M\u1ED9c Gi\u1EDBi"
+  m_EditorClassIdentifier: 
+  saveID: 1adc0886d21671e408f3f483f4b40d44
+  moneyType: 1
+  itemPrice: 1756
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Thanh M\u1ED9c Gi\u1EDBi"
+  itemIcon: {fileID: -3309275556312287993, guid: b0091e88a66ccfd4caae3a48662ecb67, type: 3}
+  itemType: 3
+  description: " Nh\u1EABn \u0111\u01B0\u1EE3c ch\u1EBF t\xE1c t\u1EEB linh m\u1ED9c
+    l\xE2u n\u0103m, b\xEAn trong \u1EA9n ch\u1EE9a kh\xED t\u1EE9c sinh c\u01A1
+    nh\xE0n nh\u1EA1t."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 30
+  - startType: 7
+    value: 5

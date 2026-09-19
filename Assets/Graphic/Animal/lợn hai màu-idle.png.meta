@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 4b2cddba54d8bf24e96ee9c14d6f6818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8951340979803372749
+    second: "l\u1EE3n hai m\xE0u-idle_0"
+  - first:
+      213: 4533677895110149091
+    second: "l\u1EE3n hai m\xE0u-idle_1"
+  - first:
+      213: -6648777777543504239
+    second: "l\u1EE3n hai m\xE0u-idle_2"
+  - first:
+      213: -3668981203464868325
+    second: "l\u1EE3n hai m\xE0u-idle_3"
+  - first:
+      213: 7642614966521824137
+    second: "l\u1EE3n hai m\xE0u-idle_4"
+  - first:
+      213: 8579697810966896929
+    second: "l\u1EE3n hai m\xE0u-idle_5"
+  - first:
+      213: 8579463510245513420
+    second: "l\u1EE3n hai m\xE0u-idle_6"
+  - first:
+      213: 6261656193768020346
+    second: "l\u1EE3n hai m\xE0u-idle_7"
+  - first:
+      213: -114081835116946020
+    second: "l\u1EE3n hai m\xE0u-idle_8"
+  - first:
+      213: 338372696589670772
+    second: "l\u1EE3n hai m\xE0u-idle_9"
+  - first:
+      213: -6292952560484704560
+    second: "l\u1EE3n hai m\xE0u-idle_10"
+  - first:
+      213: -3446632298735924199
+    second: "l\u1EE3n hai m\xE0u-idle_11"
+  - first:
+      213: 6218108347532827974
+    second: "l\u1EE3n hai m\xE0u-idle_12"
+  - first:
+      213: 3435261457702900668
+    second: "l\u1EE3n hai m\xE0u-idle_13"
+  - first:
+      213: 8246681544525218774
+    second: "l\u1EE3n hai m\xE0u-idle_14"
+  - first:
+      213: -4043272393052918100
+    second: "l\u1EE3n hai m\xE0u-idle_15"
+  - first:
+      213: -1790177571447320344
+    second: "l\u1EE3n hai m\xE0u-idle_16"
+  - first:
+      213: -1153432207399056129
+    second: "l\u1EE3n hai m\xE0u-idle_17"
+  - first:
+      213: 731186441961006157
+    second: "l\u1EE3n hai m\xE0u-idle_18"
+  - first:
+      213: 2437606893762531911
+    second: "l\u1EE3n hai m\xE0u-idle_19"
+  - first:
+      213: 5774765021943873542
+    second: "l\u1EE3n hai m\xE0u-idle_20"
+  - first:
+      213: -2454431656486320939
+    second: "l\u1EE3n hai m\xE0u-idle_21"
+  - first:
+      213: -3538327788187355698
+    second: "l\u1EE3n hai m\xE0u-idle_22"
+  - first:
+      213: 802420538572146790
+    second: "l\u1EE3n hai m\xE0u-idle_23"
+  - first:
+      213: -7476582093603527824
+    second: "l\u1EE3n hai m\xE0u-idle_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccb394e13d893c70800000000000000
+      internalID: 8951340979803372749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_1"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c410760cdaee30800000000000000
+      internalID: 4533677895110149091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_2"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e120b86dbcab3a0800000000000000
+      internalID: -6648777777543504239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_3"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e24e7d809251dc0800000000000000
+      internalID: -3668981203464868325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_4"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9830e9ad1d5001a60800000000000000
+      internalID: 7642614966521824137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121e0eea3b5311770800000000000000
+      internalID: 8579697810966896929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_6"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc81c9b4b90601770800000000000000
+      internalID: 8579463510245513420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_7"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79da2fe12fd5e650800000000000000
+      internalID: 6261656193768020346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_8"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d9786ec23ba6ef0800000000000000
+      internalID: -114081835116946020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_9"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791bedbc2422b400800000000000000
+      internalID: 338372696589670772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de9cebdcf0faa8a0800000000000000
+      internalID: -6292952560484704560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_11"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c05727f2a1b20d0800000000000000
+      internalID: -3446632298735924199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_12"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dd59dd8982b4650800000000000000
+      internalID: 6218108347532827974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_13"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3d8f058108caf20800000000000000
+      internalID: 3435261457702900668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_14"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d302350c29127270800000000000000
+      internalID: 8246681544525218774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeefe14e2963e7c0800000000000000
+      internalID: -4043272393052918100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_16"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d209cbf20827e0800000000000000
+      internalID: -1790177571447320344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_17"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc0c7db48f2effe0800000000000000
+      internalID: -1153432207399056129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_18"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44eaa9e132b52a00800000000000000
+      internalID: 731186441961006157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_19"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74252cc0e8e14d120800000000000000
+      internalID: 2437606893762531911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600c0520136142050800000000000000
+      internalID: 5774765021943873542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4c8ad996b10fdd0800000000000000
+      internalID: -2454431656486320939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_22"
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f23e9f9555eec0800000000000000
+      internalID: -3538327788187355698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668021a7a35c22b00800000000000000
+      internalID: 802420538572146790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "l\u1EE3n hai m\xE0u-idle_24"
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07327b0d238dd3890800000000000000
+      internalID: -7476582093603527824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3518f98c6ce106c48bdc4f94196d7e22
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "l\u1EE3n hai m\xE0u-idle_0": 8951340979803372749
+      "l\u1EE3n hai m\xE0u-idle_1": 4533677895110149091
+      "l\u1EE3n hai m\xE0u-idle_10": -6292952560484704560
+      "l\u1EE3n hai m\xE0u-idle_11": -3446632298735924199
+      "l\u1EE3n hai m\xE0u-idle_12": 6218108347532827974
+      "l\u1EE3n hai m\xE0u-idle_13": 3435261457702900668
+      "l\u1EE3n hai m\xE0u-idle_14": 8246681544525218774
+      "l\u1EE3n hai m\xE0u-idle_15": -4043272393052918100
+      "l\u1EE3n hai m\xE0u-idle_16": -1790177571447320344
+      "l\u1EE3n hai m\xE0u-idle_17": -1153432207399056129
+      "l\u1EE3n hai m\xE0u-idle_18": 731186441961006157
+      "l\u1EE3n hai m\xE0u-idle_19": 2437606893762531911
+      "l\u1EE3n hai m\xE0u-idle_2": -6648777777543504239
+      "l\u1EE3n hai m\xE0u-idle_20": 5774765021943873542
+      "l\u1EE3n hai m\xE0u-idle_21": -2454431656486320939
+      "l\u1EE3n hai m\xE0u-idle_22": -3538327788187355698
+      "l\u1EE3n hai m\xE0u-idle_23": 802420538572146790
+      "l\u1EE3n hai m\xE0u-idle_24": -7476582093603527824
+      "l\u1EE3n hai m\xE0u-idle_3": -3668981203464868325
+      "l\u1EE3n hai m\xE0u-idle_4": 7642614966521824137
+      "l\u1EE3n hai m\xE0u-idle_5": 8579697810966896929
+      "l\u1EE3n hai m\xE0u-idle_6": 8579463510245513420
+      "l\u1EE3n hai m\xE0u-idle_7": 6261656193768020346
+      "l\u1EE3n hai m\xE0u-idle_8": -114081835116946020
+      "l\u1EE3n hai m\xE0u-idle_9": 338372696589670772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

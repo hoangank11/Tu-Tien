@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: dbe822ec00a6090499ec079cd28cf96f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8495370817281570893
+    second: 72_rolled-scroll_verdant-forest_voyager_0
+  - first:
+      213: -7521681575767795330
+    second: 72_rolled-scroll_verdant-forest_voyager_1
+  - first:
+      213: 7849600733928848396
+    second: 72_rolled-scroll_verdant-forest_voyager_2
+  - first:
+      213: -2916706974656525145
+    second: 72_rolled-scroll_verdant-forest_voyager_3
+  - first:
+      213: -166567543829678703
+    second: 72_rolled-scroll_verdant-forest_voyager_4
+  - first:
+      213: 4856633494855640105
+    second: 72_rolled-scroll_verdant-forest_voyager_5
+  - first:
+      213: 7499407178194486984
+    second: 72_rolled-scroll_verdant-forest_voyager_6
+  - first:
+      213: 2750549199723912021
+    second: 72_rolled-scroll_verdant-forest_voyager_7
+  - first:
+      213: 2777779363240305274
+    second: 72_rolled-scroll_verdant-forest_voyager_8
+  - first:
+      213: -8848843074387402310
+    second: 72_rolled-scroll_verdant-forest_voyager_9
+  - first:
+      213: 8858119309806909926
+    second: 72_rolled-scroll_verdant-forest_voyager_10
+  - first:
+      213: -8808242566108588708
+    second: 72_rolled-scroll_verdant-forest_voyager_11
+  - first:
+      213: -4736851664980947325
+    second: 72_rolled-scroll_verdant-forest_voyager_12
+  - first:
+      213: 7219559757222699411
+    second: 72_rolled-scroll_verdant-forest_voyager_13
+  - first:
+      213: -5543510418986370073
+    second: 72_rolled-scroll_verdant-forest_voyager_14
+  - first:
+      213: -302239297222133239
+    second: 72_rolled-scroll_verdant-forest_voyager_15
+  - first:
+      213: -5136473736810728301
+    second: 72_rolled-scroll_verdant-forest_voyager_16
+  - first:
+      213: 1956898963172489930
+    second: 72_rolled-scroll_verdant-forest_voyager_17
+  - first:
+      213: -1615935815472447643
+    second: 72_rolled-scroll_verdant-forest_voyager_18
+  - first:
+      213: -4901745636033941146
+    second: 72_rolled-scroll_verdant-forest_voyager_19
+  - first:
+      213: 1250004579460938724
+    second: 72_rolled-scroll_verdant-forest_voyager_20
+  - first:
+      213: 4334958615521746646
+    second: 72_rolled-scroll_verdant-forest_voyager_21
+  - first:
+      213: 854637407356602613
+    second: 72_rolled-scroll_verdant-forest_voyager_22
+  - first:
+      213: -3717573418896152189
+    second: 72_rolled-scroll_verdant-forest_voyager_23
+  - first:
+      213: 6120519021007479912
+    second: 72_rolled-scroll_verdant-forest_voyager_24
+  - first:
+      213: 8293205319683202173
+    second: 72_rolled-scroll_verdant-forest_voyager_25
+  - first:
+      213: -3354184163720217499
+    second: 72_rolled-scroll_verdant-forest_voyager_26
+  - first:
+      213: 6359280765892717868
+    second: 72_rolled-scroll_verdant-forest_voyager_27
+  - first:
+      213: -3514052912597552217
+    second: 72_rolled-scroll_verdant-forest_voyager_28
+  - first:
+      213: -1194461964534489147
+    second: 72_rolled-scroll_verdant-forest_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b746b880416a1a80800000000000000
+      internalID: -8495370817281570893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7992ca557e9d9790800000000000000
+      internalID: -7521681575767795330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c797e47426fec60800000000000000
+      internalID: 7849600733928848396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac81bdb576c587d0800000000000000
+      internalID: -2916706974656525145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1953cee83bb30bdf0800000000000000
+      internalID: -166567543829678703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92462299e6a366340800000000000000
+      internalID: 4856633494855640105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c60c42581f331860800000000000000
+      internalID: 7499407178194486984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b57c29ce9eb2620800000000000000
+      internalID: 2750549199723912021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7269521d97ac8620800000000000000
+      internalID: 2777779363240305274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1a6f56b18923580800000000000000
+      internalID: -8848843074387402310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9b117749c5eea70800000000000000
+      internalID: 8858119309806909926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555f9fdd06d2c580800000000000000
+      internalID: -8808242566108588708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec713f182534eb0800000000000000
+      internalID: -4736851664980947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e6fb2957013460800000000000000
+      internalID: 7219559757222699411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebf3ab05ae7113b0800000000000000
+      internalID: -5543510418986370073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a39e3e5fa3ecbf0800000000000000
+      internalID: -302239297222133239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394f54fb95497b8b0800000000000000
+      internalID: -5136473736810728301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaf9392d3d482b10800000000000000
+      internalID: 1956898963172489930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffeeaffea0399e0800000000000000
+      internalID: -1615935815472447643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66130e8805089fbb0800000000000000
+      internalID: -4901745636033941146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb716eca88e85110800000000000000
+      internalID: 1250004579460938724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de513aa4edd82c30800000000000000
+      internalID: 4334958615521746646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f84045a1384cdb00800000000000000
+      internalID: 854637407356602613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a24c0ca6886cc0800000000000000
+      internalID: -3717573418896152189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642c282f9370f450800000000000000
+      internalID: 6120519021007479912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cd8198c42671370800000000000000
+      internalID: 8293205319683202173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c373a364b8371d0800000000000000
+      internalID: -3354184163720217499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d6206e924b04850800000000000000
+      internalID: 6359280765892717868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a332b68e739b3fc0800000000000000
+      internalID: -3514052912597552217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 72_rolled-scroll_verdant-forest_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfd43afb2b6c6fe0800000000000000
+      internalID: -1194461964534489147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a819a184211804449a030d145fc3d5de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      72_rolled-scroll_verdant-forest_voyager_0: -8495370817281570893
+      72_rolled-scroll_verdant-forest_voyager_1: -7521681575767795330
+      72_rolled-scroll_verdant-forest_voyager_10: 8858119309806909926
+      72_rolled-scroll_verdant-forest_voyager_11: -8808242566108588708
+      72_rolled-scroll_verdant-forest_voyager_12: -4736851664980947325
+      72_rolled-scroll_verdant-forest_voyager_13: 7219559757222699411
+      72_rolled-scroll_verdant-forest_voyager_14: -5543510418986370073
+      72_rolled-scroll_verdant-forest_voyager_15: -302239297222133239
+      72_rolled-scroll_verdant-forest_voyager_16: -5136473736810728301
+      72_rolled-scroll_verdant-forest_voyager_17: 1956898963172489930
+      72_rolled-scroll_verdant-forest_voyager_18: -1615935815472447643
+      72_rolled-scroll_verdant-forest_voyager_19: -4901745636033941146
+      72_rolled-scroll_verdant-forest_voyager_2: 7849600733928848396
+      72_rolled-scroll_verdant-forest_voyager_20: 1250004579460938724
+      72_rolled-scroll_verdant-forest_voyager_21: 4334958615521746646
+      72_rolled-scroll_verdant-forest_voyager_22: 854637407356602613
+      72_rolled-scroll_verdant-forest_voyager_23: -3717573418896152189
+      72_rolled-scroll_verdant-forest_voyager_24: 6120519021007479912
+      72_rolled-scroll_verdant-forest_voyager_25: 8293205319683202173
+      72_rolled-scroll_verdant-forest_voyager_26: -3354184163720217499
+      72_rolled-scroll_verdant-forest_voyager_27: 6359280765892717868
+      72_rolled-scroll_verdant-forest_voyager_28: -3514052912597552217
+      72_rolled-scroll_verdant-forest_voyager_29: -1194461964534489147
+      72_rolled-scroll_verdant-forest_voyager_3: -2916706974656525145
+      72_rolled-scroll_verdant-forest_voyager_4: -166567543829678703
+      72_rolled-scroll_verdant-forest_voyager_5: 4856633494855640105
+      72_rolled-scroll_verdant-forest_voyager_6: 7499407178194486984
+      72_rolled-scroll_verdant-forest_voyager_7: 2750549199723912021
+      72_rolled-scroll_verdant-forest_voyager_8: 2777779363240305274
+      72_rolled-scroll_verdant-forest_voyager_9: -8848843074387402310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

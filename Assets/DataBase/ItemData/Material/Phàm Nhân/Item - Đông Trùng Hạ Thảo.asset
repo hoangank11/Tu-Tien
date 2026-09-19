@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - \u0110\xF4ng Tr\xF9ng H\u1EA1 Th\u1EA3o"
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 102
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.15, y: 0.15, z: 1}
+  itemName: "\u0110\xF4ng Tr\xF9ng H\u1EA1 Th\u1EA3o"
+  itemIcon: {fileID: 21300000, guid: 81d27b08a58471f4bb6a0f81dda08a81, type: 3}
+  itemType: 0
+  description: " Th\xE2n gi\u1ED1ng m\u1ED9t con s\xE2u kh\xF4 m\xE0u n\xE2u, ph\xEDa
+    tr\xEAn m\u1ECDc nhi\u1EC1u nh\xE1nh n\u1EA5m m\u1EA3nh m\xE0u v\xE0ng cam."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

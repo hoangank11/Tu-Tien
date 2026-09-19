@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Ng\u1EF1 Ki\u1EBFm \xB7 Thi\xEAn Phong D\u1EABn"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 2
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 1
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Ng\u1EF1 Ki\u1EBFm \xB7 Thi\xEAn Phong D\u1EABn"
+  level: 3
+  skillPoint: 23
+  description: " (\u5FA1\u5251\xB7\u5929\u98CE\u5F15) Khi thi tri\u1EC3n v\u1EADn
+    chuy\u1EC3n linh l\u1EF1c trong \u0111an \u0111i\u1EC1n, ng\u01B0ng t\u1EE5 th\xE0nh
+    \u0111\u1EA1o kh\xED ki\u1EBFm l\u01A1 l\u1EEDng sau l\u01B0ng.\n Khi xu\u1EA5t
+    chi\xEAu, th\u1EE7 \u1EA5n bi\u1EBFn \u0111\u1ED5i, t\xE2m ni\u1EC7m kh\xF3a
+    ch\u1EB7t m\u1EE5c ti\xEAu.\n Kh\xED ki\u1EBFm l\u1EADp t\u1EE9c x\xE9 gi\xF3
+    m\xE0 \u0111i, nh\u01B0 sao b\u0103ng, \u0111\xE2m xuy\xEAn \u0111\u1ED1i th\u1EE7."
+  icon: {fileID: 21300000, guid: 639cf0809b1d15d4fa4b0399426402cd, type: 3}

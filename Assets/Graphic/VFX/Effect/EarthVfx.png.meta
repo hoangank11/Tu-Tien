@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: a92e54ae04a7c76439ecead502b38dc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5546395119886599364
+    second: EarthVfx_0
+  - first:
+      213: 6280223232124997189
+    second: EarthVfx_1
+  - first:
+      213: -9068943253344803464
+    second: EarthVfx_2
+  - first:
+      213: -7609456423642859483
+    second: EarthVfx_3
+  - first:
+      213: -71759454476333700
+    second: EarthVfx_4
+  - first:
+      213: 1036925690016941902
+    second: EarthVfx_5
+  - first:
+      213: 4945108195917400739
+    second: EarthVfx_6
+  - first:
+      213: -2086000142519940449
+    second: EarthVfx_7
+  - first:
+      213: -7549218628301259169
+    second: EarthVfx_8
+  - first:
+      213: -4782276722656320563
+    second: EarthVfx_9
+  - first:
+      213: 1006256035822338215
+    second: EarthVfx_10
+  - first:
+      213: -7950473685765164098
+    second: EarthVfx_11
+  - first:
+      213: 7393791556305134304
+    second: EarthVfx_12
+  - first:
+      213: -1566591530916798373
+    second: EarthVfx_13
+  - first:
+      213: -4925128934729235168
+    second: EarthVfx_14
+  - first:
+      213: -5674712332734428019
+    second: EarthVfx_15
+  - first:
+      213: -2641949455945448009
+    second: EarthVfx_16
+  - first:
+      213: -2270275715351565254
+    second: EarthVfx_17
+  - first:
+      213: -2408876567201768162
+    second: EarthVfx_18
+  - first:
+      213: 1985261954626974876
+    second: EarthVfx_19
+  - first:
+      213: -5404728399067808006
+    second: EarthVfx_20
+  - first:
+      213: -162463905506327394
+    second: EarthVfx_21
+  - first:
+      213: -7003330610307079199
+    second: EarthVfx_22
+  - first:
+      213: -2577457955101980189
+    second: EarthVfx_23
+  - first:
+      213: -8740764229855905024
+    second: EarthVfx_24
+  - first:
+      213: 3845126328571146640
+    second: EarthVfx_25
+  - first:
+      213: -5930037309919583517
+    second: EarthVfx_26
+  - first:
+      213: 673746095916525887
+    second: EarthVfx_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EarthVfx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c40dc8b9f0c8fc40800000000000000
+      internalID: 5546395119886599364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e47fc61c5d72750800000000000000
+      internalID: 6280223232124997189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87525301924a42280800000000000000
+      internalID: -9068943253344803464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528f3f603b7c56690800000000000000
+      internalID: -7609456423642859483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d89a6082f010ff0800000000000000
+      internalID: -71759454476333700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47cfe3db66e36e00800000000000000
+      internalID: 1036925690016941902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EarthVfx_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa878134bd80a440800000000000000
+      internalID: 4945108195917400739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 611838ab757a1ac49a49443cd2440723
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EarthVfx_0: 5546395119886599364
+      EarthVfx_1: 6280223232124997189
+      EarthVfx_2: -9068943253344803464
+      EarthVfx_3: -7609456423642859483
+      EarthVfx_4: -71759454476333700
+      EarthVfx_5: 1036925690016941902
+      EarthVfx_6: 4945108195917400739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

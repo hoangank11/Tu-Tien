@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - X\xEDch D\u01B0\u01A1ng Thi\xEAn Gi\u1EDBi"
+  m_EditorClassIdentifier: 
+  saveID: aca972a9844ea0b4d8d439a588164c9a
+  moneyType: 1
+  itemPrice: 280000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "X\xEDch D\u01B0\u01A1ng Thi\xEAn Gi\u1EDBi"
+  itemIcon: {fileID: 4545057619770777144, guid: 743eba332796d2641a3f719f415a1e1c, type: 3}
+  itemType: 3
+  description: " Th\u1EA7n gi\u1EDBi \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB x\xEDch
+    d\u01B0\u01A1ng th\u1EA7n tinh, mang kh\xED t\u1EE9c n\xF3ng b\u1ECFng v\xE0
+    m\u1EA1nh m\u1EBD."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 2
+    value: 600
+  - startType: 8
+    value: 15

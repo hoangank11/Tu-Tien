@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: c7f850619c957654db5cb3c4ce4ab2f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9097724174122368433
+    second: potion_18_paper_lantern_16-bit_dither_0
+  - first:
+      213: 1403261775705680256
+    second: potion_18_paper_lantern_16-bit_dither_1
+  - first:
+      213: 4968125526491319085
+    second: potion_18_paper_lantern_16-bit_dither_2
+  - first:
+      213: 6329301169470813863
+    second: potion_18_paper_lantern_16-bit_dither_3
+  - first:
+      213: 7471315356685252794
+    second: potion_18_paper_lantern_16-bit_dither_4
+  - first:
+      213: 5305001368422729148
+    second: potion_18_paper_lantern_16-bit_dither_5
+  - first:
+      213: -223390686150920124
+    second: potion_18_paper_lantern_16-bit_dither_6
+  - first:
+      213: -8138164790639961647
+    second: potion_18_paper_lantern_16-bit_dither_7
+  - first:
+      213: -8178395467133868386
+    second: potion_18_paper_lantern_16-bit_dither_8
+  - first:
+      213: -5307321478998047672
+    second: potion_18_paper_lantern_16-bit_dither_9
+  - first:
+      213: 6510908108334408058
+    second: potion_18_paper_lantern_16-bit_dither_10
+  - first:
+      213: 5703168122803905384
+    second: potion_18_paper_lantern_16-bit_dither_11
+  - first:
+      213: 8977747210696005976
+    second: potion_18_paper_lantern_16-bit_dither_12
+  - first:
+      213: 8502688648155703396
+    second: potion_18_paper_lantern_16-bit_dither_13
+  - first:
+      213: -3655653614277061565
+    second: potion_18_paper_lantern_16-bit_dither_14
+  - first:
+      213: -6574790763297005289
+    second: potion_18_paper_lantern_16-bit_dither_15
+  - first:
+      213: -4275624679796131224
+    second: potion_18_paper_lantern_16-bit_dither_16
+  - first:
+      213: 4910426657581993361
+    second: potion_18_paper_lantern_16-bit_dither_17
+  - first:
+      213: -2793226672473998824
+    second: potion_18_paper_lantern_16-bit_dither_18
+  - first:
+      213: 4415545056602728042
+    second: potion_18_paper_lantern_16-bit_dither_19
+  - first:
+      213: 7787358915974559041
+    second: potion_18_paper_lantern_16-bit_dither_20
+  - first:
+      213: 1932709097559107450
+    second: potion_18_paper_lantern_16-bit_dither_21
+  - first:
+      213: -3659220265730156288
+    second: potion_18_paper_lantern_16-bit_dither_22
+  - first:
+      213: -6112139375115943899
+    second: potion_18_paper_lantern_16-bit_dither_23
+  - first:
+      213: -2359314886490014327
+    second: potion_18_paper_lantern_16-bit_dither_24
+  - first:
+      213: 2733567187840900888
+    second: potion_18_paper_lantern_16-bit_dither_25
+  - first:
+      213: -5796001968158989289
+    second: potion_18_paper_lantern_16-bit_dither_26
+  - first:
+      213: -3797549124499516722
+    second: potion_18_paper_lantern_16-bit_dither_27
+  - first:
+      213: -3705040680075793422
+    second: potion_18_paper_lantern_16-bit_dither_28
+  - first:
+      213: -5431526690778968837
+    second: potion_18_paper_lantern_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42c3f0c0146eb180800000000000000
+      internalID: -9097724174122368433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08922d37623697310800000000000000
+      internalID: 1403261775705680256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bc01618d352f440800000000000000
+      internalID: 4968125526491319085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6b5ca21e136d750800000000000000
+      internalID: 6329301169470813863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab835207bb17fa760800000000000000
+      internalID: 7471315356685252794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54cc133a62f9940800000000000000
+      internalID: 5305001368422729148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448f7d1ca5b56ecf0800000000000000
+      internalID: -223390686150920124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d95052ad3e6f0f80800000000000000
+      internalID: -8138164790639961647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9622d457a0808e80800000000000000
+      internalID: -8178395467133868386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444587fb3b9856b0800000000000000
+      internalID: -5307321478998047672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71ab72ad646b5a50800000000000000
+      internalID: 6510908108334408058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863ee06e039b52f40800000000000000
+      internalID: 5703168122803905384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591ac0a58d579c70800000000000000
+      internalID: 8977747210696005976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468211db64e9ff570800000000000000
+      internalID: 8502688648155703396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34494230862844dc0800000000000000
+      internalID: -3655653614277061565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a921b2a6a1c4a0800000000000000
+      internalID: -6574790763297005289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86abbd7c10ee9a4c0800000000000000
+      internalID: -4275624679796131224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d88cc4707552440800000000000000
+      internalID: 4910426657581993361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a7a0af3277c39d0800000000000000
+      internalID: -2793226672473998824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66a98c95da274d30800000000000000
+      internalID: 4415545056602728042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1457225cca1421c60800000000000000
+      internalID: 7787358915974559041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a772d2e2fac52da10800000000000000
+      internalID: 1932709097559107450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0095e324e86d73dc0800000000000000
+      internalID: -3659220265730156288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52049803f915d2ba0800000000000000
+      internalID: -6112139375115943899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98db8756c97024fd0800000000000000
+      internalID: -2359314886490014327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9be0dfd49fe520800000000000000
+      internalID: 2733567187840900888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7142b622be6709fa0800000000000000
+      internalID: -5796001968158989289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec25c1901356c4bc0800000000000000
+      internalID: -3797549124499516722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbe5b1b12d059cc0800000000000000
+      internalID: -3705040680075793422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_18_paper_lantern_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc011090475f94b0800000000000000
+      internalID: -5431526690778968837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e1da52cd09ab21d4d937564d0b072eb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_18_paper_lantern_16-bit_dither_0: -9097724174122368433
+      potion_18_paper_lantern_16-bit_dither_1: 1403261775705680256
+      potion_18_paper_lantern_16-bit_dither_10: 6510908108334408058
+      potion_18_paper_lantern_16-bit_dither_11: 5703168122803905384
+      potion_18_paper_lantern_16-bit_dither_12: 8977747210696005976
+      potion_18_paper_lantern_16-bit_dither_13: 8502688648155703396
+      potion_18_paper_lantern_16-bit_dither_14: -3655653614277061565
+      potion_18_paper_lantern_16-bit_dither_15: -6574790763297005289
+      potion_18_paper_lantern_16-bit_dither_16: -4275624679796131224
+      potion_18_paper_lantern_16-bit_dither_17: 4910426657581993361
+      potion_18_paper_lantern_16-bit_dither_18: -2793226672473998824
+      potion_18_paper_lantern_16-bit_dither_19: 4415545056602728042
+      potion_18_paper_lantern_16-bit_dither_2: 4968125526491319085
+      potion_18_paper_lantern_16-bit_dither_20: 7787358915974559041
+      potion_18_paper_lantern_16-bit_dither_21: 1932709097559107450
+      potion_18_paper_lantern_16-bit_dither_22: -3659220265730156288
+      potion_18_paper_lantern_16-bit_dither_23: -6112139375115943899
+      potion_18_paper_lantern_16-bit_dither_24: -2359314886490014327
+      potion_18_paper_lantern_16-bit_dither_25: 2733567187840900888
+      potion_18_paper_lantern_16-bit_dither_26: -5796001968158989289
+      potion_18_paper_lantern_16-bit_dither_27: -3797549124499516722
+      potion_18_paper_lantern_16-bit_dither_28: -3705040680075793422
+      potion_18_paper_lantern_16-bit_dither_29: -5431526690778968837
+      potion_18_paper_lantern_16-bit_dither_3: 6329301169470813863
+      potion_18_paper_lantern_16-bit_dither_4: 7471315356685252794
+      potion_18_paper_lantern_16-bit_dither_5: 5305001368422729148
+      potion_18_paper_lantern_16-bit_dither_6: -223390686150920124
+      potion_18_paper_lantern_16-bit_dither_7: -8138164790639961647
+      potion_18_paper_lantern_16-bit_dither_8: -8178395467133868386
+      potion_18_paper_lantern_16-bit_dither_9: -5307321478998047672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

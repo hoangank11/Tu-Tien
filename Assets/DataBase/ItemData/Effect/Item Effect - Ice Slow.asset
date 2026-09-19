@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4150adcacee8ea94596fe3292a33ff5b, type: 3}
+  m_Name: Item Effect - Ice Slow
+  m_EditorClassIdentifier: 
+  effectDes: " - Hi\u1EC7u \u1EE9ng: M\u1ED7i \u0111\xF2n t\u1EA5n c\xF4ng c\xF3
+    8% t\u1EC9 l\u1EC7 l\xE0m ch\u1EADm 30% h\xE0nh \u0111\u1ED9ng c\u1EE7a k\u1EBB
+    \u0111\u1ECBch trong 1 gi\xE2y"
+  slowChance: 8
+  hitVFX: {fileID: 631688155203089692, guid: 7e6a3279bdce81f4a9558aea21d9d346, type: 3}
+  effectData:
+    toxicDuration: 0
+    toxicDmg: 0
+    toxicSlowAnimation: 0
+    iceDuration: 1
+    iceSlowAnimation: 0.3
+    fireDuration: 0
+    fireDmg: 0
+    electricDuration: 0
+    electricDmg: 0
+    electricCharge: 0

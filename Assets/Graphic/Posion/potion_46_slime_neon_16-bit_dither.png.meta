@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 43a43efb58330ba419d6ca53b17393b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1069922667216705530
+    second: potion_46_slime_neon_16-bit_dither_0
+  - first:
+      213: 7473938646032774810
+    second: potion_46_slime_neon_16-bit_dither_1
+  - first:
+      213: 2065444400861086025
+    second: potion_46_slime_neon_16-bit_dither_2
+  - first:
+      213: 4383917681647296104
+    second: potion_46_slime_neon_16-bit_dither_3
+  - first:
+      213: -8908749772866946841
+    second: potion_46_slime_neon_16-bit_dither_4
+  - first:
+      213: -6877251338351291625
+    second: potion_46_slime_neon_16-bit_dither_5
+  - first:
+      213: 247467376088880857
+    second: potion_46_slime_neon_16-bit_dither_6
+  - first:
+      213: 763075104395198610
+    second: potion_46_slime_neon_16-bit_dither_7
+  - first:
+      213: -2910268272277294756
+    second: potion_46_slime_neon_16-bit_dither_8
+  - first:
+      213: 8891748646698614342
+    second: potion_46_slime_neon_16-bit_dither_9
+  - first:
+      213: -6813716076822775267
+    second: potion_46_slime_neon_16-bit_dither_10
+  - first:
+      213: 7688711313969648746
+    second: potion_46_slime_neon_16-bit_dither_11
+  - first:
+      213: 1021066255267391030
+    second: potion_46_slime_neon_16-bit_dither_12
+  - first:
+      213: 1602361160106099612
+    second: potion_46_slime_neon_16-bit_dither_13
+  - first:
+      213: 8892348253554601832
+    second: potion_46_slime_neon_16-bit_dither_14
+  - first:
+      213: 5653710149615552910
+    second: potion_46_slime_neon_16-bit_dither_15
+  - first:
+      213: -2246643394276380451
+    second: potion_46_slime_neon_16-bit_dither_16
+  - first:
+      213: -7256001941637527676
+    second: potion_46_slime_neon_16-bit_dither_17
+  - first:
+      213: -408993846793764785
+    second: potion_46_slime_neon_16-bit_dither_18
+  - first:
+      213: 4668670253119475238
+    second: potion_46_slime_neon_16-bit_dither_19
+  - first:
+      213: -1601635987455567636
+    second: potion_46_slime_neon_16-bit_dither_20
+  - first:
+      213: 2574342747544260454
+    second: potion_46_slime_neon_16-bit_dither_21
+  - first:
+      213: 4668037897406328017
+    second: potion_46_slime_neon_16-bit_dither_22
+  - first:
+      213: -4289404553887922750
+    second: potion_46_slime_neon_16-bit_dither_23
+  - first:
+      213: 321773478808595500
+    second: potion_46_slime_neon_16-bit_dither_24
+  - first:
+      213: -7952110761069245220
+    second: potion_46_slime_neon_16-bit_dither_25
+  - first:
+      213: 1110089655128390048
+    second: potion_46_slime_neon_16-bit_dither_26
+  - first:
+      213: -4601023230833550829
+    second: potion_46_slime_neon_16-bit_dither_27
+  - first:
+      213: 8263221518492208469
+    second: potion_46_slime_neon_16-bit_dither_28
+  - first:
+      213: 8778548394838902140
+    second: potion_46_slime_neon_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e86bb00fd621f0800000000000000
+      internalID: -1069922667216705530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96f8d59993c8b760800000000000000
+      internalID: 7473938646032774810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94105a84dbee9ac10800000000000000
+      internalID: 2065444400861086025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e142b87edc6dc30800000000000000
+      internalID: 4383917681647296104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e87c6b3843cd5480800000000000000
+      internalID: -8908749772866946841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713dd7258581f80a0800000000000000
+      internalID: -6877251338351291625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69645744e2f6300800000000000000
+      internalID: 247467376088880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2908b66b3ccf69a00800000000000000
+      internalID: 763075104395198610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5172d5fc66ac97d0800000000000000
+      internalID: -2910268272277294756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ef78e9846d56b70800000000000000
+      internalID: 8891748646698614342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a3c982451d071a0800000000000000
+      internalID: -6813716076822775267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6410b9143ac3ba60800000000000000
+      internalID: 7688711313969648746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636e95d695e8b2e00800000000000000
+      internalID: 1021066255267391030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c1064cfabc3610800000000000000
+      internalID: 1602361160106099612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fef287f97f76b70800000000000000
+      internalID: 8892348253554601832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e890bda2d63067e40800000000000000
+      internalID: 5653710149615552910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bd237cb152d0e0800000000000000
+      internalID: -2246643394276380451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48786239da08d4b90800000000000000
+      internalID: -7256001941637527676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4089866346f25af0800000000000000
+      internalID: -408993846793764785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e8e9a0cd27ac040800000000000000
+      internalID: 4668670253119475238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce89a342e88d5c9e0800000000000000
+      internalID: -1601635987455567636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f8a75e617e9b320800000000000000
+      internalID: 2574342747544260454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc27f04cb338c040800000000000000
+      internalID: 4668037897406328017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54193d849f874c0800000000000000
+      internalID: -4289404553887922750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c278e264b277400800000000000000
+      internalID: 321773478808595500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc08e7156d64a190800000000000000
+      internalID: -7952110761069245220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a973cae8a4d76f00800000000000000
+      internalID: 1110089655128390048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a98d2bfb1e520c0800000000000000
+      internalID: -4601023230833550829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d871ec03cdca270800000000000000
+      internalID: 8263221518492208469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_46_slime_neon_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75c2fd114ba3d970800000000000000
+      internalID: 8778548394838902140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 074ca819664479547b70405803b56e27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_46_slime_neon_16-bit_dither_0: -1069922667216705530
+      potion_46_slime_neon_16-bit_dither_1: 7473938646032774810
+      potion_46_slime_neon_16-bit_dither_10: -6813716076822775267
+      potion_46_slime_neon_16-bit_dither_11: 7688711313969648746
+      potion_46_slime_neon_16-bit_dither_12: 1021066255267391030
+      potion_46_slime_neon_16-bit_dither_13: 1602361160106099612
+      potion_46_slime_neon_16-bit_dither_14: 8892348253554601832
+      potion_46_slime_neon_16-bit_dither_15: 5653710149615552910
+      potion_46_slime_neon_16-bit_dither_16: -2246643394276380451
+      potion_46_slime_neon_16-bit_dither_17: -7256001941637527676
+      potion_46_slime_neon_16-bit_dither_18: -408993846793764785
+      potion_46_slime_neon_16-bit_dither_19: 4668670253119475238
+      potion_46_slime_neon_16-bit_dither_2: 2065444400861086025
+      potion_46_slime_neon_16-bit_dither_20: -1601635987455567636
+      potion_46_slime_neon_16-bit_dither_21: 2574342747544260454
+      potion_46_slime_neon_16-bit_dither_22: 4668037897406328017
+      potion_46_slime_neon_16-bit_dither_23: -4289404553887922750
+      potion_46_slime_neon_16-bit_dither_24: 321773478808595500
+      potion_46_slime_neon_16-bit_dither_25: -7952110761069245220
+      potion_46_slime_neon_16-bit_dither_26: 1110089655128390048
+      potion_46_slime_neon_16-bit_dither_27: -4601023230833550829
+      potion_46_slime_neon_16-bit_dither_28: 8263221518492208469
+      potion_46_slime_neon_16-bit_dither_29: 8778548394838902140
+      potion_46_slime_neon_16-bit_dither_3: 4383917681647296104
+      potion_46_slime_neon_16-bit_dither_4: -8908749772866946841
+      potion_46_slime_neon_16-bit_dither_5: -6877251338351291625
+      potion_46_slime_neon_16-bit_dither_6: 247467376088880857
+      potion_46_slime_neon_16-bit_dither_7: 763075104395198610
+      potion_46_slime_neon_16-bit_dither_8: -2910268272277294756
+      potion_46_slime_neon_16-bit_dither_9: 8891748646698614342
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

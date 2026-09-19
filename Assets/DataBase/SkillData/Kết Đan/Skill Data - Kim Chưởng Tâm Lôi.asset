@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Kim Ch\u01B0\u1EDFng T\xE2m L\xF4i"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 11
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Kim Ch\u01B0\u1EDFng T\xE2m L\xF4i"
+  level: 20
+  skillPoint: 3333
+  description: " (\u91D1\u638C\u5FC3\u96F7) Ng\u01B0ng t\u1EE5 linh l\u1EF1c h\xF3a
+    th\xE0nh l\xF4i \u0111i\u1EC7n n\u01A1i l\xF2ng b\xE0n tay, trong ch\u1EDBp m\u1EAFt
+    ph\xF3ng ra tia l\xF4i \u0111\xE1nh th\u1EB3ng v\xE0o m\u1EE5c ti\xEAu. L\xF4i
+    quang mang uy l\u1EF1c xuy\xEAn ph\xE1, g\xE2y t\xEA li\u1EC7t ng\u1EAFn v\xE0
+    l\xE0m r\u1ED1i lo\u1EA1n linh kh\xED c\u1EE7a k\u1EBB \u0111\u1ECBch."
+  icon: {fileID: 21300000, guid: 98934326e3d73aa438f116341cb12b43, type: 3}

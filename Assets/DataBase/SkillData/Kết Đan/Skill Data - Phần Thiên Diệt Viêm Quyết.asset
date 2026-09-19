@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Ph\u1EA7n Thi\xEAn Di\u1EC7t Vi\xEAm Quy\u1EBFt"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 10
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 1
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Ph\u1EA7n Thi\xEAn Di\u1EC7t Vi\xEAm Quy\u1EBFt"
+  level: 19
+  skillPoint: 2712
+  description: " (\u711A\u5929\u706D\u708E\u8BC0) Khi thi tri\u1EC3n, h\u1ECFa c\u1EA7u
+    kh\xF4ng ch\u1EC9 \u0111\u01A1n thu\u1EA7n l\xE0 l\u1EEDa th\u01B0\u1EDDng m\xE0
+    l\xE0 \u0111an vi\xEAm \u0111\xE3 \u0111\u01B0\u1EE3c luy\u1EC7n h\xF3a, mang
+    theo uy n\u0103ng thi\xEAu \u0111\u1ED1t linh h\u1ED3n. Ch\u1EC9 trong kho\u1EA3nh
+    kh\u1EAFc, ng\u01B0\u1EDDi thi tri\u1EC3n vung tay ph\xF3ng xu\u1EA5t h\u1ECFa
+    c\u1EA7u, bi\u1EBFn th\xE0nh h\u1ECFa tr\u1EE5 ho\u1EB7c h\u1ECFa l\u01B0u tinh
+    nghi\u1EC1n n\xE1t m\u1EE5c ti\xEAu ph\xEDa tr\u01B0\u1EDBc."
+  icon: {fileID: 21300000, guid: e30e9fcdc7073bf40bfc450f3fa1f7a3, type: 3}

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - Linh C\u0103n Ng\u1ECDc"
+  m_EditorClassIdentifier: 
+  saveID: 8513e3face3ff764d9654fd424c35cc5
+  moneyType: 1
+  itemPrice: 2500
+  minStackSizeAtShop: 10
+  maxStackSizeAtShop: 20
+  itemRarity: 595
+  dropChance: 20
+  maxDropChance: 20
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Linh C\u0103n Ng\u1ECDc"
+  itemIcon: {fileID: 21300000, guid: 92884bd3786abd3498214967259d11bd, type: 3}
+  itemType: 0
+  description: " Ng\u1ECDc th\u1EA1ch ch\u1EE9a linh l\u1EF1c tinh khi\u1EBFt, c\xF3
+    kh\u1EA3 n\u0103ng th\u1EA9m th\u1EA5u v\xE0o c\u0103n c\u01A1 v\xE0 kinh m\u1EA1ch.
+    L\xE0 v\u1EADt li\u1EC7u quan tr\u1ECDng \u0111\u1EC3 c\u1EE7ng c\u1ED1 n\u1EC1n
+    t\u1EA3ng th\xE2n th\u1EC3."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

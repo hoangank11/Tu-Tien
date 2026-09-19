@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - L\u01B0u \u1EA2nh B\u1ED9"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 1
+  mpCost: 1
+  cooldown: 4
+  scaleFactor:
+    xPhysicalDamageMulti: 0
+    xElementalDamageMulti: 0
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "L\u01B0u \u1EA2nh B\u1ED9"
+  level: 2
+  skillPoint: 10
+  description: " (\u6D41\u5F71\u6B65) Khi s\u1EED d\u1EE5ng v\u1EADn chuy\u1EC3n
+    linh kh\xED v\xE0o \u0111\xF4i ch\xE2n, th\xE2n h\xECnh h\xF3a th\xE0nh t\xE0n
+    \u1EA3nh m\u1EDD \u1EA3o, l\u01B0\u1EDBt nhanh m\u1ED9t \u0111o\u1EA1n ng\u1EAFn
+    v\u1EC1 ph\xEDa tr\u01B0\u1EDBc. "
+  icon: {fileID: 21300000, guid: 4ead365ea44553d44ac7105550803e0c, type: 3}

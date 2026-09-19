@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e633a33c9394418e61be669f8e35f, type: 3}
+  m_Name: Consumable Item - HP
+  m_EditorClassIdentifier: 
+  moneyType: 1
+  itemPrice: 33
+  minStackSizeAtShop: 5
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.1, y: 0.1, z: 1}
+  itemName: "D\u01B0\u1EE1ng Huy\u1EBFt D\u1ECBch"
+  itemIcon: {fileID: -386551891121935788, guid: 26ca6cbf132c8a848894eabc244a0817, type: 3}
+  itemType: 5
+  description: " M\u1ED9t b\xECnh linh d\u1ECBch ch\u1EE9a tinh hoa c\u1EE7a c\u1ECF
+    c\xE2y linh m\u1ED9c. C\xF3 th\u1EC3 h\u1ED3i ph\u1EE5c kh\xED huy\u1EBFt."
+  maxStackSize: 99
+  itemEffect: {fileID: 11400000, guid: 73fa8d370c079f545a3b803dab11588c, type: 2}
+  craftRecipe: []

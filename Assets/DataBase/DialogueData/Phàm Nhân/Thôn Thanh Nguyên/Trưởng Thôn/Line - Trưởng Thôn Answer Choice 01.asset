@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73cfb1908ff52cd4e9153bbbf8c068d5, type: 3}
+  m_Name: "Line - Tr\u01B0\u1EDFng Th\xF4n Answer Choice 01"
+  m_EditorClassIdentifier: 
+  dialogueGroupName: "L\xFD Tr\u01B0\u1EDFng Th\xF4n"
+  speaker: {fileID: 11400000, guid: 106131b2328ad7249a9e8418863540c6, type: 2}
+  textLine:
+  - " C\xF3 g\xEC con s\u1EBD gh\xE9 qua g\u1EB7p gi\xE0 sau."
+  actionLine: " \u1EEAm \u0111i \u0111\u1EE9ng th\u1EADn tr\u1ECDng."
+  actionType: 6
+  choiceLine: []

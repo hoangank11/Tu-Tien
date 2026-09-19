@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e633a33c9394418e61be669f8e35f, type: 3}
+  m_Name: Consumable Item - Portal Scroll
+  m_EditorClassIdentifier: 
+  moneyType: 1
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Truy\u1EC1n T\u1ED1ng Ph\xF9"
+  itemIcon: {fileID: -1255368249857400975, guid: 1876704761715604f9995a8c5308ffbc, type: 3}
+  itemType: 5
+  description: 
+  maxStackSize: 99
+  itemEffect: {fileID: 11400000, guid: 2a3dd8b6c89fe0249a72ad74b645ab89, type: 2}
+  craftRecipe: []

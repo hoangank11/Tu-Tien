@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ced9733b73fb59641ab9f8f389cbff34, type: 3}
+  m_Name: "List Skill - K\u1EBFt \u0110an K\u1EF3"
+  m_EditorClassIdentifier: 
+  skillList:
+  - {fileID: 11400000, guid: fd7474b9ee904bc4b89127c3fb252a6a, type: 2}
+  - {fileID: 11400000, guid: c61a20e08fae8a04c9149e3685c37c76, type: 2}
+  - {fileID: 11400000, guid: 45ea6a5e620ab9e438bbe774e56434a6, type: 2}
+  - {fileID: 11400000, guid: 2f4d86b67c2d44d4284040c62ada60ad, type: 2}

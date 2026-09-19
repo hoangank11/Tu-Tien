@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: d5958002198a4994b93bfe4c7713a134
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2880658082165862950
+    second: potion_41_bubble_sleep_nopalette_0
+  - first:
+      213: 5686306269994678466
+    second: potion_41_bubble_sleep_nopalette_1
+  - first:
+      213: 4643729628594770090
+    second: potion_41_bubble_sleep_nopalette_2
+  - first:
+      213: 6242276124661997670
+    second: potion_41_bubble_sleep_nopalette_3
+  - first:
+      213: 1614483835895029905
+    second: potion_41_bubble_sleep_nopalette_4
+  - first:
+      213: 8237281713478029852
+    second: potion_41_bubble_sleep_nopalette_5
+  - first:
+      213: 7275786548281577377
+    second: potion_41_bubble_sleep_nopalette_6
+  - first:
+      213: -5576329755359955143
+    second: potion_41_bubble_sleep_nopalette_7
+  - first:
+      213: 8322490297467832133
+    second: potion_41_bubble_sleep_nopalette_8
+  - first:
+      213: 46005629295613951
+    second: potion_41_bubble_sleep_nopalette_9
+  - first:
+      213: 5051161794467419505
+    second: potion_41_bubble_sleep_nopalette_10
+  - first:
+      213: -2692911762007684823
+    second: potion_41_bubble_sleep_nopalette_11
+  - first:
+      213: 7690825971684545624
+    second: potion_41_bubble_sleep_nopalette_12
+  - first:
+      213: -2553084295498392776
+    second: potion_41_bubble_sleep_nopalette_13
+  - first:
+      213: 8252467541174649394
+    second: potion_41_bubble_sleep_nopalette_14
+  - first:
+      213: 4300983862311439601
+    second: potion_41_bubble_sleep_nopalette_15
+  - first:
+      213: -4484979070891513010
+    second: potion_41_bubble_sleep_nopalette_16
+  - first:
+      213: 9080039149657614027
+    second: potion_41_bubble_sleep_nopalette_17
+  - first:
+      213: 14740126489732873
+    second: potion_41_bubble_sleep_nopalette_18
+  - first:
+      213: -4802383972528962568
+    second: potion_41_bubble_sleep_nopalette_19
+  - first:
+      213: 7958638469927242985
+    second: potion_41_bubble_sleep_nopalette_20
+  - first:
+      213: 5109468970078269848
+    second: potion_41_bubble_sleep_nopalette_21
+  - first:
+      213: 6913408316222987939
+    second: potion_41_bubble_sleep_nopalette_22
+  - first:
+      213: -4828403845068015204
+    second: potion_41_bubble_sleep_nopalette_23
+  - first:
+      213: -3268552646127944110
+    second: potion_41_bubble_sleep_nopalette_24
+  - first:
+      213: 1962809099379883357
+    second: potion_41_bubble_sleep_nopalette_25
+  - first:
+      213: 5489004851518528276
+    second: potion_41_bubble_sleep_nopalette_26
+  - first:
+      213: -3182675335529024178
+    second: potion_41_bubble_sleep_nopalette_27
+  - first:
+      213: -1004601528595017588
+    second: potion_41_bubble_sleep_nopalette_28
+  - first:
+      213: -2179834300156510762
+    second: potion_41_bubble_sleep_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622bada63472af720800000000000000
+      internalID: 2880658082165862950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8fb1bdc61d9ee40800000000000000
+      internalID: 5686306269994678466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa019516e77d17040800000000000000
+      internalID: 4643729628594770090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606168ff0501a650800000000000000
+      internalID: 6242276124661997670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190222eae7cc76610800000000000000
+      internalID: 1614483835895029905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ddae4314b05270800000000000000
+      internalID: 8237281713478029852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af83ef1159c8f460800000000000000
+      internalID: 7275786548281577377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9373455d1a5ec92b0800000000000000
+      internalID: -5576329755359955143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5478433c4dc6f7370800000000000000
+      internalID: 8322490297467832133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff755d740e173a000800000000000000
+      internalID: 46005629295613951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175514ec3e4591640800000000000000
+      internalID: 5051161794467419505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9298f06250bd0aad0800000000000000
+      internalID: -2692911762007684823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8541b97397d4bba60800000000000000
+      internalID: 7690825971684545624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b903d2c5f919cd0800000000000000
+      internalID: -2553084295498392776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23208285187a68270800000000000000
+      internalID: 8252467541174649394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcc2c1090a20bb30800000000000000
+      internalID: 4300983862311439601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b23762c4722c1c0800000000000000
+      internalID: -4484979070891513010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc66bfd9f77c20e70800000000000000
+      internalID: 9080039149657614027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9076d53211e543000800000000000000
+      internalID: 14740126489732873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c16a98318a5db0800000000000000
+      internalID: -4802383972528962568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec85cf8583c27e60800000000000000
+      internalID: 7958638469927242985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891756805fa78e640800000000000000
+      internalID: 5109468970078269848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed3bb1c3c51ff50800000000000000
+      internalID: 6913408316222987939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99379ee8401efcb0800000000000000
+      internalID: -4828403845068015204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e71e59fa4c3a2d0800000000000000
+      internalID: -3268552646127944110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d317af97c4d3b10800000000000000
+      internalID: 1962809099379883357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b582994dcdc2c40800000000000000
+      internalID: 5489004851518528276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45356615add4d3d0800000000000000
+      internalID: -3182675335529024178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80974b7b30fe02f0800000000000000
+      internalID: -1004601528595017588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: potion_41_bubble_sleep_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd75f5d04cafb1e0800000000000000
+      internalID: -2179834300156510762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cca84e627956184d8dbef91b09e32fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      potion_41_bubble_sleep_nopalette_0: 2880658082165862950
+      potion_41_bubble_sleep_nopalette_1: 5686306269994678466
+      potion_41_bubble_sleep_nopalette_10: 5051161794467419505
+      potion_41_bubble_sleep_nopalette_11: -2692911762007684823
+      potion_41_bubble_sleep_nopalette_12: 7690825971684545624
+      potion_41_bubble_sleep_nopalette_13: -2553084295498392776
+      potion_41_bubble_sleep_nopalette_14: 8252467541174649394
+      potion_41_bubble_sleep_nopalette_15: 4300983862311439601
+      potion_41_bubble_sleep_nopalette_16: -4484979070891513010
+      potion_41_bubble_sleep_nopalette_17: 9080039149657614027
+      potion_41_bubble_sleep_nopalette_18: 14740126489732873
+      potion_41_bubble_sleep_nopalette_19: -4802383972528962568
+      potion_41_bubble_sleep_nopalette_2: 4643729628594770090
+      potion_41_bubble_sleep_nopalette_20: 7958638469927242985
+      potion_41_bubble_sleep_nopalette_21: 5109468970078269848
+      potion_41_bubble_sleep_nopalette_22: 6913408316222987939
+      potion_41_bubble_sleep_nopalette_23: -4828403845068015204
+      potion_41_bubble_sleep_nopalette_24: -3268552646127944110
+      potion_41_bubble_sleep_nopalette_25: 1962809099379883357
+      potion_41_bubble_sleep_nopalette_26: 5489004851518528276
+      potion_41_bubble_sleep_nopalette_27: -3182675335529024178
+      potion_41_bubble_sleep_nopalette_28: -1004601528595017588
+      potion_41_bubble_sleep_nopalette_29: -2179834300156510762
+      potion_41_bubble_sleep_nopalette_3: 6242276124661997670
+      potion_41_bubble_sleep_nopalette_4: 1614483835895029905
+      potion_41_bubble_sleep_nopalette_5: 8237281713478029852
+      potion_41_bubble_sleep_nopalette_6: 7275786548281577377
+      potion_41_bubble_sleep_nopalette_7: -5576329755359955143
+      potion_41_bubble_sleep_nopalette_8: 8322490297467832133
+      potion_41_bubble_sleep_nopalette_9: 46005629295613951
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

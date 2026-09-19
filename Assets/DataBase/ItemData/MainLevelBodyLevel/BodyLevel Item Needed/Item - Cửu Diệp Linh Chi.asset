@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item - C\u1EEDu Di\u1EC7p Linh Chi"
+  m_EditorClassIdentifier: 
+  saveID: 815060fd327a4af44a2debf8b73fc23d
+  moneyType: 1
+  itemPrice: 25000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 1
+  itemRarity: 926
+  dropChance: 7.4
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "C\u1EEDu Di\u1EC7p Linh Chi"
+  itemIcon: {fileID: 21300000, guid: ccbf73415e8cc514dbf95920c09fe89f, type: 3}
+  itemType: 0
+  description: " Linh d\u01B0\u1EE3c c\u1EF1c k\u1EF3 qu\xFD hi\u1EBFm \u0111\xE3
+    sinh tr\u01B0\u1EDFng qua nhi\u1EC1u n\u0103m th\xE1ng. Ch\xEDn t\u1EA7ng linh
+    di\u1EC7p c\xF3 kh\u1EA3 n\u0103ng d\u1EABn d\u1EAFt v\xE0 dung h\u1EE3p n\u0103ng
+    l\u01B0\u1EE3ng kh\u1ED5ng l\u1ED3, th\xEDch h\u1EE3p l\xE0m v\u1EADt d\u1EABn
+    cho Huy\u1EBFt Th\u1EC3 \u0110an B\u1EADc 5."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

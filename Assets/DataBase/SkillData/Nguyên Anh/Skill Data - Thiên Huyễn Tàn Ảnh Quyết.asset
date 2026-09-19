@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Thi\xEAn Huy\u1EC5n T\xE0n \u1EA2nh Quy\u1EBFt"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 14
+  mpCost: 0
+  cooldown: 0
+  scaleFactor:
+    xPhysicalDamageMulti: 1
+    xElementalDamageMulti: 0
+    effectToxicDuration: 6
+    toxicScaleDmgDoT: 0.25
+    toxicSlowAnimation: 0.15
+    effectIceDuration: 3
+    iceSlowAnimation: 0.3
+    effectFireDuration: 6
+    fireScaleDmgDoT: 0.25
+    effectElectricDuration: 4
+    electricScaleDmg: 1
+    electricChargePerHit: 1
+    airBorne: 2.5
+    stunTimeWindElemental: 1.5
+    stunChange: 0.25
+    reduceMaxArmor: 0.15
+    earthReduceDuration: 4
+    woodRootDuration: 4
+    waterDuration: 4
+    waterTrueDamageChance: 0.25
+    waterHealPercent: 0.25
+  skillName: "Thi\xEAn Huy\u1EC5n T\xE0n \u1EA2nh Quy\u1EBFt"
+  level: 24
+  skillPoint: 8434
+  description: " (\u5929\u5E7B\u6B8B\u5F71\u8BC0) T\u1EEBng \u0111\u1EA1o t\xE0n
+    \u1EA3nh mang theo linh \xE1p m\u1EDD \u1EA3o, khi h\u01B0 khi th\u1EF1c, khi
+    g\u1EA7n khi xa, khi\u1EBFn \u0111\u1ED1i th\u1EE7 kh\xF4ng th\u1EC3 n\u1EAFm
+    b\u1EAFt tung t\xEDch ch\xE2n th\xE2n.\n \u0110\u1EBFn l\xFAc s\xE1t c\u01A1
+    h\u1ED9i t\u1EE5, b\u1EA3n th\u1EC3 \u1EA9n gi\u1EEFa mu\xF4n \u1EA3nh, m\u1ED9t
+    ki\u1EBFm xu\u1EA5t ra, t\u1EF1a nh\u01B0 tr\u0103m ng\u01B0\u1EDDi c\xF9ng ch\xE9m,
+    phong b\u1EBF m\u1ECDi \u0111\u01B0\u1EDDng s\u1ED1ng."
+  icon: {fileID: 21300000, guid: 393c3940052b5d741aa5ef185b874893, type: 3}

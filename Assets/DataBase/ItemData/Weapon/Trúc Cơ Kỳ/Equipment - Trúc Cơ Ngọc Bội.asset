@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Tr\xFAc C\u01A1 Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: 30c0c8a0c636e574e978a499b8b48ee4
+  moneyType: 1
+  itemPrice: 7000
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Tr\xFAc C\u01A1 Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: -965120361382788157, guid: 258d77d48833a6446a9789683d46e715, type: 3}
+  itemType: 3
+  description: " Ng\u1ECDc b\u1ED9i \u0111\u01B0\u1EE3c luy\u1EC7n ch\u1EBF d\xE0nh
+    cho tu s\u0129 Tr\xFAc C\u01A1, ch\u1EE9a linh l\u1EF1c \u1ED5n \u0111\u1ECBnh."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 100

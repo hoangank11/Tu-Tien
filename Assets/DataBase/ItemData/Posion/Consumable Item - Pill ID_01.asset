@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f28e633a33c9394418e61be669f8e35f, type: 3}
+  m_Name: Consumable Item - Pill ID_01
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 0
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.28, y: 0.28, z: 1}
+  itemName: "B\u1EA1o Kh\xED \u0110an"
+  itemIcon: {fileID: 21300000, guid: ece4f3c87adca6349b57d6812d39c03c, type: 3}
+  itemType: 5
+  description: " B\u1EA1o Kh\xED \u0110an. \u0110an d\u01B0\u1EE3c d\xE0nh ri\xEAng
+    cho tu s\u0129 Luy\u1EC7n Kh\xED k\u1EF3. Sau khi ph\u1EE5c d\u1EE5ng, linh l\u1EF1c
+    trong \u0111an \u0111i\u1EC1n s\xF4i tr\xE0o, gia t\u0103ng l\u1EF1c c\xF4ng
+    k\xEDch trong 30 nh\u1ECBp th\u1EDF."
+  maxStackSize: 50
+  itemEffect: {fileID: 11400000, guid: ab3f5e16f8b9b0541bd19b638696b4f8, type: 2}
+  craftRecipe: []

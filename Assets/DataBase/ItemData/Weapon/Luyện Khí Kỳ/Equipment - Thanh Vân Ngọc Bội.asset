@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Thanh V\xE2n Ng\u1ECDc B\u1ED9i"
+  m_EditorClassIdentifier: 
+  saveID: 9d7492d0ee97fad4687133c644d8d568
+  moneyType: 1
+  itemPrice: 1411
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Thanh V\xE2n Ng\u1ECDc B\u1ED9i"
+  itemIcon: {fileID: -1575933160760409382, guid: 2f4b44e2212c826449ab9546070dc26f, type: 3}
+  itemType: 3
+  description: " Ng\u1ECDc b\u1ED9i xanh nh\u1EA1t \u0111\u01B0\u1EE3c luy\u1EC7n
+    t\u1EEB thanh linh ng\u1ECDc, mang kh\xED t\u1EE9c thanh m\xE1t."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 11
+    value: 20

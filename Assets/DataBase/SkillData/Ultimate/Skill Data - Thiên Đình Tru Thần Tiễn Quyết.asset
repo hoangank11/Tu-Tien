@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 728855b23a6338a4286ff4135a17e5df, type: 3}
+  m_Name: "Skill Data - Thi\xEAn \u0110\xECnh Tru Th\u1EA7n Ti\u1EC5n Quy\u1EBFt"
+  m_EditorClassIdentifier: 
+  unlockTest: 0
+  skillByName: 23
+  upgradeData:
+    cooldown: 0
+    scaleFactor:
+      physicalDamage: 1
+      elementalDamage: 1
+      effectToxicDuration: 6
+      toxicScallDmg: 1
+      toxicSlowAnimation: 0.15
+      effectIceDuration: 3
+      iceSlowAnimation: 0.3
+      effectFireDuration: 6
+      fireScaleDmg: 1
+      effectElectricDuration: 4
+      electricScaleDmg: 1
+      electricCharge: 1.5
+    skillByName: 0
+  skillName: "Thi\xEAn \u0110\xECnh Tru Th\u1EA7n Ti\u1EC5n Quy\u1EBFt"
+  level: 29
+  skillPoint: 100002
+  description: " (\u5929\u9706\u8BDB\u795E\u7BAD\u8BC0) Tu s\u0129 d\u1EABn \u0111\u1ED9ng
+    thi\xEAn t\u01B0\u1EE3ng, g\u1ECDi t\u1EDBi d\u1ECB t\u01B0\u1EE3ng v\u1EA1n
+    l\xF4i t\u1EE5 v\xE2n. H\u1EAFc v\xE2n cu\u1ED3n cu\u1ED9n nh\u01B0 thi\xEAn
+    ki\u1EBFp gi\xE1ng th\u1EBF, l\xF4i \u0111\xECnh cu\u1ED3ng b\u1EA1o x\xE9 to\u1EA1c
+    th\u01B0\u01A1ng khung. Trong kho\u1EA3nh kh\u1EAFc s\xE1t c\u01A1 h\u1ED9i t\u1EE5,
+    linh l\u1EF1c h\xF3a th\xE0nh kim s\u1EAFc l\xF4i ti\u1EC5n, mang theo uy \xE1p
+    di\u1EC7t th\u1EA7n, xuy\xEAn ph\xE1 kh\xF4ng gian, tr\u1EF1c k\xEDch b\u1EA3n
+    nguy\xEAn k\u1EBB \u0111\u1ECBch. M\u1ED9t ti\u1EC5n xu\u1EA5t \u2014 thi\xEAn
+    \u0111\u1ECBa ch\u1EA5n \u0111\u1ED9ng, v\u1EA1n ph\xE1p ti\xEAu t\xE1n."
+  icon: {fileID: 21300000, guid: a6196874f3968144c9ad0d5a814e311b, type: 3}

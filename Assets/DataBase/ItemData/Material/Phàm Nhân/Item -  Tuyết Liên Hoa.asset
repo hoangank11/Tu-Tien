@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc068ba6ea1b41468899c4b6c3c9a39, type: 3}
+  m_Name: "Item -  Tuy\u1EBFt Li\xEAn Hoa"
+  m_EditorClassIdentifier: 
+  moneyType: 0
+  itemPrice: 98
+  minStackSizeAtShop: 1
+  maxStackSizeAtShop: 10
+  itemRarity: 100
+  dropChance: 15
+  maxDropChance: 15
+  imgScale: {x: 0.15, y: 0.15, z: 1}
+  itemName: "Tuy\u1EBFt Li\xEAn Hoa"
+  itemIcon: {fileID: 21300000, guid: 260add684690b5748a9a7f22012491af, type: 3}
+  itemType: 0
+  description: " B\xF4ng hoa l\u1EDBn m\xE0u tr\u1EAFng, nhi\u1EC1u l\u1EDBp c\xE1nh
+    x\u1EBFp ch\u1ED3ng l\xEAn nhau, m\u1ECDc s\xE1t m\u1EB7t \u0111\u1EA5t."
+  maxStackSize: 99
+  itemEffect: {fileID: 0}
+  craftRecipe: []

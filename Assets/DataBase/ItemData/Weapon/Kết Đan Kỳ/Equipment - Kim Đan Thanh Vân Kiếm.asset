@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77706250c499529498a6e0bf01b9592f, type: 3}
+  m_Name: "Equipment - Kim \u0110an Thanh V\xE2n Ki\u1EBFm"
+  m_EditorClassIdentifier: 
+  saveID: 2c23cfc38fd91754593f8de731b18b0e
+  moneyType: 1
+  itemPrice: 51234
+  minStackSizeAtShop: 0
+  maxStackSizeAtShop: 0
+  itemRarity: 100
+  dropChance: 50
+  maxDropChance: 50
+  imgScale: {x: 0, y: 0, z: 0}
+  itemName: "Kim \u0110an Thanh V\xE2n Ki\u1EBFm"
+  itemIcon: {fileID: -8147090351672042144, guid: 000de04d07b64d5498b187aae9daafab, type: 3}
+  itemType: 1
+  description: " Linh ki\u1EBFm cao c\u1EA5p \u0111\u01B0\u1EE3c luy\u1EC7n t\u1EEB
+    thanh v\xE2n linh thi\u1EBFt, th\xEDch h\u1EE3p cho tu s\u0129 \u0111\xE3 k\u1EBFt
+    th\xE0nh Kim \u0110an."
+  maxStackSize: 1
+  itemEffect: {fileID: 0}
+  craftRecipe: []
+  modifiers:
+  - startType: 5
+    value: 400
+  - startType: 6
+    value: 0.15

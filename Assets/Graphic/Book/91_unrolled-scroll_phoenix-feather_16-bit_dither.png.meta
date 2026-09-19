@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 3c5af133f5dab6f428edc7bb38a677db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8164118772493630256
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_0
+  - first:
+      213: -2910270098999388737
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_1
+  - first:
+      213: -7139120048255121895
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_2
+  - first:
+      213: -6444934946834288207
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_3
+  - first:
+      213: 6838564170290502770
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_4
+  - first:
+      213: 1115753810408040851
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_5
+  - first:
+      213: 7758178526625504630
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_6
+  - first:
+      213: -5662253585179217649
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_7
+  - first:
+      213: 3663260430517415620
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_8
+  - first:
+      213: -3618473907000570127
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_9
+  - first:
+      213: -2636479915849191997
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_10
+  - first:
+      213: 7415061892423193904
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_11
+  - first:
+      213: 3416869138157817487
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_12
+  - first:
+      213: -8315562856645865152
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_13
+  - first:
+      213: 3148180666802681132
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_14
+  - first:
+      213: 6858862590623928733
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_15
+  - first:
+      213: -1547180843548993536
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_16
+  - first:
+      213: -8934088304405906654
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_17
+  - first:
+      213: 4770370740969533645
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_18
+  - first:
+      213: -2522573769839756210
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_19
+  - first:
+      213: 1729689300670102624
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_20
+  - first:
+      213: -6972616246737898398
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_21
+  - first:
+      213: -4372388273460289052
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_22
+  - first:
+      213: 7383445479227587543
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_23
+  - first:
+      213: -8008283187404837171
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_24
+  - first:
+      213: -270857802404137841
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_25
+  - first:
+      213: -6492013791701891076
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_26
+  - first:
+      213: -9129760035478666505
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_27
+  - first:
+      213: 8746351401564300908
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_28
+  - first:
+      213: 5142339548803204323
+    second: 91_unrolled-scroll_phoenix-feather_16-bit_dither_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb49aa4c6cc4170800000000000000
+      internalID: 8164118772493630256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb553b4a3c4ac97d0800000000000000
+      internalID: -2910270098999388737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91642ea0420ccec90800000000000000
+      internalID: -7139120048255121895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f07500ddfe86a0800000000000000
+      internalID: -6444934946834288207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c11ef61e577ee50800000000000000
+      internalID: 6838564170290502770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399e826dd24fb7f00800000000000000
+      internalID: 1115753810408040851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d939fe3469aab60800000000000000
+      internalID: 7758178526625504630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01f53b3d52ab61b0800000000000000
+      internalID: -5662253585179217649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2cb8e3f386d230800000000000000
+      internalID: 3663260430517415620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0630372998cdc0800000000000000
+      internalID: -3618473907000570127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6b563c77596bd0800000000000000
+      internalID: -2636479915849191997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359b65218797e660800000000000000
+      internalID: 7415061892423193904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e44e7b0682b6f20800000000000000
+      internalID: 3416869138157817487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d03eb3af299c80800000000000000
+      internalID: -8315562856645865152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25b68df2a590bb20800000000000000
+      internalID: 3148180666802681132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91da55bf239f2f50800000000000000
+      internalID: 6858862590623928733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00819f8583f478ae0800000000000000
+      internalID: -1547180843548993536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf9ef950eb30480800000000000000
+      internalID: -8934088304405906654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f7661ae2c33240800000000000000
+      internalID: 4770370740969533645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cbbf085840efcd0800000000000000
+      internalID: -2522573769839756210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c3c323147110810800000000000000
+      internalID: 1729689300670102624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264f112577a4c3f90800000000000000
+      internalID: -6972616246737898398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1e05cf7082253c0800000000000000
+      internalID: -4372388273460289052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbf2df4b84477660800000000000000
+      internalID: 7383445479227587543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce600aeedcdcd090800000000000000
+      internalID: -8008283187404837171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84fe078348bd3cf0800000000000000
+      internalID: -270857802404137841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf70ca44adbb7e5a0800000000000000
+      internalID: -6492013791701891076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28cb88e939c4180800000000000000
+      internalID: -9129760035478666505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66eaf27248416970800000000000000
+      internalID: 8746351401564300908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 91_unrolled-scroll_phoenix-feather_16-bit_dither_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e48bd803924d5740800000000000000
+      internalID: 5142339548803204323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2839285abd054e749bd7566f9f8d0c6b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_0: 8164118772493630256
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_1: -2910270098999388737
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_10: -2636479915849191997
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_11: 7415061892423193904
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_12: 3416869138157817487
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_13: -8315562856645865152
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_14: 3148180666802681132
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_15: 6858862590623928733
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_16: -1547180843548993536
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_17: -8934088304405906654
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_18: 4770370740969533645
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_19: -2522573769839756210
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_2: -7139120048255121895
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_20: 1729689300670102624
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_21: -6972616246737898398
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_22: -4372388273460289052
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_23: 7383445479227587543
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_24: -8008283187404837171
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_25: -270857802404137841
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_26: -6492013791701891076
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_27: -9129760035478666505
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_28: 8746351401564300908
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_29: 5142339548803204323
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_3: -6444934946834288207
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_4: 6838564170290502770
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_5: 1115753810408040851
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_6: 7758178526625504630
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_7: -5662253585179217649
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_8: 3663260430517415620
+      91_unrolled-scroll_phoenix-feather_16-bit_dither_9: -3618473907000570127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

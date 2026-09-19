@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: e23572aa740777547915b02868e95615
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3541629432926020821
+    second: 68_unrolled-scroll_crimson-flame_nopalette_0
+  - first:
+      213: -7925533224967125743
+    second: 68_unrolled-scroll_crimson-flame_nopalette_1
+  - first:
+      213: 3032308516120291162
+    second: 68_unrolled-scroll_crimson-flame_nopalette_2
+  - first:
+      213: 5594574614614674087
+    second: 68_unrolled-scroll_crimson-flame_nopalette_3
+  - first:
+      213: 6551971140596036693
+    second: 68_unrolled-scroll_crimson-flame_nopalette_4
+  - first:
+      213: -1782285734043778545
+    second: 68_unrolled-scroll_crimson-flame_nopalette_5
+  - first:
+      213: -2756931274397925272
+    second: 68_unrolled-scroll_crimson-flame_nopalette_6
+  - first:
+      213: 9192076161257431892
+    second: 68_unrolled-scroll_crimson-flame_nopalette_7
+  - first:
+      213: 1735505937694769460
+    second: 68_unrolled-scroll_crimson-flame_nopalette_8
+  - first:
+      213: 8294921455993247926
+    second: 68_unrolled-scroll_crimson-flame_nopalette_9
+  - first:
+      213: -4547775076521873778
+    second: 68_unrolled-scroll_crimson-flame_nopalette_10
+  - first:
+      213: -8424562432623214559
+    second: 68_unrolled-scroll_crimson-flame_nopalette_11
+  - first:
+      213: -9121994246774931972
+    second: 68_unrolled-scroll_crimson-flame_nopalette_12
+  - first:
+      213: -4695668017751807640
+    second: 68_unrolled-scroll_crimson-flame_nopalette_13
+  - first:
+      213: 6507578173141975416
+    second: 68_unrolled-scroll_crimson-flame_nopalette_14
+  - first:
+      213: -9001495629185739412
+    second: 68_unrolled-scroll_crimson-flame_nopalette_15
+  - first:
+      213: 3217442916132515010
+    second: 68_unrolled-scroll_crimson-flame_nopalette_16
+  - first:
+      213: 6622408895747689461
+    second: 68_unrolled-scroll_crimson-flame_nopalette_17
+  - first:
+      213: -3085344410872972372
+    second: 68_unrolled-scroll_crimson-flame_nopalette_18
+  - first:
+      213: 3063632769673412000
+    second: 68_unrolled-scroll_crimson-flame_nopalette_19
+  - first:
+      213: 2329795840736718667
+    second: 68_unrolled-scroll_crimson-flame_nopalette_20
+  - first:
+      213: 5369863232734991535
+    second: 68_unrolled-scroll_crimson-flame_nopalette_21
+  - first:
+      213: 6624981131991346571
+    second: 68_unrolled-scroll_crimson-flame_nopalette_22
+  - first:
+      213: 4552910091395465343
+    second: 68_unrolled-scroll_crimson-flame_nopalette_23
+  - first:
+      213: 1066464317591771969
+    second: 68_unrolled-scroll_crimson-flame_nopalette_24
+  - first:
+      213: 8325527108851133209
+    second: 68_unrolled-scroll_crimson-flame_nopalette_25
+  - first:
+      213: 8089259923248170564
+    second: 68_unrolled-scroll_crimson-flame_nopalette_26
+  - first:
+      213: -6298413952110580599
+    second: 68_unrolled-scroll_crimson-flame_nopalette_27
+  - first:
+      213: 8514685941143437841
+    second: 68_unrolled-scroll_crimson-flame_nopalette_28
+  - first:
+      213: 1131905565103612080
+    second: 68_unrolled-scroll_crimson-flame_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b506c8bca99dec0800000000000000
+      internalID: -3541629432926020821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115474ee589d20290800000000000000
+      internalID: -7925533224967125743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57edb0978ce41a20800000000000000
+      internalID: 3032308516120291162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa868d78fbe3ad40800000000000000
+      internalID: 5594574614614674087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55476ddd9074dea50800000000000000
+      internalID: 6551971140596036693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02031e519c0447e0800000000000000
+      internalID: -1782285734043778545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860c85fdc996db9d0800000000000000
+      internalID: -2756931274397925272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453e5142190d09f70800000000000000
+      internalID: 9192076161257431892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431c0e98471c51810800000000000000
+      internalID: 1735505937694769460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b85e38ad1b7d1370800000000000000
+      internalID: 8294921455993247926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ee98db9ae03e0c0800000000000000
+      internalID: -4547775076521873778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120846f4a11f51b80800000000000000
+      internalID: -8424562432623214559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdb2dd109a286180800000000000000
+      internalID: -9121994246774931972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869adba01d2a5deb0800000000000000
+      internalID: -4695668017751807640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871863eaedf8f4a50800000000000000
+      internalID: 6507578173141975416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65172fca63441380800000000000000
+      internalID: -9001495629185739412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccec251947a6ac20800000000000000
+      internalID: 3217442916132515010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb8d6cbdc587eb50800000000000000
+      internalID: 6622408895747689461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfd2cea97ae25d0800000000000000
+      internalID: -3085344410872972372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad31aea5c5348a20800000000000000
+      internalID: 3063632769673412000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f6b4e29f8155020800000000000000
+      internalID: 2329795840736718667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4999fc826958a40800000000000000
+      internalID: 5369863232734991535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d62082d39a0fb50800000000000000
+      internalID: 6624981131991346571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700be31b9f2f2f30800000000000000
+      internalID: 4552910091395465343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bdfaf75a7dcce00800000000000000
+      internalID: 1066464317591771969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be4f28bc63a8370800000000000000
+      internalID: 8325527108851133209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446c20d9a03d24070800000000000000
+      internalID: 8089259923248170564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ca51881e98798a0800000000000000
+      internalID: -6298413952110580599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1120edf20cd3a2670800000000000000
+      internalID: 8514685941143437841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 68_unrolled-scroll_crimson-flame_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e9474d1655bf00800000000000000
+      internalID: 1131905565103612080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e899cb5d137db2a43ada25837917d5c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      68_unrolled-scroll_crimson-flame_nopalette_0: -3541629432926020821
+      68_unrolled-scroll_crimson-flame_nopalette_1: -7925533224967125743
+      68_unrolled-scroll_crimson-flame_nopalette_10: -4547775076521873778
+      68_unrolled-scroll_crimson-flame_nopalette_11: -8424562432623214559
+      68_unrolled-scroll_crimson-flame_nopalette_12: -9121994246774931972
+      68_unrolled-scroll_crimson-flame_nopalette_13: -4695668017751807640
+      68_unrolled-scroll_crimson-flame_nopalette_14: 6507578173141975416
+      68_unrolled-scroll_crimson-flame_nopalette_15: -9001495629185739412
+      68_unrolled-scroll_crimson-flame_nopalette_16: 3217442916132515010
+      68_unrolled-scroll_crimson-flame_nopalette_17: 6622408895747689461
+      68_unrolled-scroll_crimson-flame_nopalette_18: -3085344410872972372
+      68_unrolled-scroll_crimson-flame_nopalette_19: 3063632769673412000
+      68_unrolled-scroll_crimson-flame_nopalette_2: 3032308516120291162
+      68_unrolled-scroll_crimson-flame_nopalette_20: 2329795840736718667
+      68_unrolled-scroll_crimson-flame_nopalette_21: 5369863232734991535
+      68_unrolled-scroll_crimson-flame_nopalette_22: 6624981131991346571
+      68_unrolled-scroll_crimson-flame_nopalette_23: 4552910091395465343
+      68_unrolled-scroll_crimson-flame_nopalette_24: 1066464317591771969
+      68_unrolled-scroll_crimson-flame_nopalette_25: 8325527108851133209
+      68_unrolled-scroll_crimson-flame_nopalette_26: 8089259923248170564
+      68_unrolled-scroll_crimson-flame_nopalette_27: -6298413952110580599
+      68_unrolled-scroll_crimson-flame_nopalette_28: 8514685941143437841
+      68_unrolled-scroll_crimson-flame_nopalette_29: 1131905565103612080
+      68_unrolled-scroll_crimson-flame_nopalette_3: 5594574614614674087
+      68_unrolled-scroll_crimson-flame_nopalette_4: 6551971140596036693
+      68_unrolled-scroll_crimson-flame_nopalette_5: -1782285734043778545
+      68_unrolled-scroll_crimson-flame_nopalette_6: -2756931274397925272
+      68_unrolled-scroll_crimson-flame_nopalette_7: 9192076161257431892
+      68_unrolled-scroll_crimson-flame_nopalette_8: 1735505937694769460
+      68_unrolled-scroll_crimson-flame_nopalette_9: 8294921455993247926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

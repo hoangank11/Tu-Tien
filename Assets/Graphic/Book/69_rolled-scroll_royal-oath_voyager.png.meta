@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 24f5678661bea6a4ea57f1c154640e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8191784735246896169
+    second: 69_rolled-scroll_royal-oath_voyager_0
+  - first:
+      213: 4595205583181122975
+    second: 69_rolled-scroll_royal-oath_voyager_1
+  - first:
+      213: -2060389732672507629
+    second: 69_rolled-scroll_royal-oath_voyager_2
+  - first:
+      213: -1005949274678191727
+    second: 69_rolled-scroll_royal-oath_voyager_3
+  - first:
+      213: -3582133778992507505
+    second: 69_rolled-scroll_royal-oath_voyager_4
+  - first:
+      213: 1233825628904737901
+    second: 69_rolled-scroll_royal-oath_voyager_5
+  - first:
+      213: 5243443094503270930
+    second: 69_rolled-scroll_royal-oath_voyager_6
+  - first:
+      213: 2696639512270936822
+    second: 69_rolled-scroll_royal-oath_voyager_7
+  - first:
+      213: 4306559624816070729
+    second: 69_rolled-scroll_royal-oath_voyager_8
+  - first:
+      213: -1700930329713351246
+    second: 69_rolled-scroll_royal-oath_voyager_9
+  - first:
+      213: -3819711957907606906
+    second: 69_rolled-scroll_royal-oath_voyager_10
+  - first:
+      213: -5750107821954348649
+    second: 69_rolled-scroll_royal-oath_voyager_11
+  - first:
+      213: 7510980310430786793
+    second: 69_rolled-scroll_royal-oath_voyager_12
+  - first:
+      213: -107833643171912438
+    second: 69_rolled-scroll_royal-oath_voyager_13
+  - first:
+      213: 7291967704110847272
+    second: 69_rolled-scroll_royal-oath_voyager_14
+  - first:
+      213: 6623657637615990402
+    second: 69_rolled-scroll_royal-oath_voyager_15
+  - first:
+      213: 7075505070823427255
+    second: 69_rolled-scroll_royal-oath_voyager_16
+  - first:
+      213: -158132961972045200
+    second: 69_rolled-scroll_royal-oath_voyager_17
+  - first:
+      213: 1549045766934985505
+    second: 69_rolled-scroll_royal-oath_voyager_18
+  - first:
+      213: -8389460343177309323
+    second: 69_rolled-scroll_royal-oath_voyager_19
+  - first:
+      213: 6212934055323931919
+    second: 69_rolled-scroll_royal-oath_voyager_20
+  - first:
+      213: -5710368760706302131
+    second: 69_rolled-scroll_royal-oath_voyager_21
+  - first:
+      213: -8664574120223547849
+    second: 69_rolled-scroll_royal-oath_voyager_22
+  - first:
+      213: -2726910342439710053
+    second: 69_rolled-scroll_royal-oath_voyager_23
+  - first:
+      213: 3427882620027870499
+    second: 69_rolled-scroll_royal-oath_voyager_24
+  - first:
+      213: -267378921531503688
+    second: 69_rolled-scroll_royal-oath_voyager_25
+  - first:
+      213: 6317367952924088521
+    second: 69_rolled-scroll_royal-oath_voyager_26
+  - first:
+      213: -514434846578569712
+    second: 69_rolled-scroll_royal-oath_voyager_27
+  - first:
+      213: -8069498506072949780
+    second: 69_rolled-scroll_royal-oath_voyager_28
+  - first:
+      213: 7501320356145267971
+    second: 69_rolled-scroll_royal-oath_voyager_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3342b6f2fe05e80800000000000000
+      internalID: -8191784735246896169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0767a12375cf30800000000000000
+      internalID: 4595205583181122975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311713d54760863e0800000000000000
+      internalID: -2060389732672507629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1999eb4e6762a02f0800000000000000
+      internalID: -1005949274678191727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8559359e44b94ec0800000000000000
+      internalID: -3582133778992507505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cc3a55fdd6f1110800000000000000
+      internalID: 1233825628904737901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21aa7d7a6b374c840800000000000000
+      internalID: 5243443094503270930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa113859536c6520800000000000000
+      internalID: 2696639512270936822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94093316929f3cb30800000000000000
+      internalID: 4306559624816070729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56fb580e41568e0800000000000000
+      internalID: -1700930329713351246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682fa944638adfac0800000000000000
+      internalID: -3819711957907606906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799473cb6638330b0800000000000000
+      internalID: -5750107821954348649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e42e262ccc5c3860800000000000000
+      internalID: 7510980310430786793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e6e37fd5e08ef0800000000000000
+      internalID: -107833643171912438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d52d0ef5423560800000000000000
+      internalID: 7291967704110847272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28677eb1785fbeb50800000000000000
+      internalID: 6623657637615990402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcc7e0df5e313260800000000000000
+      internalID: 7075505070823427255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a306ea8e23ecdf0800000000000000
+      internalID: -158132961972045200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7bf6fae05f7510800000000000000
+      internalID: 1549045766934985505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57390b36446a29b80800000000000000
+      internalID: -8389460343177309323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0592841b96c83650800000000000000
+      internalID: 6212934055323931919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ffc91fdd1b0c0b0800000000000000
+      internalID: -5710368760706302131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e580a9ebf31c780800000000000000
+      internalID: -8664574120223547849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92da88cd71182ad0800000000000000
+      internalID: -2726910342439710053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d1f7ac419429f20800000000000000
+      internalID: 3427882620027870499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb00b999441a4cf0800000000000000
+      internalID: -267378921531503688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c81a7daeaccba750800000000000000
+      internalID: 6317367952924088521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e0a9d8b3c5cd8f0800000000000000
+      internalID: -514434846578569712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebf9fddcd1630090800000000000000
+      internalID: -8069498506072949780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 69_rolled-scroll_royal-oath_voyager_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3050276ce1b0a1860800000000000000
+      internalID: 7501320356145267971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b5c9f6bda8de0d418522cfee3153508
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      69_rolled-scroll_royal-oath_voyager_0: -8191784735246896169
+      69_rolled-scroll_royal-oath_voyager_1: 4595205583181122975
+      69_rolled-scroll_royal-oath_voyager_10: -3819711957907606906
+      69_rolled-scroll_royal-oath_voyager_11: -5750107821954348649
+      69_rolled-scroll_royal-oath_voyager_12: 7510980310430786793
+      69_rolled-scroll_royal-oath_voyager_13: -107833643171912438
+      69_rolled-scroll_royal-oath_voyager_14: 7291967704110847272
+      69_rolled-scroll_royal-oath_voyager_15: 6623657637615990402
+      69_rolled-scroll_royal-oath_voyager_16: 7075505070823427255
+      69_rolled-scroll_royal-oath_voyager_17: -158132961972045200
+      69_rolled-scroll_royal-oath_voyager_18: 1549045766934985505
+      69_rolled-scroll_royal-oath_voyager_19: -8389460343177309323
+      69_rolled-scroll_royal-oath_voyager_2: -2060389732672507629
+      69_rolled-scroll_royal-oath_voyager_20: 6212934055323931919
+      69_rolled-scroll_royal-oath_voyager_21: -5710368760706302131
+      69_rolled-scroll_royal-oath_voyager_22: -8664574120223547849
+      69_rolled-scroll_royal-oath_voyager_23: -2726910342439710053
+      69_rolled-scroll_royal-oath_voyager_24: 3427882620027870499
+      69_rolled-scroll_royal-oath_voyager_25: -267378921531503688
+      69_rolled-scroll_royal-oath_voyager_26: 6317367952924088521
+      69_rolled-scroll_royal-oath_voyager_27: -514434846578569712
+      69_rolled-scroll_royal-oath_voyager_28: -8069498506072949780
+      69_rolled-scroll_royal-oath_voyager_29: 7501320356145267971
+      69_rolled-scroll_royal-oath_voyager_3: -1005949274678191727
+      69_rolled-scroll_royal-oath_voyager_4: -3582133778992507505
+      69_rolled-scroll_royal-oath_voyager_5: 1233825628904737901
+      69_rolled-scroll_royal-oath_voyager_6: 5243443094503270930
+      69_rolled-scroll_royal-oath_voyager_7: 2696639512270936822
+      69_rolled-scroll_royal-oath_voyager_8: 4306559624816070729
+      69_rolled-scroll_royal-oath_voyager_9: -1700930329713351246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

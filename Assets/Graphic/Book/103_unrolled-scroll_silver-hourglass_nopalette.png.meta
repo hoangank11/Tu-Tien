@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 5dcced1872950b647a36bac88701f197
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1060739409994765607
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_0
+  - first:
+      213: 9142685352740899131
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_1
+  - first:
+      213: 2932393529638393945
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_2
+  - first:
+      213: 5239285470897945937
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_3
+  - first:
+      213: -5211541851746444865
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_4
+  - first:
+      213: -1816084819568610065
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_5
+  - first:
+      213: 7291565946294135200
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_6
+  - first:
+      213: -7060208136928434793
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_7
+  - first:
+      213: 1040587779272697195
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_8
+  - first:
+      213: 4189389891074645753
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_9
+  - first:
+      213: -4552770341025861344
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_10
+  - first:
+      213: -3805086247719553335
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_11
+  - first:
+      213: 3461034620903800791
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_12
+  - first:
+      213: 3091345649788729554
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_13
+  - first:
+      213: 3171954439866992553
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_14
+  - first:
+      213: -6905782216830464235
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_15
+  - first:
+      213: -6216824725210166634
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_16
+  - first:
+      213: 1021947180429920202
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_17
+  - first:
+      213: -3639824541673754291
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_18
+  - first:
+      213: 1266634451528895844
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_19
+  - first:
+      213: -4770535892755558882
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_20
+  - first:
+      213: 709358705465439416
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_21
+  - first:
+      213: 814457307945865984
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_22
+  - first:
+      213: 5865943454521886681
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_23
+  - first:
+      213: 2011818632112657673
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_24
+  - first:
+      213: -2536764819532249622
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_25
+  - first:
+      213: 5899007641873799546
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_26
+  - first:
+      213: 116254419891466661
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_27
+  - first:
+      213: -8561401935275443552
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_28
+  - first:
+      213: 6382166761576949438
+    second: 103_unrolled-scroll_silver-hourglass_nopalette_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da210c602f7741f0800000000000000
+      internalID: -1060739409994765607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39c94763e751ee70800000000000000
+      internalID: 9142685352740899131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95810c3f064f1b820800000000000000
+      internalID: 2932393529638393945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dbcb9706ea5b840800000000000000
+      internalID: 5239285470897945937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9529a3c42eca7b0800000000000000
+      internalID: -5211541851746444865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe432a78a78fbc6e0800000000000000
+      internalID: -1816084819568610065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a962358898d03560800000000000000
+      internalID: 7291565946294135200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ee062b1a150e90800000000000000
+      internalID: -7060208136928434793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65692d6219e07e00800000000000000
+      internalID: 1040587779272697195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fedd1bd8e3b32a30800000000000000
+      internalID: 4189389891074645753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02138371f7f41d0c0800000000000000
+      internalID: -4552770341025861344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6b3f8c73e913bc0800000000000000
+      internalID: -3805086247719553335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfbc4e76a0180030800000000000000
+      internalID: 3461034620903800791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d83b956d7aa6ea20800000000000000
+      internalID: 3091345649788729554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ceffd1cb050c20800000000000000
+      internalID: 3171954439866992553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4c9589abb920a0800000000000000
+      internalID: -6905782216830464235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a8bfeb9d669b9a0800000000000000
+      internalID: -6216824725210166634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ccbccb8fae2e00800000000000000
+      internalID: 1021947180429920202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4179cc2ddebc7dc0800000000000000
+      internalID: -3639824541673754291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dc6af925df39110800000000000000
+      internalID: 1266634451528895844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ecd0481e6abcdb0800000000000000
+      internalID: -4770535892755558882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b43999fbf528d900800000000000000
+      internalID: 709358705465439416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00395dc3b988d4b00800000000000000
+      internalID: 814457307945865984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d70e472e74086150800000000000000
+      internalID: 5865943454521886681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9055697036a6beb10800000000000000
+      internalID: 2011818632112657673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5821546d99bccd0800000000000000
+      internalID: -2536764819532249622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79d33d223c7dd150800000000000000
+      internalID: 5899007641873799546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1333967c40d9100800000000000000
+      internalID: 116254419891466661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aab094dc4acf2980800000000000000
+      internalID: -8561401935275443552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 103_unrolled-scroll_silver-hourglass_nopalette_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb669110bd2029850800000000000000
+      internalID: 6382166761576949438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d8d09f7489a0656448215c3b78a7a83e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      103_unrolled-scroll_silver-hourglass_nopalette_0: -1060739409994765607
+      103_unrolled-scroll_silver-hourglass_nopalette_1: 9142685352740899131
+      103_unrolled-scroll_silver-hourglass_nopalette_10: -4552770341025861344
+      103_unrolled-scroll_silver-hourglass_nopalette_11: -3805086247719553335
+      103_unrolled-scroll_silver-hourglass_nopalette_12: 3461034620903800791
+      103_unrolled-scroll_silver-hourglass_nopalette_13: 3091345649788729554
+      103_unrolled-scroll_silver-hourglass_nopalette_14: 3171954439866992553
+      103_unrolled-scroll_silver-hourglass_nopalette_15: -6905782216830464235
+      103_unrolled-scroll_silver-hourglass_nopalette_16: -6216824725210166634
+      103_unrolled-scroll_silver-hourglass_nopalette_17: 1021947180429920202
+      103_unrolled-scroll_silver-hourglass_nopalette_18: -3639824541673754291
+      103_unrolled-scroll_silver-hourglass_nopalette_19: 1266634451528895844
+      103_unrolled-scroll_silver-hourglass_nopalette_2: 2932393529638393945
+      103_unrolled-scroll_silver-hourglass_nopalette_20: -4770535892755558882
+      103_unrolled-scroll_silver-hourglass_nopalette_21: 709358705465439416
+      103_unrolled-scroll_silver-hourglass_nopalette_22: 814457307945865984
+      103_unrolled-scroll_silver-hourglass_nopalette_23: 5865943454521886681
+      103_unrolled-scroll_silver-hourglass_nopalette_24: 2011818632112657673
+      103_unrolled-scroll_silver-hourglass_nopalette_25: -2536764819532249622
+      103_unrolled-scroll_silver-hourglass_nopalette_26: 5899007641873799546
+      103_unrolled-scroll_silver-hourglass_nopalette_27: 116254419891466661
+      103_unrolled-scroll_silver-hourglass_nopalette_28: -8561401935275443552
+      103_unrolled-scroll_silver-hourglass_nopalette_29: 6382166761576949438
+      103_unrolled-scroll_silver-hourglass_nopalette_3: 5239285470897945937
+      103_unrolled-scroll_silver-hourglass_nopalette_4: -5211541851746444865
+      103_unrolled-scroll_silver-hourglass_nopalette_5: -1816084819568610065
+      103_unrolled-scroll_silver-hourglass_nopalette_6: 7291565946294135200
+      103_unrolled-scroll_silver-hourglass_nopalette_7: -7060208136928434793
+      103_unrolled-scroll_silver-hourglass_nopalette_8: 1040587779272697195
+      103_unrolled-scroll_silver-hourglass_nopalette_9: 4189389891074645753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
